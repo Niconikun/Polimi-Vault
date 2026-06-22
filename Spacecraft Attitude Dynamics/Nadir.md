@@ -1,0 +1,2 @@
+#SAD #DONE
+The **Nadir** is the point on the [[Celestial Sphere]] that is directly below the observer. It is the extension of the local gravity vector (a plumb line) outward from the [[Celestial Sphere]] to the observer. By definition, the nadir has an **altitude of -90 degrees**, hence the opposite of [[Zenith]].
