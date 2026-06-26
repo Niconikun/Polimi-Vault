@@ -43,7 +43,7 @@ For a spacecraft power system or heat engine operating between a hot source (TH�
 
 _In space, TC​ is often the temperature of a radiator. To get more efficiency, you must either make the engine hotter or the radiator larger and colder._
 
-### 3. Heat Transfer Direction
+### 3. [[Heat Transfer]] Direction
 
 Heat flow (Q˙​) is always in the direction of the negative temperature gradient:
 

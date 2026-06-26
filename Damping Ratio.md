@@ -64,7 +64,7 @@ $$\zeta = \frac{c}{c_c} = \frac{c}{2\sqrt{mk}}$$
 
 ### The GNC "Sweet Spot"
 
-In spacecraft attitude control, engineers rarely aim for $\zeta = 1$ (Critical Damping) because it can be sluggish. Instead, they often aim for an **underdamped** response with $\zeta \approx 0.707$ (the "Butterworth" response). This provides a very fast [[Rise Time]] with only about **4.3% [[Overshoot]]**, which is usually an acceptable compromise.
+In spacecraft [[attitude control]], engineers rarely aim for $\zeta = 1$ (Critical Damping) because it can be sluggish. Instead, they often aim for an **underdamped** response with $\zeta \approx 0.707$ (the "Butterworth" response). This provides a very fast [[Rise Time]] with only about **4.3% [[Overshoot]]**, which is usually an acceptable compromise.
 
 ## Physical Interpretation
 

@@ -1,6 +1,6 @@
 ## Formal Definition
 
-An **Adiabatic Process** is a thermodynamic process in which there is no heat transfer (Q=0) between a system and its environment. In such a process, any work (W) done by the system comes at the expense of its **Internal Energy** (U), and any work done on the system increases its internal energy directly. In aerospace engineering, rapid processes—like the expansion of exhaust gases through a nozzle or the compression of air in a supersonic intake—are treated as adiabatic because they occur too quickly for significant heat transfer to take place.
+An **Adiabatic Process** is a thermodynamic process in which there is no [[heat transfer]] (Q=0) between a system and its environment. In such a process, any work (W) done by the system comes at the expense of its **Internal Energy** (U), and any work done on the system increases its internal energy directly. In aerospace engineering, rapid processes—like the expansion of exhaust gases through a nozzle or the compression of air in a supersonic intake—are treated as adiabatic because they occur too quickly for significant [[heat transfer]] to take place.
 
 ## Historical Development
 
@@ -96,7 +96,7 @@ Imagine pumping up a tire very quickly.
 
 ### Strengths
 
-1. **Analytical Simplicity:** By setting Q=0, the complex differential equations of heat transfer disappear, allowing for "back-of-the-envelope" thrust calculations.
+1. **Analytical Simplicity:** By setting Q=0, the complex differential equations of [[heat transfer]] disappear, allowing for "back-of-the-envelope" thrust calculations.
     
 2. **Performance Baseline:** Provides the "best-case" scenario for engine efficiency.
     

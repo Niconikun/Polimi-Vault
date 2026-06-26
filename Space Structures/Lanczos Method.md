@@ -69,7 +69,7 @@ $$
 
 ### Three-Term Recurrence Property
 
-**Symmetry exploitation:** For symmetric matrices, orthogonalization against all previous vectors reduces to orthogonalization against only the last two vectors:
+**Symmetry exploitation:** For symmetric matrices, [[orthogonalization]] against all previous vectors reduces to [[orthogonalization]] against only the last two vectors:
 $$
 \mathbf{q}_{j+1} \perp \text{span}\{\mathbf{q}_1, \ldots, \mathbf{q}_{j-1}\}
 $$
@@ -244,7 +244,7 @@ where $\gamma_1 = (\lambda_1 - \lambda_2)/(\lambda_2 - \lambda_n)$.
 2. **Computational Physics:** Many-body problems, quantum field theory
 3. **Materials Science:** Phonon spectra, electronic band structure
 4. **Statistics:** Principal component analysis for large datasets
-5. **Machine Learning:** Kernel methods, spectral clustering
+5. **[[Machine Learning]]:** Kernel methods, spectral clustering
 
 ### Practical Implementations
 - **[[Finite Element Analysis (FEA)]]:** Eigenvalue extraction in NASTRAN, ANSYS, ABAQUS

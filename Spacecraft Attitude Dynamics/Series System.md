@@ -58,7 +58,7 @@ In a series system, errors and delays accumulate.
     
 - **Phase Lag:** The total phase lag is the **sum** of individual phase lags.
     
-    In spacecraft GNC, this is critical because every sensor filter and actuator delay adds phase lag, which can eventually make a feedback loop unstable.
+    In spacecraft GNC, this is critical because every sensor filter and actuator delay adds phase lag, which can eventually make a [[feedback loop]] unstable.
     
 
 ## Physical Interpretation

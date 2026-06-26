@@ -87,7 +87,7 @@ M∈RN×N
     
 4. **Map Inputs:** Verify by moving vertically down each column to ensure all required inputs for an element are accounted for.
     
-5. **Identify Loops:** Look for patterns where Mi,j​ and Mj,i​ are both populated, indicating a feedback loop or tight coupling.
+5. **Identify Loops:** Look for patterns where Mi,j​ and Mj,i​ are both populated, indicating a [[feedback loop]] or tight coupling.
     
 
 ## Physical Interpretation

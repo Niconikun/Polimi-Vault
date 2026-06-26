@@ -104,7 +104,7 @@ Imagine a spinning flywheel.
 
 ### Spacecraft TCS
 
-1. **Battery Boxes:** Often designed with extra aluminum "meat" to provide thermal mass, smoothing out the heat generated during charge/discharge cycles.
+1. **Battery Boxes:** Often designed with extra aluminum "meat" to provide thermal mass, smoothing out the [[heat]] generated during charge/discharge cycles.
     
 2. **Optical Benches:** High thermal mass is used to prevent the rapid expansion or contraction of telescope mirrors during orbital transitions.
     

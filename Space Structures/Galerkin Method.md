@@ -100,7 +100,7 @@ In the [[Finite Element Method]] (FEM), the Galerkin method is applied with:
 
 1. **Structural Mechanics:** Stress analysis, vibration, buckling
 2. **Fluid Dynamics:** Navier-Stokes equations (often with Petrov-Galerkin stabilization)
-3. **Heat Transfer:** Conduction, convection, radiation problems
+3. **[[Heat Transfer]]:** Conduction, convection, radiation problems
 4. **Electromagnetics:** Maxwell's equations
 5. **Multiphysics Problems:** Coupled field analyses
 

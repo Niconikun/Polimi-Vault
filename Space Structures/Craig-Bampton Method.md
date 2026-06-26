@@ -221,7 +221,7 @@ From first equation: $x_i = -K_{ii}^{-1} K_{ib} x_b = \Psi_{ib} x_b$
 
 Thus exact solution captured by constraint modes alone.
 
-**Dynamic completeness:** With all fixed-interface modes included, model is exact.
+**Dynamic completeness:** With all [[fixed-interface modes]] included, model is exact.
 
 ### Error Bounds
 
@@ -708,7 +708,7 @@ $$
 - Real-time simulation applications
 - Digital twin technology
 - Uncertainty quantification
-- Machine learning enhanced reduction
+- [[Machine learning]] enhanced reduction
 
 ### Current Research Directions
 

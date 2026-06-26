@@ -172,7 +172,7 @@ $$
 1. **Vibration isolation transmissibility:** For machinery and equipment isolation
 2. **Seismic transmissibility:** For earthquake engineering and base isolation
 3. **Acoustic transmissibility:** For sound transmission through structures
-4. **Thermal transmissibility:** For heat transfer analogy (less common)
+4. **Thermal transmissibility:** For [[heat transfer]] analogy (less common)
 
 ## Derivation and Proof
 

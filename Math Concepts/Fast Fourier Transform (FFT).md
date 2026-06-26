@@ -123,7 +123,7 @@ Minimizes number of multiplications at cost of more additions:
 
 ### Scientific Computing
 1. **Solving PDEs:** Spectral methods using FFT
-2. **Molecular dynamics:** Ewald summation for electrostatic forces
+2. **[[Molecular dynamics]]:** Ewald summation for electrostatic forces
 3. **Astronomy:** Radio telescope data processing
 
 ### Audio and Music
@@ -239,7 +239,7 @@ For floating-point arithmetic with unit round-off ε:
 - Trading accuracy for reduced power consumption
 - Truncated arithmetic in FFT butterflies
 
-### Machine Learning Integration
+### [[Machine Learning]] Integration
 - Learned FFT algorithms via neural networks
 - Optimizing FFT parameters for specific data distributions
 

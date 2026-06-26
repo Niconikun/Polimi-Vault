@@ -54,9 +54,9 @@ The denominator of this fraction, $1 + G(s)H(s) = 0$, is known as the **[[Charac
 
 ### The Benefit of Feedback
 
-- **Disturbance Rejection:** If a solar storm pushes your satellite, the feedback loop "sees" the change in attitude and fires a thruster to correct it.
+- **Disturbance Rejection:** If a solar storm pushes your satellite, the [[feedback loop]] "sees" the change in attitude and fires a thruster to correct it.
     
-- **Robustness:** Even if your thruster is 10% weaker than you thought, the feedback loop will simply leave it on slightly longer until the goal is reached.
+- **Robustness:** Even if your thruster is 10% weaker than you thought, the [[feedback loop]] will simply leave it on slightly longer until the goal is reached.
     
 
 ## Physical Interpretation
@@ -90,7 +90,7 @@ Imagine you are adjusting the water temperature in a shower.
 
 ### Spacecraft GNC
 
-1. **Attitude Control:** Using Gyros/Star Trackers to keep a telescope pointed at a star.
+1. **[[Attitude Control]]:** Using Gyros/Star Trackers to keep a telescope pointed at a star.
     
 2. **Thermal Control:** Using a thermostat to pulse a heater on/off based on a temperature probe.
     

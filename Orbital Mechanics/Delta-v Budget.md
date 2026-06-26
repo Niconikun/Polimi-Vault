@@ -50,7 +50,7 @@ Typical phases include:
 ## Theoretical Framework
 
 ### $\Delta v$ as a "Currency"
-Distance is irrelevant in a vacuum; energy is the only constraint. To move from the Earth's surface to the Moon's surface requires a "payment" of approximately $15,000$ m/s. This cost remains constant regardless of whether the spacecraft is small or large, but the "price" in fuel increases exponentially for heavier payloads.
+Distance is irrelevant in a [[vacuum]]; energy is the only constraint. To move from the Earth's surface to the Moon's surface requires a "payment" of approximately $15,000$ m/s. This cost remains constant regardless of whether the spacecraft is small or large, but the "price" in fuel increases exponentially for heavier payloads.
 
 
 

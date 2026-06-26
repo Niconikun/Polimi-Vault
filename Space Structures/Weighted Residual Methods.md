@@ -239,7 +239,7 @@ $$
 - Potential flow (boundary element methods)
 - Turbulence modeling
 
-### Heat Transfer
+### [[Heat Transfer]]
 - Conduction, convection, radiation problems
 - Phase change (Stefan problems)
 

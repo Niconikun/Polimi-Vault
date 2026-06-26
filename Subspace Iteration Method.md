@@ -27,7 +27,7 @@ Given an \( n \times n \) matrix \( A \) and an initial \( n \times p \) matrix 
 
 **Iteration steps:**
 1. **Matrix multiplication:** \( W^{(k)} = A V^{(k-1)} \)
-2. **Orthogonalization:** \( V^{(k)} R^{(k)} = W^{(k)} \) (QR decomposition)
+2. **[[Orthogonalization]]:** \( V^{(k)} R^{(k)} = W^{(k)} \) (QR decomposition)
 3. **Rayleigh-Ritz projection:** Form \( H^{(k)} = (V^{(k)})^T A V^{(k)} \)
 4. **Solve reduced problem:** \( H^{(k)} Q^{(k)} = Q^{(k)} \Theta^{(k)} \)
 5. **Subspace update:** \( V^{(k)} = V^{(k)} Q^{(k)} \)
@@ -186,7 +186,7 @@ $$
 
 **[[Structural Dynamics]] analogy:** Simultaneously excite structure with multiple force patterns:
 - Each iteration applies dynamic stiffness matrix
-- Orthogonalization maintains distinct excitation patterns
+- [[Orthogonalization]] maintains distinct excitation patterns
 - Converges to true mode shapes
 
 **Frequency domain view:** Acts as parallel bandpass filter bank:
@@ -228,7 +228,7 @@ $$
 - **[[Finite Element Analysis (FEA)]]:** Extracting multiple vibration modes
 - **Control systems:** Model reduction via balanced truncation
 - **[[Signal processing]]:** Subspace-based frequency estimation
-- **Machine learning:** Principal component analysis for large datasets
+- **[[Machine learning]]:** Principal component analysis for large datasets
 - **Quantum computing:** Ground and excited state calculations
 
 ## Implementation Considerations
@@ -344,7 +344,7 @@ for j = 1 to p:
 
 ### Weaknesses
 1. **Slow convergence:** For clustered eigenvalues or interior eigenvalues
-2. **Orthogonalization cost:** Can be significant for large subspaces
+2. **[[Orthogonalization]] cost:** Can be significant for large subspaces
 3. **Initial subspace sensitivity:** Convergence depends on initial subspace
 4. **No a priori error bounds:** Difficult to predict iteration count
 5. **Locking mechanism needed:** For stopping iterations on converged vectors

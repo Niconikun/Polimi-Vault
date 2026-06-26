@@ -62,7 +62,7 @@ Flows are categorized based on their Mach number:
 
 ### Core Assumptions
 
-1. **Continuum Flow:** Assumes the gas is dense enough to be treated as a continuous fluid (not applicable in the extreme vacuum of the upper atmosphere).
+1. **Continuum Flow:** Assumes the gas is dense enough to be treated as a continuous fluid (not applicable in the extreme [[vacuum]] of the upper atmosphere).
     
 2. **Compressibility:** Below **Mach 0.3**, air is often treated as incompressible (M≈0). Above this, the change in density must be accounted for.
     

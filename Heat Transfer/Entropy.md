@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Entropy** is a thermodynamic property that quantifies the degree of disorder or randomness in a system. Macroscopically, it is defined as the integral of the heat transfer divided by the absolute temperature at which the transfer occurs (dS=dQ/T). Microscopically, following **Boltzmann's Principle**, it is proportional to the natural logarithm of the number of possible microscopic configurations (microstates) that correspond to a system's macroscopic state. In aerospace engineering, entropy serves as the "arrow of time," proving that all real-world processes—from friction in a reaction wheel to heat dissipation in a transponder—are irreversible and result in a net increase in the universe's disorder.
+**Entropy** is a thermodynamic property that quantifies the degree of disorder or randomness in a system. Macroscopically, it is defined as the integral of the [[heat transfer]] divided by the absolute temperature at which the transfer occurs (dS=dQ/T). Microscopically, following **Boltzmann's Principle**, it is proportional to the natural logarithm of the number of possible microscopic configurations (microstates) that correspond to a system's macroscopic state. In aerospace engineering, entropy serves as the "arrow of time," proving that all real-world processes—from friction in a reaction wheel to heat dissipation in a transponder—are irreversible and result in a net increase in the universe's disorder.
 
 +2
 
@@ -105,7 +105,7 @@ Imagine your workstation inside a cleanroom.
 
 ### Spacecraft Engineering
 
-1. **Propulsion Systems:** Analyzing the "Entropy Rise" in a rocket nozzle to determine the loss of thrust due to turbulence and heat transfer.
+1. **Propulsion Systems:** Analyzing the "Entropy Rise" in a rocket nozzle to determine the loss of thrust due to turbulence and [[heat transfer]].
     
 2. **Cryogenic Liquefaction:** Designing helium or nitrogen liquifiers where minimizing entropy generation is the only way to reach temperatures below 20 K.
     

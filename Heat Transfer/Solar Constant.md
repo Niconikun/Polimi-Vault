@@ -1,6 +1,6 @@
 ## Formal Definition
 
-The **Solar Constant** is the total flux of electromagnetic radiation (irradiance) from the Sun per unit area, measured on a surface perpendicular to the rays at a distance of one astronomical unit (1 AU)—approximately the mean distance from the Sun to the Earth. It represents the integrated power across the entire solar spectrum, from X-rays to radio waves, though the vast majority of the energy is concentrated in the visible and near-infrared bands. Despite its name, it is not a "true" constant, as it fluctuates slightly due to solar cycles and sunspot activity.
+The **Solar Constant** is the total flux of electromagnetic radiation (irradiance) from the Sun per unit area, measured on a surface perpendicular to the rays at a distance of one [[Astronomical Unit]] (1 AU)—approximately the mean distance from the Sun to the Earth. It represents the integrated power across the entire solar spectrum, from X-rays to radio waves, though the vast majority of the energy is concentrated in the visible and near-infrared bands. Despite its name, it is not a "true" constant, as it fluctuates slightly due to solar cycles and sunspot activity.
 
 +1
 

@@ -1,6 +1,6 @@
 ## Formal Definition
 
-A **Pulse-Width Pulse-Frequency (PWPF) Modulator** is a control device that transforms a continuous analog or multi-bit digital input into a sequence of constant-amplitude pulses. The modulator adjusts both the pulse duration (width) and the repetition rate (frequency) based on the magnitude of the input signal. In spacecraft Attitude Control Systems (ACS), PWPF modulators are used to drive reaction control thrusters, allowing them to mimic the behavior of proportional actuators. This reduces propellant consumption and provides smoother attitude control compared to standard bang-bang or PWM controllers.
+A **Pulse-Width Pulse-Frequency (PWPF) Modulator** is a control device that transforms a continuous analog or multi-bit digital input into a sequence of constant-amplitude pulses. The modulator adjusts both the pulse duration (width) and the repetition rate (frequency) based on the magnitude of the input signal. In spacecraft Attitude Control Systems (ACS), PWPF modulators are used to drive reaction control thrusters, allowing them to mimic the behavior of proportional actuators. This reduces propellant consumption and provides smoother [[attitude control]] compared to standard bang-bang or PWM controllers.
 
 ## Historical Development
 
@@ -20,7 +20,7 @@ A **Pulse-Width Pulse-Frequency (PWPF) Modulator** is a control device that tran
 
 ## Mathematical Formulation
 
-A PWPF modulator typically consists of a **first-order lag filter** (pre-filter), a **[[[[Schmitt Trigger]]]]**, and a **feedback loop**.
+A PWPF modulator typically consists of a **first-order lag filter** (pre-filter), a **[[Schmitt Trigger]]**, and a **[[feedback loop]]**.
 
 ### The [[Transfer Function]] (Internal Filter)
 

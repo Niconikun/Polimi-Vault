@@ -47,7 +47,7 @@ This results in the familiar linear form: $\Delta\dot{\mathbf{x}} = \mathbf{A}\D
 
 ### The "Operating Point"
 Linearization is like taking a magnifying glass to a circle. If you zoom in far enough on any part of the circle, it looks like a straight line. 
-- In **Attitude Control**, we often linearize around "[[Nadir]]-pointing." 
+- In **[[Attitude Control]]**, we often linearize around "[[Nadir]]-pointing." 
 - In **Orbital Mechanics**, we linearize around a "Circular Orbit."
 As long as the satellite doesn't drift too far from that "zoom-in" point, the straight-line math works perfectly.
 

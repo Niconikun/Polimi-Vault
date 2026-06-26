@@ -23,7 +23,7 @@
 
 Q˙​=hA(Ts​−T∞​)
 
-- Q˙​: Heat transfer rate (**W**).
+- Q˙​: [[Heat transfer]] rate (**W**).
     
 - h: **Convection Heat Transfer Coefficient** (W/m2⋅K).
     
@@ -71,7 +71,7 @@ _Where τ is the thermal time constant (mc/hA)._
 
 ### Why it's "Rare" in Space
 
-In a vacuum, there is no fluid to carry heat away. Therefore, h=0. This is why Newton’s Law of Cooling is usually "turned off" in your orbital thermal models, leaving only **Fourier’s Law** (Conduction) and the **Stefan-Boltzmann Law** (Radiation).
+In a [[vacuum]], there is no fluid to carry heat away. Therefore, h=0. This is why Newton’s Law of Cooling is usually "turned off" in your orbital thermal models, leaving only **Fourier’s Law** (Conduction) and the **Stefan-Boltzmann Law** (Radiation).
 
 ---
 
@@ -123,7 +123,7 @@ Imagine standing outside on a cold day.
 
 ## See Also
 
-- [[Conduction]]
+- [[Heat Conduction]]
     
 - [[Radiation]]
     

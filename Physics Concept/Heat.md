@@ -36,7 +36,7 @@ $$Q = m c \Delta T$$
 
 ### 2. The Rate Equation
 
-In thermal analysis, we focus on the **Heat Transfer Rate** ($\dot{Q}$), defined as:
+In thermal analysis, we focus on the **[[Heat Transfer]] Rate** ($\dot{Q}$), defined as:
 
 $$\dot{Q} = \frac{dQ}{dt}$$
 
@@ -50,9 +50,9 @@ $$Q - W = \Delta U$$
 
 ### Core Assumptions
 
-1. **Non-Equilibrium:** Heat transfer only occurs when a system is _not_ in thermal equilibrium.
+1. **Non-Equilibrium:** [[Heat transfer]] only occurs when a system is _not_ in thermal equilibrium.
     
-2. **Directionality:** In a closed system, the net heat transfer is always in the direction of increasing entropy (hot to cold).
+2. **Directionality:** In a closed system, the net [[heat transfer]] is always in the direction of increasing entropy (hot to cold).
     
 
 ### Governing Laws
@@ -73,7 +73,7 @@ $$Q - W = \Delta U$$
 - **Heat ($Q$):** The _process_ of energy moving from one system to another.
     
 
-In a vacuum (space), heat transfer is primarily dominated by **Thermal Radiation**, as there is no medium for conduction or convection between the spacecraft and the environment (except for internal conduction).
+In a vacuum (space), [[heat transfer]] is primarily dominated by **Thermal Radiation**, as there is no medium for conduction or convection between the spacecraft and the environment (except for internal conduction).
 
 ## Physical Interpretation
 
@@ -127,7 +127,7 @@ Imagine two buckets connected by a pipe.
     
 - [[Specific Heat Capacity]]
     
-- [[Conduction]]
+- [[Heat Conduction]]
     
 
 ## Recommended Tags:

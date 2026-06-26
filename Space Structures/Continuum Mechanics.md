@@ -181,7 +181,7 @@ $$
 
 where $\mathbf{u}$ is [[Displacement]], $\lambda, \mu$ are [[Lamé constants]].
 
-### Heat Conduction Equation
+### [[Heat Conduction]] Equation
 
 $$
 \rho c_p \dot{\theta} = \nabla \cdot (k\nabla\theta) + \boldsymbol{\sigma} : \mathbf{D} + \rho r
@@ -366,7 +366,7 @@ $$
 
 ### Extended Theories
 - Peridynamics: Non-local formulation for fracture
-- Molecular dynamics: Atomistic simulation
+- [[Molecular dynamics]]: Atomistic simulation
 - Discrete element methods: Granular materials
 - Quantum mechanics: Electronic structure effects
 
@@ -380,7 +380,7 @@ $$
 
 ### Computational Advances
 - Isogeometric analysis
-- Machine learning in constitutive modeling
+- [[Machine learning]] in constitutive modeling
 - High-performance computing for multiscale problems
 - Uncertainty quantification
 

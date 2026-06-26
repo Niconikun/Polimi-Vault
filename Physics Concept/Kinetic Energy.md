@@ -62,7 +62,7 @@ For example, in spherical coordinates, $g_{ij}$ is not the identity matrix, and 
 
 ### 3. Relativistic Definition using Einstein Notation
 
-In special relativity, the kinetic energy is defined as the total energy minus the rest energy:
+In [[special relativity]], the kinetic energy is defined as the total energy minus the rest energy:
 
 $$
 T = E - E_0 = \gamma m_0 c^2 - m_0 c^2

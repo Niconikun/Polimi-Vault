@@ -1,6 +1,6 @@
 ## Formal Definition
 
-An **Isentropic Process** is a thermodynamic process in which the **[[Entropy]]** (S) of the system remains constant (ΔS=0). For a process to be truly isentropic, it must be **[[Adiabatic Process]]** (no heat transfer to the environment) and **[[Reversible Process]]** (no internal energy losses due to friction, shocks, or dissipative effects). In aerospace engineering, the flow through a well-designed, smooth rocket nozzle is treated as isentropic to simplify the complex differential equations of fluid motion into algebraic "Isentropic Flow Relations."
+An **Isentropic Process** is a thermodynamic process in which the **[[Entropy]]** (S) of the system remains constant (ΔS=0). For a process to be truly isentropic, it must be **[[Adiabatic Process]]** (no [[heat transfer]] to the environment) and **[[Reversible Process]]** (no internal energy losses due to friction, shocks, or dissipative effects). In aerospace engineering, the flow through a well-designed, smooth rocket nozzle is treated as isentropic to simplify the complex differential equations of fluid motion into algebraic "Isentropic Flow Relations."
 
 ## Historical Development
 

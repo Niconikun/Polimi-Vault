@@ -40,7 +40,7 @@ $$
 
 ### Relativistic Definition using Einstein Notation
 
-In special relativity, the definition of momentum is modified to be consistent with the [[Lorentz Transformations]]. The relativistic momentum is given by:
+In [[special relativity]], the definition of momentum is modified to be consistent with the [[Lorentz Transformations]]. The relativistic momentum is given by:
 
 $$
 \mathbf{p} = \gamma m_0 \mathbf{v}

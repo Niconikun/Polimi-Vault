@@ -185,7 +185,7 @@ $$
 1. **Linear central difference:** For linear structural dynamics
 2. **Nonlinear central difference:** For problems with geometric/material nonlinearities
 3. **Explicit dynamics:** For wave propagation and impact problems
-4. **Molecular dynamics:** Velocity-Verlet as variant
+4. **[[Molecular dynamics]]:** Velocity-Verlet as variant
 
 ### By Implementation Approach
 1. **Standard central difference:** As described above
@@ -637,7 +637,7 @@ $$
 
 ### Current Research Directions
 
-- **Machine learning:** For adaptive time stepping and parameter selection
+- **[[Machine learning]]:** For adaptive time stepping and parameter selection
 - **Exascale computing:** For billion-element simulations
 - **Multiscale methods:** Coupling different time scales
 - **Uncertainty propagation:** Through explicit dynamics simulations

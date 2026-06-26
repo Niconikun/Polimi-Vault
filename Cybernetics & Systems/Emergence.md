@@ -33,7 +33,7 @@ The concept has deep philosophical roots but became a central topic in 20th-cent
 
 3.  **[[Synergy]] and Non-Linearity**
     *   **Description:** Emergence is a synergistic effect. It arises from **non-linear** interactions, where the combined effect of multiple agents is not a simple sum. Feedback loops amplify and stabilize these interactions, allowing new patterns to "lock in."
-    *   **Link:** [[Synergy]], [[Non-Linearity]], [[Feedback Loops]].
+    *   **Link:** [[Synergy]], [[Non-Linearity]], [[Feedback Loop]].
 
 4.  **Emergence vs. Aggregation**
     *   **Description:** It is crucial to distinguish emergent properties from mere aggregate or resultant properties.

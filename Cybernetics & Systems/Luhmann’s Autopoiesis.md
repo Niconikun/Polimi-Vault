@@ -27,8 +27,8 @@ where $f$ is the system's internal logic (e.g., legal precedent, scientific meth
 - **Cybernetic Link**: Connects to **adaptive control theory**. The environment **triggers** but does not **determine** the system's responses.
 - *Example*: The **economic system** responds to political regulations (environment) but does so through its own logic (e.g., pricing, supply/demand).
 
-1. **Functional Differentiation**:
-- **Definition**: Modern society is characterized by **functional differentiation**—distinct autopoietic systems (e.g., law, politics, economy, science) specialize in specific functions and operate according to their own logic.
+1. **[[Functional Differentiation]]**:
+- **Definition**: Modern society is characterized by **[[functional differentiation]]**—distinct autopoietic systems (e.g., law, politics, economy, science) specialize in specific functions and operate according to their own logic.
 - **Cybernetic Link**: Resonates with **[[Complex Adaptive Systems]]** (Holland, 1992). Each system reduces complexity by focusing on a single function.
 - *Implication*: The **political system** specializes in collective decision-making, while the **scientific system** specializes in truth-seeking.
 
@@ -41,7 +41,7 @@ where $f$ is the system's internal logic (e.g., legal precedent, scientific meth
    - Example: A **conversation** (communication) reproduces itself through further utterances, not through the physical presence of participants.
 
 2. **Differentiation of Social Systems**:
-   - Modern society is characterized by **functional differentiation**, where distinct autopoietic systems (e.g., law, politics, economy) specialize in specific functions.
+   - Modern society is characterized by **[[functional differentiation]]**, where distinct autopoietic systems (e.g., law, politics, economy) specialize in specific functions.
    - Example: The **political system** specializes in collective decision-making, while the **economic system** specializes in resource allocation.
 
 3. **Medium and Form**:
@@ -121,7 +121,7 @@ where $F_i$ is the system's contribution to societal complexity reduction (e.g.,
 
 ### **Key Works by Luhmann**
 1. *Social Systems* (1984) – Foundational text introducing [[Autopoiesis]] to sociology.
-2. *The Differentiation of Society* (1977) – Explores functional differentiation in modern society.
+2. *The Differentiation of Society* (1977) – Explores [[functional differentiation]] in modern society.
 3. *Art as a Social System* (1995) – Applies autopoiesis to the art world.
 4. *Law as a Social System* (1993) – Analyzes the legal system’s autopoietic nature.
 

@@ -4,8 +4,8 @@
 - **Cybernetic Link**: Extends **[[first-order cybernetics]]** (control of systems) to **second-order** (observation of observation). Aligns with **constructivist epistemology** (von Glasersfeld, 1984).
   - *Example*: A scientist studying a robot's behavior is part of the **cybernetic loop**—their observations influence the robot's adaptations (von Foerster, 1974).
 
-### 1.2. Circular Causality
-- **Definition**: Systems exhibit **circular causality**, where causes and effects form closed loops. The observer and system **co-define** each other.
+### 1.2. [[Circular Causality]]
+- **Definition**: Systems exhibit **[[circular causality]]**, where causes and effects form closed loops. The observer and system **co-define** each other.
 - **Cybernetic Link**: Resonates with **[[Autopoiesis]]** (Maturana & Varela, 1980) and **recursive feedback**. The system's behavior is **self-referential**.
   - *Formalism*: For a system $S$ and observer $O$, the interaction is:
     $$
@@ -34,7 +34,7 @@ A system $S$ is *second-order cybernetic* if:
    where $S'$ is the observed system and $O$ is the observer.
 2. Descriptions of $S$ are **relative to $O$'s distinctions**.
 
-### Axiom 2: Circular Causality
+### Axiom 2: [[Circular Causality]]
 The interaction between $S$ and $O$ forms a **closed loop**:
 $$
 \text{State}(S, t+1) = f(\text{State}(S, t), \text{Observation}(O, t)).
@@ -93,7 +93,7 @@ meaning all operations refer only to its own states.
 ## 7. Formal Summary
 Second-order cybernetics is a **reflexive, observer-dependent, and self-referential** theory where:
 1. **Observation** = **participation** in the system (no external viewpoint).
-2. **[[Cognition]]** = **circular causality** between observer and system.
+2. **[[Cognition]]** = **[[circular causality]]** between observer and system.
 3. **Knowledge** = **viable constructions** for adaptive coordination.
 
 **Key Equation**:

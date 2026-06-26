@@ -203,7 +203,7 @@ $$
 ### Computer Science
 1. **Randomized algorithms:** Expected running time analysis
 2. **[[Information theory]]:** Expected code length
-3. **Machine learning:** Expected risk minimization
+3. **[[Machine learning]]:** Expected risk minimization
 4. **Game theory:** Expected payoff in mixed strategies
 
 ## Implementation Considerations
@@ -349,7 +349,7 @@ $$
 ### Model Misspecification Error
 - **Wrong distribution:** Bias in expectation estimation
 - **Heavy tails:** Underestimation of risk
-- **Dependence:** Invalid independence assumptions
+- **[[Dependence]]:** Invalid independence assumptions
 
 ## Relationship to Other Concepts
 
@@ -361,7 +361,7 @@ $$
 
 ### Relation to Generating Functions
 - **Moment generating function:** \(M_X(t) = E[e^{tX}]\)
-- **Characteristic function:** \(\phi_X(t) = E[e^{itX}]\)
+- **[[Characteristic function]]:** \(\phi_X(t) = E[e^{itX}]\)
 - **Cumulant generating function:** \(K_X(t) = \log E[e^{tX}]\)
 
 ### Contrast with Median and Mode

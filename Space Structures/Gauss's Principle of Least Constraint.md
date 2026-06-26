@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Gauss's Principle of Least Constraint** is a fundamental [[Variational Principle]] of classical mechanics that provides a general formulation for the equations of motion of a constrained system. It states that for a system of particles subject to constraints, the actual accelerations are those that minimize a scalar quantity called the **Constraint** ($C$). Unlike d'Alembert’s principle, which is formulated in terms of [[virtual work]] and displacements, Gauss's principle is formulated directly in terms of accelerations, making it particularly powerful for developing numerical algorithms in molecular dynamics and non-holonomic systems.
+**Gauss's Principle of Least Constraint** is a fundamental [[Variational Principle]] of classical mechanics that provides a general formulation for the equations of motion of a constrained system. It states that for a system of particles subject to constraints, the actual accelerations are those that minimize a scalar quantity called the **Constraint** ($C$). Unlike d'Alembert’s principle, which is formulated in terms of [[virtual work]] and displacements, Gauss's principle is formulated directly in terms of accelerations, making it particularly powerful for developing numerical algorithms in [[molecular dynamics]] and non-holonomic systems.
 
 
 
@@ -9,12 +9,12 @@
 ### Key Milestones
 - **1829:** Carl Friedrich Gauss publishes "Über ein neues allgemeines Grundgesetz der Mechanik" (On a New General Fundamental Law of Mechanics), introducing the principle as a more fundamental alternative to d'Alembert's principle.
 - **1894:** Heinrich Hertz utilizes Gauss's principle as the cornerstone for his "Principles of Mechanics Developed in a New Form."
-- **1980s:** The principle gains significant prominence in the field of computational chemistry and molecular dynamics for the development of "Gaussian Isokinetic" and "Isobaric" ensembles.
+- **1980s:** The principle gains significant prominence in the field of computational chemistry and [[molecular dynamics]] for the development of "Gaussian Isokinetic" and "Isobaric" ensembles.
 
 ### Foundational Contributors
 1. **Carl Friedrich Gauss (1777–1855):** Formulated the principle based on an analogy to the method of least squares in statistics.
 2. **E.C.G. Stueckelberg (1905–1984):** Contributed to the formalization of the principle in modern analytical mechanics.
-3. **William G. Hoover (1936–present):** Pioneered the use of Gaussian constraints in non-equilibrium molecular dynamics.
+3. **William G. Hoover (1936–present):** Pioneered the use of Gaussian constraints in non-equilibrium [[molecular dynamics]].
 
 ## Mathematical Formulation
 
@@ -51,7 +51,7 @@ $$
 ## Theoretical Framework
 
 ### Gaussian Equations of Motion
-In molecular dynamics, the principle is used to derive equations for systems with specific thermodynamic constraints (like constant temperature). The resulting equations typically take the form:
+In [[molecular dynamics]], the principle is used to derive equations for systems with specific thermodynamic constraints (like constant temperature). The resulting equations typically take the form:
 
 $$
 m_i \mathbf{\ddot{r}}_i = \mathbf{F}_i - \zeta m_i \mathbf{\dot{r}}_i
@@ -80,7 +80,7 @@ Gauss's Principle interprets constraints as a projection problem. If you imagine
 ## Applications
 
 ### Engineering and Physics
-1. **Molecular Dynamics:** Used in NVT (constant volume/temperature) simulations via the Hoover-Evans Gaussian thermostat.
+1. **[[Molecular Dynamics]]:** Used in NVT (constant volume/temperature) simulations via the Hoover-Evans Gaussian thermostat.
 2. **Robotics:** Calculating the forces required to keep a robotic limb on a specific path when multiple joints are involved.
 3. **Computer Graphics:** Constraining particle systems or cloth simulations to follow specific surfaces realistically.
 

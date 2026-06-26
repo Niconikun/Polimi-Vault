@@ -151,7 +151,7 @@ Size and structure of Ω relate to:
 
 ### Computer Science & AI
 1. **Randomized algorithms:** Sample space of random choices
-2. **Machine learning:** Hypothesis spaces, parameter spaces
+2. **[[Machine learning]]:** Hypothesis spaces, parameter spaces
 3. **Cryptography:** Sample spaces for keys and random numbers
 
 ### Economics & Finance

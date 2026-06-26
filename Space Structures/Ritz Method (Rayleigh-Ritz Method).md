@@ -79,7 +79,7 @@ The choice of trial functions $\phi_i(x)$ is critical and depends on the problem
 1. **Structural Mechanics:** Beam [[bending]], plate vibration, buckling analysis
 2. **[[Solid Mechanics]]:** Stress analysis of complex geometries
 3. **Dynamics:** [[Natural Frequency]] and mode shape determination
-4. **Field Problems:** Heat conduction, fluid flow, electromagnetics
+4. **Field Problems:** [[Heat conduction]], fluid flow, electromagnetics
 
 ## Advantages
 

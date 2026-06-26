@@ -97,7 +97,7 @@ Lyapunov methods enable **direct design of stabilizing controllers** without lin
 ### **2. Common Lyapunov Functions for [[Attitude Control]]**
 
 #### **[[Quaternion]]-Based Control**
-For spacecraft attitude control using quaternions $\mathbf{q} = [\mathbf{q}_v, q_4]^T$, a typical Lyapunov function is:
+For spacecraft [[attitude control]] using quaternions $\mathbf{q} = [\mathbf{q}_v, q_4]^T$, a typical Lyapunov function is:
 $$
 V(\mathbf{q}_v, \boldsymbol{\omega}) = \frac{1}{2}\boldsymbol{\omega}^T\mathbf{I}\boldsymbol{\omega} + k_p\mathbf{q}_v^T\mathbf{q}_v + k_p(1 - q_4)^2
 $$

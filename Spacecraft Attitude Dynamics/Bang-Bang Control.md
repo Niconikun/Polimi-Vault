@@ -68,7 +68,7 @@ The [[Temperature]] "oscillates" between those two numbers; this is the **[[Limi
 ## Applications
 
 ### Spacecraft GNC
-1.  **RCS Attitude Control:** Maintaining pointing for the ISS or the Orion capsule.
+1.  **RCS [[Attitude Control]]:** Maintaining pointing for the ISS or the Orion capsule.
 2.  **Station Keeping:** Small "drifts" followed by "burns" to stay in an orbital slot.
 3.  **Thermal Control:** Turning heaters on and off to stay within survival temperatures.
 

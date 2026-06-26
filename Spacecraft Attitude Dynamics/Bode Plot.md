@@ -257,7 +257,7 @@ Elements with constant magnitude but varying phase:
 ### **4. Bode's Gain-Phase Relationship**
 For minimum phase systems, phase is uniquely determined by magnitude slope:
 - $-20N$ dB/decade slope → phase approaches $-90N$ degrees
-- Exact relationship: Hilbert transform between log-magnitude and phase
+- Exact relationship: [[Hilbert transform]] between log-magnitude and phase
 
 ---
 

@@ -73,7 +73,7 @@ $$
 - **Scenario**: A neural network learning to translate languages.
   - **Connectionist Interpretation**:
     - "Knowledge" of grammar is **distributed** across weights, not a rulebook.
-    - Learning is **statistical adjustment** of weights to minimize translation errors.
+    - Learning is **statistical adjustment** of weights to minimize [[translation]] errors.
   - **Cybernetic Loop**:
     $$
     \text{Input (e.g., "Hello")} \xrightarrow{W} \text{Hidden Activations} \xrightarrow{W} \text{Output (e.g., "Hola")} \xrightarrow{L} \text{[[Error Signal]]} \xrightarrow{\nabla} W.

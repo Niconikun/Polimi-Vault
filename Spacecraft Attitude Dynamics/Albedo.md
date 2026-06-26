@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Albedo** is a dimensionless measure of the reflectivity of a [[Surface|[[surfa]]ce]], defined as the ratio of reflected solar radiation to the total incident solar radiation. In the context of spacecraft engineering, it specifically refers to the fraction of sunlight reflected by a planet (or moon) back into space. For a "perfect" absorber (blackbody), the albedo is $0$, while for a "perfect" reflector, the albedo is $1$. The Earth's average albedo is approximately **0.30**, though this value fluctuates significantly based on cloud cover, ice caps, and vegetation.
+**Albedo** is a dimensionless measure of the [[reflectivity]] of a [[Surface]], defined as the ratio of reflected solar radiation to the total incident solar radiation. In the context of spacecraft engineering, it specifically refers to the fraction of sunlight reflected by a planet (or moon) back into space. For a "perfect" absorber (blackbody), the albedo is $0$, while for a "perfect" reflector, the albedo is $1$. The Earth's average albedo is approximately **0.30**, though this value fluctuates significantly based on cloud cover, ice caps, and vegetation.
 
 
 

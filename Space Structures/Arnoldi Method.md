@@ -11,7 +11,7 @@ The **Arnoldi Iteration** is a Krylov subspace method for approximating eigenval
 - **1990s:** Integration into ARPACK software package
 - **2000s:** Applications in stability analysis of fluid flows and control systems
 - **2010s:** Parallel implementations and extensions to nonlinear eigenvalue problems
-- **2020s:** Use in model order reduction and machine learning applications
+- **2020s:** Use in model order reduction and [[machine learning]] applications
 
 ### Foundational Contributors
 1. **Walter Edwin Arnoldi (1917-1995):** Developed the original algorithm
@@ -119,7 +119,7 @@ where $\mathbf{r}_m = (A - \theta I)Q_m \mathbf{y}$ is residual.
 
 ## Classification and Variants
 
-### By Orthogonalization Strategy
+### By [[Orthogonalization]] Strategy
 1. **Classical Gram-Schmidt Arnoldi:** Two passes for stability
 2. **Modified Gram-Schmidt Arnoldi:** Standard approach
 3. **Householder Arnoldi:** Most stable but more expensive
@@ -199,7 +199,7 @@ $$
 
 **Starting vector $\mathbf{q}_1$:** Initial excitation pattern in system
 **Matrix multiplication $A\mathbf{q}_k$:** System response to excitation
-**Orthogonalization:** Remove components already observed in previous responses
+**[[Orthogonalization]]:** Remove components already observed in previous responses
 
 **Control theory analogy:** Like exciting system with specific input and observing outputs to identify modes.
 

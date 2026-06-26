@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Actuator Saturation** is a non-linear phenomenon that occurs when the control signal commanded by the flight computer exceeds the physical capabilities of the hardware (actuators). Every physical device has a maximum output—a reaction wheel has a maximum RPM, a thruster has a maximum Newtons of force, and a magnetic torquer has a maximum dipole moment. Once this limit is reached, any further increase in the commanded signal results in no additional physical effect, effectively "breaking" the linear feedback loop and potentially leading to [[Integrator Windup]] and system instability.
+**Actuator Saturation** is a non-linear phenomenon that occurs when the control signal commanded by the flight computer exceeds the physical capabilities of the hardware (actuators). Every physical device has a maximum output—a reaction wheel has a maximum RPM, a thruster has a maximum Newtons of force, and a magnetic torquer has a maximum dipole moment. Once this limit is reached, any further increase in the commanded signal results in no additional physical effect, effectively "breaking" the linear [[feedback loop]] and potentially leading to [[Integrator Windup]] and system instability.
 
 
 
@@ -57,7 +57,7 @@ This mismatch is what causes the **[[State Observer]]** to diverge, as the "Virt
 ## Physical Interpretation
 
 ### The "Volume Knob" Analogy
-Imagine you are listening to a radio. You turn the volume knob (the Controller) to 10. The speakers (the Actuators) play at full volume. If you force the knob to 11, 12, or 20, the music doesn't get any louder—it just starts to distort. In a spacecraft, that "distortion" manifests as overshoots, wobbles, or a total loss of attitude control.
+Imagine you are listening to a radio. You turn the volume knob (the Controller) to 10. The speakers (the Actuators) play at full volume. If you force the knob to 11, 12, or 20, the music doesn't get any louder—it just starts to distort. In a spacecraft, that "distortion" manifests as overshoots, wobbles, or a total loss of [[attitude control]].
 
 ## Advantages and Limitations
 

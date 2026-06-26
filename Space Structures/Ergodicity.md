@@ -125,7 +125,7 @@ Non-ergodic behavior appears in:
 ### Physics & Chemistry
 1. **Statistical Mechanics:** Foundation of equilibrium statistical mechanics
 2. **Thermodynamics:** Justifies ergodic hypothesis for heat and work calculations
-3. **Molecular Dynamics:** Validates simulation sampling techniques
+3. **[[Molecular Dynamics]]:** Validates simulation sampling techniques
 
 ### Mathematics
 1. **Number Theory:** Ergodic theory applied to Diophantine approximation

@@ -268,7 +268,7 @@ Numerical schemes must preserve well-posedness:
 - Buckling and stability
 - Vibration and dynamics
 
-### Heat Transfer
+### [[Heat Transfer]]
 - Steady-state [[Temperature]] distribution
 - Transient thermal analysis
 - Phase change problems

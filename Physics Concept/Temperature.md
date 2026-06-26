@@ -1,7 +1,7 @@
 #Physics-Concept 
 ## Formal Definition
 
-**Temperature** ($T$) is an intensive physical property that quantitatively expresses the concept of hot and cold. Microscopically, it is a measure of the average kinetic energy of the random motions (translations, rotations, and vibrations) of the atoms and molecules within a substance. In a thermodynamic sense, temperature is the variable that determines the direction of spontaneous heat flow; two systems are in **thermal equilibrium** if and only if they are at the same temperature. For spacecraft analysis, temperature is almost exclusively measured using the **Kelvin (K)** absolute scale, as it is a fundamental parameter in the Stefan-Boltzmann law governing deep-space radiation.
+**Temperature** ($T$) is an intensive physical property that quantitatively expresses the concept of hot and cold. Microscopically, it is a measure of the average kinetic energy of the random motions (translations, rotations, and vibrations) of the atoms and molecules within a substance. In a thermodynamic sense, temperature is the variable that determines the direction of spontaneous [[heat]] flow; two systems are in **thermal equilibrium** if and only if they are at the same temperature. For spacecraft analysis, temperature is almost exclusively measured using the **Kelvin (K)** absolute scale, as it is a fundamental parameter in the Stefan-Boltzmann law governing deep-space radiation.
 
 ## Historical Development
 

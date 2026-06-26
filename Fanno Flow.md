@@ -53,7 +53,7 @@ D4fL∗​=γM21−M2​+2γγ+1​ln[2+(γ−1)M2(γ+1)M2​]
 
 1. **Constant Area:** The pipe does not get wider or narrower (A=constant).
     
-2. **[[Adiabatic Process]]:** There is no heat transfer across the pipe walls (Q=0).
+2. **[[Adiabatic Process]]:** There is no [[heat transfer]] across the pipe walls (Q=0).
     
 3. **Steady Flow:** The mass flow rate remains constant throughout the duct.
     
@@ -101,7 +101,7 @@ Imagine a long hallway.
 
 - [[Choked Flow]]
     
-- [[Rayleigh Flow]] (Flow with heat transfer)
+- [[Rayleigh Flow]] (Flow with [[heat transfer]])
     
 - [[Mach Number]]
     

@@ -251,7 +251,7 @@ $$
 
 **Dashpot model:** Consists of piston moving through viscous fluid:
 - Force proportional to velocity: \( F = c v \)
-- Energy dissipated as heat in fluid
+- Energy dissipated as [[heat]] in fluid
 - Analogous to electrical resistor: \( V = R I \)
 
 **Spring-damper systems:** Parallel or series combinations:

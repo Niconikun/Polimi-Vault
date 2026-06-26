@@ -107,7 +107,7 @@ Imagine two sponges of the same size.
 
 1. **Battery Boxes:** Often made of thick aluminum to provide high thermal mass ($m \cdot c$) to smooth out the heat spikes during charging/discharging.
     
-2. **Phase Change Materials (PCM):** Using waxes with high effective specific heat to protect sensitive instruments during high-power operations.
+2. **Phase Change Materials (PCM):** Using waxes with high effective specific [[heat]] to protect sensitive instruments during high-power operations.
     
 3. **Ablative Heat Shields:** Using materials that absorb massive amounts of heat (via $c$ and then decomposition) to protect a re-entry vehicle.
     

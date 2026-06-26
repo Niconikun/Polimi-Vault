@@ -92,7 +92,7 @@ Imagine a hallway full of people (energy).
 
 ### Strengths
 
-1. **Passive Management:** By choosing the right material, you can "steer" heat toward radiators without using pumps or fans.
+1. **Passive Management:** By choosing the right material, you can "steer" [[heat]] toward radiators without using pumps or fans.
     
 2. **Structural Multi-tasking:** Aluminum is chosen for satellite buses because it provides both structural strength and excellent k for thermal leveling.
     

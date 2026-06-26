@@ -5,7 +5,7 @@
 ## Historical Development
 
 ### Key Milestones
-- **1807:** Joseph Fourier proposes [[Fourier series]] for heat equation solutions
+- **1807:** Joseph Fourier proposes [[Fourier series]] for [[heat]] equation solutions
 - **1895:** Arthur Schuster introduces periodogram analysis for studying hidden periodicities
 - **1930:** Norbert Wiener develops generalized [[harmonic analysis]] and autocorrelation theory
 - **1949:** John Tukey introduces the "spectrum" terminology

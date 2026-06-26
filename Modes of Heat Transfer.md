@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Modes of Heat Transfer** refers to the three fundamental processes—**Conduction**, **Convection**, and **Radiation**—through which thermal energy is exchanged between systems. In the context of a vacuum environment (space), heat transfer is characterized by the total absence of natural convection and the absolute dominance of radiation for external exchange. Internally, conduction remains the primary method for moving heat from electronic components to structural heat sinks or radiators.
+**Modes of Heat Transfer** refers to the three fundamental processes—**Conduction**, **Convection**, and **Radiation**—through which thermal energy is exchanged between systems. In the context of a vacuum environment (space), [[heat transfer]] is characterized by the total absence of natural convection and the absolute dominance of radiation for external exchange. Internally, conduction remains the primary method for moving heat from electronic components to structural heat sinks or radiators.
 
 ## The Three Modes
 
@@ -23,7 +23,7 @@
 
 - **Physics:** Governed by **Newton’s Law of Cooling**.
     
-- **Spacecraft Role:** In the vacuum of space, **natural convection is zero** because there is no air and no buoyancy in microgravity. Forced convection is only used in pressurized modules (like the ISS) or in liquid-loop cooling systems.
+- **Spacecraft Role:** In the [[vacuum]] of space, **natural convection is zero** because there is no air and no buoyancy in microgravity. Forced convection is only used in pressurized modules (like the ISS) or in liquid-loop cooling systems.
     
 - **Key Variable:** Heat Transfer Coefficient ($h$).
     

@@ -20,7 +20,7 @@ A **Molniya Orbit** is a type of highly [[elliptical orbit]] (HEO) characterized
 ## Mathematical Formulation
 
 ### The Critical [[Inclination]]
-The primary mathematical driver of the Molniya orbit is the elimination of the **apsidal drift** caused by the Earth's oblateness ($J_2$). The rate of change of the [[argument of periapsis]] ($\dot{\omega}$) is:
+The primary mathematical driver of the Molniya orbit is the elimination of the **apsidal drift** caused by the Earth's oblateness ($J_2$). The rate of change of the [[Argument of Periapsis]] ($\dot{\omega}$) is:
 
 $$\dot{\omega} = \frac{3nJ_2R^2}{4a^2(1-e^2)^2} (4 - 5\sin^2 i)$$
 

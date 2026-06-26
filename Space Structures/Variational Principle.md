@@ -339,7 +339,7 @@ Modern FEM software often uses variational principles internally:
 - [[Calculus of Variations]]
 - [[Principle of Minimum Potential Energy]]
 - [[Hamilton's Principle]]
-- [[Virtual Work Principle]]
+- [[Principle of Virtual Work]]
 - [[Finite Element Method]]
 - [[Weak Form (Variational Form)]]
 - [[Euler-Lagrange Equations]]

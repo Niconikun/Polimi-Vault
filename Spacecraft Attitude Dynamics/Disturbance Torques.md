@@ -68,7 +68,7 @@ If you were trying to balance a pencil on your finger while people constantly bl
 
 ### Strengths (Harnessing Disturbances)
 1. **Passive Stabilization:** Gravity gradients can be used to keep a satellite pointing at Earth for decades without using any fuel.
-2. **Solar Sailing:** SRP can be used as a primary propulsion and attitude control method (e.g., IKAROS mission).
+2. **Solar Sailing:** SRP can be used as a primary propulsion and [[attitude control]] method (e.g., IKAROS mission).
 
 ### Limitations
 1. **Momentum Build-up:** Disturbance torques cause reaction wheels to spin faster and faster (saturation), eventually requiring a "momentum dump."

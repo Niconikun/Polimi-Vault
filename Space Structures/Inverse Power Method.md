@@ -251,7 +251,7 @@ Since \( \left| \frac{\lambda_1 - \sigma}{\lambda_i - \sigma} \right| < 1 \) for
 - **[[Finite Element Analysis (FEA)]]:** Extracting specific vibration modes
 - **Control systems:** [[Pole placement]] and stability margin calculation
 - **[[Signal processing]]:** Frequency estimation in spectral analysis
-- **Machine learning:** Principal component analysis for specific components
+- **[[Machine learning]]:** Principal component analysis for specific components
 - **Computational chemistry:** Excited state calculations
 
 ## Implementation Considerations

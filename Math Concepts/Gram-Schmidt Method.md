@@ -5,7 +5,7 @@ The **Gram-Schmidt Process** is an algorithm for orthogonalizing a set of linear
 ## Historical Development
 
 ### Key Milestones
-- **1883:** J.P. Gram publishes the orthogonalization method in the context of least squares problems
+- **1883:** J.P. Gram publishes the [[orthogonalization]] method in the context of least squares problems
 - **1907:** Erhard Schmidt rediscovers the method while studying integral equations
 - **1950s:** Algorithm recognized as fundamental to numerical linear algebra
 - **1960s:** Development of modified Gram-Schmidt for improved numerical stability
@@ -15,7 +15,7 @@ The **Gram-Schmidt Process** is an algorithm for orthogonalizing a set of linear
 - **2000s:** Applications in signal processing and machine learning
 
 ### Foundational Contributors
-1. **Jørgen Pedersen Gram (1850-1916):** First described the orthogonalization process in "On Series Development Using the Least Squares Method"
+1. **Jørgen Pedersen Gram (1850-1916):** First described the [[orthogonalization]] process in "On Series Development Using the Least Squares Method"
 2. **Erhard Schmidt (1876-1959):** Independently developed the method in the context of Hilbert spaces
 3. **Alston Scott Householder (1904-1993):** Analyzed numerical stability aspects
 4. **James H. Wilkinson (1919-1986):** Provided detailed error analysis for numerical implementations
@@ -121,7 +121,7 @@ $$
 **Matrix factorization viewpoint:** Gram-Schmidt is one method to compute QR decomposition:
 - $Q$ matrix: orthonormal vectors from Gram-Schmidt
 - $R$ matrix: coefficients from projection steps
-- $A = QR$ provides both orthogonalization and triangularization
+- $A = QR$ provides both [[orthogonalization]] and triangularization
 
 ### Numerical Stability Analysis
 

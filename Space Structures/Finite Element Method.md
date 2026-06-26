@@ -105,7 +105,7 @@ $$ \mathbf{k}^e = \int_{\Omega^e} \mathbf{B}^{eT} \mathbf{D}^e \mathbf{B}^e \, d
 ### 1. Lagrangian Elements
 - **Basis:** Lagrange polynomials
 - **Continuity:** C⁰ continuous
-- **Applications:** Heat transfer, potential flow
+- **Applications:** [[Heat transfer]], potential flow
 
 ### 2. Hermitian Elements
 - **Basis:** Hermite polynomials
@@ -158,7 +158,7 @@ $$ \mathbf{k}^e = \int_{\Omega^e} \mathbf{B}^{eT} \mathbf{D}^e \mathbf{B}^e \, d
 - Stress analysis, vibration, buckling, contact
 
 ### Field Problems
-- Heat transfer, fluid dynamics, electromagnetics
+- [[Heat transfer]], fluid dynamics, electromagnetics
 
 ### Multiphysics
 - Thermo-mechanical, fluid-structure interaction, piezoelectric

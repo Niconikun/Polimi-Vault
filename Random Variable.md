@@ -16,7 +16,7 @@ A **Random Variable** (RV) is a measurable function \(X: \Omega \to \mathbb{R}\)
 - **1940s-50s:** Development of rigorous theory for stochastic processes and random functions
 - **1960s:** Formalization of martingales and conditional expectations
 - **1970s-80s:** Random variable theory extended to Banach and Hilbert spaces
-- **1990s-present:** Applications in machine learning, finance, and complex systems
+- **1990s-present:** Applications in [[machine learning]], finance, and complex systems
 
 ### Foundational Contributors
 1. **Jacob Bernoulli (1655-1705):** Early work on random quantities and expectation

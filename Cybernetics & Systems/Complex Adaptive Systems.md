@@ -24,7 +24,7 @@ A **Complex Adaptive System (CAS)** is a framework for understanding a specific 
         *   [[Holism]] - "The whole is greater than the sum of its parts."
         *   [[Reductionism]] - Its limitations in understanding CAS.
 
-4.  **Adaptation and Learning (The Feedback Loop)**
+4.  **Adaptation and Learning (The [[Feedback Loop]])**
     *   **Description:** Agents accumulate experience over [[time]]. They have goals (e.g., survive, make a profit) and use **feedback** from the environment to change their internal models and rules to perform better. This is the "Adaptive" part of CAS. This process is continuous and dynamic.
     *   **Link:** This is the core cybernetic principle of [[Feedback Loop]], specifically a combination of [[Balancing Feedback Loop]] (seeking stability) and [[Reinforcing Feedback Loop]] (leading to growth or runaway effects).
 
@@ -38,7 +38,7 @@ A **Complex Adaptive System (CAS)** is a framework for understanding a specific 
 
 #### The Cybernetic Perspective
 
-From a cybernetic viewpoint, a CAS is a perfect embodiment of **circular causality**. The system's output (its emergent state) feeds back as input, influencing the agents' future actions. This creates a perpetual process of [[Regulation]] (maintaining stability) and [[Adaptation]] (changing to meet new challenges). The system is engaged in a continuous dance of perceiving its environment, acting, and learning from the consequences, which aligns with the concept of a [[Learning System]].
+From a cybernetic viewpoint, a CAS is a perfect embodiment of **[[circular causality]]**. The system's output (its emergent state) feeds back as input, influencing the agents' future actions. This creates a perpetual process of [[Regulation]] (maintaining stability) and [[Adaptation]] (changing to meet new challenges). The system is engaged in a continuous dance of perceiving its environment, acting, and learning from the consequences, which aligns with the concept of a [[Learning System]].
 
 #### Examples of Complex Adaptive Systems
 

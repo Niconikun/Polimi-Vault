@@ -1,7 +1,7 @@
 ## 1. Core Tenets
 ### 1.1. Operational Closure
 - **Definition**: A system is **autopoietic** if it **continuously produces its own components** and organizational boundaries through recursive interactions. The system is **operationally closed**—its processes refer only to itself.
-- **Cybernetic Link**: Aligns with **[[Second-Order Cybernetics]]** (von Foerster, 1974) and **circular causality**. The system’s identity is maintained through **self-referential** processes.
+- **Cybernetic Link**: Aligns with **[[Second-Order Cybernetics]]** (von Foerster, 1974) and **[[circular causality]]**. The system’s identity is maintained through **self-referential** processes.
   - *Example*: A cell’s membrane is both a **product** of its internal processes and a **boundary** that enables those processes (Maturana & Varela, 1980).
 
 ### 1.2. Self-Production (Autopoiesis)
@@ -63,7 +63,7 @@ where $\theta$ is the threshold for maintaining operational closure.
 ## 4. Contrast with Other Theories of [[Cognition]]
 | **Theory**               | **Relation to Autopoiesis**                                                                               |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
-| **Classical Cognitive Science** | Conflicts: Autopoiesis rejects **disembodied computation** and **representationalism**.                   |
+| **Classical Cognitive Science** | Conflicts: Autopoiesis rejects **disembodied computation** and **[[representationalism]]**.                   |
 | **Connectionism**        | Partial overlap: Both involve **dynamic systems**, but autopoiesis requires **self-production of components**. |
 | **[[Embodied Cognition]]**   | Compatible: Both emphasize the **body’s role**, but autopoiesis focuses on **self-maintenance**.          |
 | **[[Enactivism]]**           | Compatible: [[Enactivism]] extends autopoiesis to **sense-making** and **precariousness**.                     |

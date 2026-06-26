@@ -512,7 +512,7 @@ Each peak corresponds to a [[Natural Frequency]], peak width relates to damping,
 2. **1900-1950:** Experimental methods development
 3. **1960-1980:** Computational methods (FEM), modal testing standardization
 4. **1990-2010:** Operational modal analysis, stochastic methods
-5. **2010-present:** Digital twins, machine learning applications, real-time monitoring
+5. **2010-present:** Digital twins, [[machine learning]] applications, real-time monitoring
 
 ### Modern Reformulations
 

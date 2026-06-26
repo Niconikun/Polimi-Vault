@@ -41,7 +41,7 @@ Q=ϵσAT4
 
 ### 2. Net Heat Exchange
 
-In orbit, a satellite emits radiation to space and absorbs radiation from the environment. The net radiative heat transfer (Q˙​net​) between a surface and its surroundings is:
+In orbit, a satellite emits radiation to space and absorbs radiation from the environment. The net radiative [[heat transfer]] (Q˙​net​) between a surface and its surroundings is:
 
 Q˙​net​=ϵσA(Tsurface4​−Tsurroundings4​)
 

@@ -200,7 +200,7 @@ where $D = \frac{1}{2}c\dot{x}^2$ and $Q = F(t)$ yields the same equation.
 - Determines stiffness and oscillation frequency
 
 **Damper (c):**
-- Dissipates energy as heat
+- Dissipates energy as [[heat]]
 - Provides velocity-dependent resistance
 - Controls decay rate and system damping
 

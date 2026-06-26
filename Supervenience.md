@@ -63,7 +63,7 @@ In the context of [[Complex Adaptive Systems]], we can say that the system's glo
 *   **Mind-Brain:** The mental supervenes on the physical. Your belief that "snow is white," your feeling of pain, and your desires are all dependent on the states of your neurons.
 *   **Biology:** The property of being "alive" supervenes on the complex biochemical processes of an organism.
 *   **Social:** The economic value of a dollar bill supervenes on a complex set of social conventions, agreements, and printing patterns, not on the physical paper itself.
-*   **Computing:** The software (the program's behavior) supervenes on the hardware (the states of the transistors).
+*   **Computing:** The software (the program's behavior) supervenes on the hardware (the states of the [[transistors]]).
 
 #### In Practice / Key Takeaways
 

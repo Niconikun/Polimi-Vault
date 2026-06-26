@@ -25,7 +25,7 @@ In physics, invariance is a fundamental principle stating that the laws of natur
 
 *   **Form Invariance (or [[Covariance]]):** The mathematical *form* of a physical law is preserved under a transformation. If a law is written as $\mathcal{L}(\phi, \partial \phi) = 0$ in one frame, it will be written as $\mathcal{L}(\phi', \partial' \phi') = 0$ in the transformed frame. The [[Functional]] form of the [[Lagrangian]] or the differential equation is the same.
 
-*   **Numerical Invariance:** A specific measurable quantity remains unchanged when calculated before and after a transformation. This is the most direct type of invariance. For example, the spacetime interval in special relativity is numerically invariant under [[Lorentz Transformations]].
+*   **Numerical Invariance:** A specific measurable quantity remains unchanged when calculated before and after a transformation. This is the most direct type of invariance. For example, the spacetime interval in [[special relativity]] is numerically invariant under [[Lorentz Transformations]].
 
 **4. Classification by Transformation Type**
 
@@ -37,7 +37,7 @@ The concept of invariance is always defined relative to a specific group of tran
 
 *   **Temporal Invariance:** The system or law is unchanged under a translation in time, $t \to t + \tau$.
 
-*   **Lorentz Invariance:** The law is unchanged under a Lorentz transformation (a rotation or boost in spacetime). This is a foundational principle of Special Relativity.
+*   **Lorentz Invariance:** The law is unchanged under a Lorentz transformation (a rotation or boost in spacetime). This is a foundational principle of [[Special Relativity]].
 
 *   **Gauge Invariance:** The physical law is unchanged under a local transformation of the fields (a *gauge transformation*). This is a cornerstone of modern quantum field theories like the Standard Model.
 

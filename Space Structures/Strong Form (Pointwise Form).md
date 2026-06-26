@@ -110,7 +110,7 @@ $$
 
 Requires: $\mathbf{u} \in C^2(\Omega) \cap C^1(\overline{\Omega})$
 
-### 3. Heat Conduction Equation
+### 3. [[Heat Conduction]] Equation
 
 **Strong form:**
 $$
@@ -234,7 +234,7 @@ Enforce $\mathcal{L}u_N = f$ in strong form.
 
 **Examples:**
 - Stress equilibrium: $\nabla \cdot \boldsymbol{\sigma} + \mathbf{b} = \mathbf{0}$ at every point
-- Heat balance: $\rho c_p \dot{T} = \nabla \cdot (k\nabla T) + Q$ at every point
+- [[Heat]] balance: $\rho c_p \dot{T} = \nabla \cdot (k\nabla T) + Q$ at every point
 
 ### Conservation Laws in Strong Form
 

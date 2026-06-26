@@ -7,7 +7,7 @@ The **Fourier Transform** is a mathematical operation that decomposes a function
 ## Historical Development
 
 ### Key Milestones
-- **1807:** Joseph Fourier presents his work on heat conduction, introducing the concept of representing functions as trigonometric series
+- **1807:** Joseph Fourier presents his work on [[heat conduction]], introducing the concept of representing functions as trigonometric series
 - **1822:** Fourier publishes "Théorie Analytique de la Chaleur," formalizing [[Fourier series]]
 - **1880s:** Oliver Heaviside develops operational calculus, laying groundwork for transform methods
 - **1915:** Norbert Wiener extends Fourier analysis to generalized harmonic analysis

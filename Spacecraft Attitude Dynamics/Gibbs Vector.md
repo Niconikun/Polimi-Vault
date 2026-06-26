@@ -67,7 +67,7 @@ You can visualize the Gibbs vector as a **stereographic projection** of a rotati
 
 ## Applications
 
-### Spacecraft Attitude Control
+### Spacecraft [[Attitude Control]]
 1. **Attitude Estimation:** Used in Kalman Filters where a 3-component state vector is easier to manage than a 4-component [[Quaternion]].
 2. **Small-Angle Pointing:** Ideal for satellites that stay "near" an equilibrium (like [[Nadir]]-pointing) where the $180^\circ$ singularity is never reached.
 3. **Computer Vision:** Often used in robotics to describe the orientation of a camera relative to a target.

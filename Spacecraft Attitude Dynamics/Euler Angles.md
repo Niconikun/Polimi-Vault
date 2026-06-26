@@ -47,7 +47,7 @@ $$
 ## Theoretical Framework
 
 ### Proper Euler Angles vs. Tait-Bryan Angles
-- **Proper Euler Angles:** The first and third axes are the same (e.g., $z-x-z$ or $y-z-y$). Commonly used in physics and molecular dynamics.
+- **Proper Euler Angles:** The first and third axes are the same (e.g., $z-x-z$ or $y-z-y$). Commonly used in physics and [[molecular dynamics]].
 - **Tait-Bryan Angles:** All three axes are different (e.g., $x-y-z$ or $z-y-x$). These are the Roll, Pitch, and Yaw used in aerospace.
 
 

@@ -19,7 +19,7 @@ An **Isothermal Process** is a thermodynamic process in which the temperature (T
 
 1. **Robert Boyle:** Established the inverse relationship between pressure and volume at a constant temperature.
     
-2. **Sadi Carnot:** Proved that isothermal heat transfer is the most efficient way to move energy into a heat engine.
+2. **Sadi Carnot:** Proved that isothermal [[heat transfer]] is the most efficient way to move energy into a heat engine.
     
 
 ---

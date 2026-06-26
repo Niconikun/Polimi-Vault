@@ -290,7 +290,7 @@ Use same basis functions for geometry and solution, often with higher continuity
 
 ## See Also
 
-- [[Strong Form of Differential Equations]]
+- [[Strong Form (Pointwise Form)]]
 - [[Galerkin Method]]
 - [[Finite Element Method Fundamentals]]
 - [[Sobolev Spaces]]

@@ -7,7 +7,7 @@ A **Frozen Orbit** is a specialized trajectory where the long-term averages of c
 ## Historical Development
 
 ### Key Milestones
-- **1950s:** Early satellite observers note that the Earth's oblateness ($J_2$) causes the [[argument of periapsis]] to rotate.
+- **1950s:** Early satellite observers note that the Earth's oblateness ($J_2$) causes the [[Argument of Periapsis]] to rotate.
 - **1960s:** Mathematical discovery of "critical inclinations" ($63.4^\circ$ and $116.6^\circ$) where the perigee does not rotate.
 - **1970s:** The concept of "frozen" [[Eccentricity]] and [[Argument of Periapsis]] is formalized to allow satellites to maintain constant altitudes over specific latitudes.
 - **1978:** SEASAT becomes one of the first Earth-observation missions to utilize a frozen orbit for consistent radar altimetry.
@@ -19,7 +19,7 @@ A **Frozen Orbit** is a specialized trajectory where the long-term averages of c
 ## Mathematical Formulation
 
 ### The Frozen Condition
-For an orbit to be frozen, the rate of change of the [[argument of periapsis]] ($\dot{\omega}$) and the rate of change of [[Eccentricity]] ($\dot{e}$) must be zero:
+For an orbit to be frozen, the rate of change of the [[Argument of Periapsis]] ($\dot{\omega}$) and the rate of change of [[Eccentricity]] ($\dot{e}$) must be zero:
 
 $$\dot{\omega} = 0, \quad \dot{e} = 0$$
 
@@ -47,7 +47,7 @@ $$e_{frozen} \approx -\frac{J_3 R \sin i}{2 J_2 a (1-e^2)}$$
 ## Theoretical Framework
 
 ### The $e-\omega$ Phase Space
-If you plot [[Eccentricity]] versus the [[argument of periapsis]], most orbits trace a circular or elliptical path around a central point. A **Frozen Orbit** is the "stationary point" at the center of that plot. For Earth, this point is usually found at $\omega = 90^\circ$ (perigee over the North Pole) or $\omega = 270^\circ$ (perigee over the South Pole).
+If you plot [[Eccentricity]] versus the [[Argument of Periapsis]], most orbits trace a circular or elliptical path around a central point. A **Frozen Orbit** is the "stationary point" at the center of that plot. For Earth, this point is usually found at $\omega = 90^\circ$ (perigee over the North Pole) or $\omega = 270^\circ$ (perigee over the South Pole).
 
 
 

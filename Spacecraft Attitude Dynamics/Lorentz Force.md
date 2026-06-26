@@ -45,7 +45,7 @@ where:
    - In **crossed electric and magnetic fields** (e.g., $\mathbf{E} \perp \mathbf{B}$), the particle follows a **trochoidal or drift motion**.
 
 3. **Relativistic Formulation**:
-   - In **special relativity**, the Lorentz force is generalized using the **electromagnetic field tensor** $F^{\mu\nu}$:
+   - In **[[special relativity]]**, the Lorentz force is generalized using the **electromagnetic field tensor** $F^{\mu\nu}$:
      $$
      \frac{dp^\mu}{d\tau} = q F^{\mu\nu} u_\nu,
      $$
@@ -87,7 +87,7 @@ $$
 ### **Historical Context**
 - Named after **Hendrik Lorentz**, who formalized the expression in 1895 as part of his work on **electron theory**.
 - The force was implicitly described earlier in the works of **James Clerk Maxwell** and **André-Marie Ampère**.
-- Played a crucial role in the development of **special relativity** by Albert Einstein, as it is consistent with the **principle of relativity** for electromagnetic phenomena.
+- Played a crucial role in the development of **[[special relativity]]** by Albert Einstein, as it is consistent with the **principle of relativity** for electromagnetic phenomena.
 
 ---
 

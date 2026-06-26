@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Fourier’s Law of Heat Conduction** states that the rate of heat transfer through a material is proportional to the negative gradient of the temperature and to the area, at right angles to that gradient, through which the heat flows. Mathematically, it expresses that heat flux is a vector quantity pointing in the direction of maximum temperature decrease. In aerospace structures, this law allows engineers to calculate the **Thermal Resistance** of structural members and is the governing equation used in thermal nodal networks to determine temperature distribution across a satellite bus.
+**Fourier’s Law of [[Heat Conduction]]** states that the rate of [[heat transfer]] through a material is proportional to the negative gradient of the temperature and to the area, at right angles to that gradient, through which the heat flows. Mathematically, it expresses that heat flux is a vector quantity pointing in the direction of maximum temperature decrease. In aerospace structures, this law allows engineers to calculate the **Thermal Resistance** of structural members and is the governing equation used in thermal nodal networks to determine temperature distribution across a satellite bus.
 
 ## Historical Development
 
@@ -22,7 +22,7 @@
 
 ### 1. The Differential Form (1D)
 
-The heat transfer rate (Q˙​) in the x-direction is:
+The [[heat transfer]] rate (Q˙​) in the x-direction is:
 
 Q˙​x​=−kAdxdT​
 

@@ -163,7 +163,7 @@ $$
 ### Probability and Statistics
 
 1. **Sum of Independent Random Variables:**
-   - Characteristic function of sum = product of characteristic functions
+   - [[Characteristic function]] of sum = product of characteristic functions
    - Central limit theorem derivation
 
 2. **Time Series Analysis:**
@@ -282,7 +282,7 @@ $$
 
 ## Modern Applications
 
-### Machine Learning
+### [[Machine Learning]]
 - **Convolutional Neural Networks (CNNs):** Use convolution theorem for efficient training via FFT
 - **Kernel methods:** Represented as convolution operations
 - **Time series forecasting:** Frequency-domain feature extraction
