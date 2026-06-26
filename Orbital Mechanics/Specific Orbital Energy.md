@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Specific Orbital Energy** ($\epsilon$) is the total mechanical energy (sum of kinetic and potential energy) of an orbiting body per unit mass. In the context of the [[two-body problem]], it is a conserved quantity that determines the size of the orbit and whether the trajectory is closed (elliptical/circular) or open (hyperbolic/parabolic). Because it is "specific," the value is independent of the mass of the orbiting spacecraft, focusing instead on the gravitational potential and the velocity relative to the primary body. 
+**Specific Orbital Energy** ($\epsilon$) is the total mechanical energy (sum of kinetic and [[potential energy]]) of an orbiting body per unit mass. In the context of the [[two-body problem]], it is a conserved quantity that determines the size of the orbit and whether the trajectory is closed (elliptical/circular) or open (hyperbolic/parabolic). Because it is "specific," the value is independent of the mass of the orbiting spacecraft, focusing instead on the gravitational potential and the velocity relative to the primary body. 
 
 ## Historical Development
 
@@ -81,7 +81,7 @@ Specific orbital energy can be visualized as the spacecraft's position on the wa
 
 ### Practical Implementations
 - **Geostationary Transfer:** Determining the energy jump needed to move from LEO to GTO.
-- **Escape Trajectories:** Calculating the "burn out" velocity required for a probe to leave the Solar System.
+- **Escape Trajectories:** Calculating the "burn out" velocity required for a probe to leave the [[Solar System]].
 
 ## See Also
 

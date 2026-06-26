@@ -42,7 +42,7 @@ The path traced by the tip of the $\vec{\omega}$ vector in the body frame is a c
 
 ### Special Case: Motion about Principal Axes
 
-The simplest form of [[torque]]-free motion occurs when the body is rotating purely about one of its **[[Principal Axes of Inertia]]**. In this case, the [[[[angular velocity]]]] vector is aligned with a principal axis, and there is no [[gyroscopic coupling]].
+The simplest form of [[torque]]-free motion occurs when the body is rotating purely about one of its **[[Principal Axes of Inertia]]**. In this case, the [[angular velocity]] vector is aligned with a principal axis, and there is no [[gyroscopic coupling]].
 
 *   **[[Stability]] of Rotation**: A necessary and sufficient condition for stability is given by the **intermediate axis theorem** (or "tennis racket theorem"):
     *   [[Rotation]] about the **major** (maximum moment of inertia) and **minor** (minimum moment of inertia) principal axes is **stable**. A small disturbance will cause the body to wobble or *nutate* in a bounded, small oscillation around the principal axis.

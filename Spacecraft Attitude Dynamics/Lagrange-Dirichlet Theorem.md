@@ -1,6 +1,6 @@
 ## Formal Definition
 
-The **Lagrange-Dirichlet Theorem** (often referred to as the Dirichlet Criterion for stability) states that for a conservative mechanical system, an equilibrium position is **stable** if the potential energy ($V$) of the system has a strict local minimum at that position. In the context of spacecraft attitude, this theorem is used to determine the stability of a specific orientation (e.g., gravity-gradient stabilized or spin-stabilized) by analyzing the system's Hamiltonian or "Effective Potential." If the spacecraft is perturbed slightly from this minimum, the restoring forces will keep the orientation near the equilibrium.
+The **Lagrange-Dirichlet Theorem** (often referred to as the Dirichlet Criterion for stability) states that for a conservative mechanical system, an equilibrium position is **stable** if the [[potential energy]] ($V$) of the system has a strict local minimum at that position. In the context of spacecraft attitude, this theorem is used to determine the stability of a specific orientation (e.g., gravity-gradient stabilized or spin-stabilized) by analyzing the system's Hamiltonian or "Effective Potential." If the spacecraft is perturbed slightly from this minimum, the restoring forces will keep the orientation near the equilibrium.
 
 
 

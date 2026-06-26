@@ -302,7 +302,7 @@ where $K_{\text{eff}}$ includes inertia and damping effects.
 1. **[[Structural Dynamics]]:** Earthquake response, blast loading, impact
 2. **Seismic Analysis:** Time history analysis of buildings and bridges
 3. **Vehicle Dynamics:** Crash simulation, ride comfort analysis
-4. **Machinery Dynamics:** Transient vibration analysis
+4. **Machinery Dynamics:** Transient [[vibration analysis]]
 5. **Aerospace:** Landing impact, stage separation dynamics
 
 ### Problem Types
@@ -1504,4 +1504,4 @@ analyze 1000 0.01
 
 ---
 
-*Note: The Newmark Method remains one of the most widely used time integration schemes in [[Structural Dynamics]], balancing computational efficiency, stability, and accuracy. Its flexibility through the β and γ parameters allows adaptation to various problem types, from wave propagation with minimal numerical dissipation to vibration analysis with controlled high-frequency damping.*
+*Note: The Newmark Method remains one of the most widely used time integration schemes in [[Structural Dynamics]], balancing computational efficiency, stability, and accuracy. Its flexibility through the β and γ parameters allows adaptation to various problem types, from wave propagation with minimal numerical dissipation to [[vibration analysis]] with controlled high-frequency damping.*

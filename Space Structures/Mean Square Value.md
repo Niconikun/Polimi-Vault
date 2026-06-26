@@ -46,7 +46,7 @@ $$\text{Mean Square Value} = \text{Variance} = \sigma^2$$
 
 1. **[[Stationarity]]:** Assumes the intensity of the shaking remains constant over the period of interest.
     
-2. **Zero Mean:** In vibration analysis, we usually assume the spacecraft isn't drifting away ($\mu = 0$), so the Mean Square Value and the Variance are identical.
+2. **Zero Mean:** In [[vibration analysis]], we usually assume the spacecraft isn't drifting away ($\mu = 0$), so the Mean Square Value and the Variance are identical.
     
 
 ### Governing Laws
@@ -82,7 +82,7 @@ Imagine a stove burner flickering on and off randomly.
 
 ### Strengths
 
-1. **Energy Representation:** Directly relates to the kinetic and potential energy stored in the vibrating structure.
+1. **Energy Representation:** Directly relates to the kinetic and [[potential energy]] stored in the vibrating structure.
     
 2. **Simple Comparison:** Allows engineers to compare the severity of two completely different random environments (e.g., "Launch A is 2.5 times more powerful than Launch B").
     
@@ -96,7 +96,7 @@ Imagine a stove burner flickering on and off randomly.
 
 ## Applications
 
-### Spacecraft Vibration Analysis
+### Spacecraft [[Vibration Analysis]]
 
 1. **G-RMS Calculation:** Using the area under the PSD to determine the 1-sigma, 2-sigma, and 3-sigma load levels for structural design.
     

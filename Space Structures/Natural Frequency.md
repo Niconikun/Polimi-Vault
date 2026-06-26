@@ -17,7 +17,7 @@
 2. **Christian Huygens (1629-1695):** Formalized pendulum mathematics and timekeeping applications
 3. **Leonhard Euler (1707-1783):** Developed analytical methods for vibrating systems
 4. **Lord Rayleigh (1842-1919):** Created Rayleigh's method for estimating natural frequencies
-5. **Stephen Timoshenko (1878-1972):** Advanced practical methods for structural vibration analysis
+5. **Stephen Timoshenko (1878-1972):** Advanced practical methods for structural [[vibration analysis]]
 
 ## Mathematical Formulation
 
@@ -83,7 +83,7 @@ Natural frequency is determined by:
 
 ### Energy Interpretation
 
-**Equipartition principle:** At natural frequency, kinetic and potential energy exchange:
+**Equipartition principle:** At natural frequency, kinetic and [[potential energy]] exchange:
 - Maximum [[Kinetic Energy]]: At equilibrium position
 - Maximum potential energy: At maximum displacement
 - Total energy remains constant (undamped case)
@@ -178,7 +178,7 @@ $$
 \frac{1}{2}m\omega^2 X^2 = \frac{1}{2}k X^2 \Rightarrow \omega = \sqrt{\frac{k}{m}}
 $$
 
-### From Differential Equations
+### From [[Differential Equations]]
 
 **General solution approach:** For $m\ddot{x} + kx = 0$, assume solution $x(t) = Ae^{st}$:
 $$
@@ -517,7 +517,7 @@ where $\Delta\omega$ is half-power bandwidth, $Q$ is quality factor.
 
 ### Modern Reformulations
 
-- **Wave-based methods:** For high-frequency vibration analysis
+- **Wave-based methods:** For high-frequency [[vibration analysis]]
 - **Statistical energy analysis:** For complex built-up structures
 - **Digital signal processing:** Real-time natural frequency monitoring
 - **Machine learning approaches:** For damage detection from frequency changes
@@ -650,4 +650,4 @@ mode_shapes = vecs[:, idx]
 
 ---
 
-*Note: Natural frequency represents one of the most fundamental concepts in dynamics and vibration analysis. Its determination and understanding are crucial for designing systems that perform reliably while avoiding destructive resonance conditions across mechanical, structural, electrical, and acoustic applications.*
+*Note: Natural frequency represents one of the most fundamental concepts in dynamics and [[vibration analysis]]. Its determination and understanding are crucial for designing systems that perform reliably while avoiding destructive resonance conditions across mechanical, structural, electrical, and acoustic applications.*

@@ -3,7 +3,7 @@
 
 **1. Core Concept**
 
-**Convolution** is a mathematical operation on two functions that produces a third function. This third function expresses how the shape of one function is modified by the other, representing the amount of overlap between the two functions as one is shifted over the other. It is a fundamental operation in [[signal processing]], [[probability theory]], and differential equations, encapsulating the concept of a **weighted average** or a **moving filter**.
+**Convolution** is a mathematical operation on two functions that produces a third function. This third function expresses how the shape of one function is modified by the other, representing the amount of overlap between the two functions as one is shifted over the other. It is a fundamental operation in [[signal processing]], [[probability theory]], and [[differential equations]], encapsulating the concept of a **weighted average** or a **moving filter**.
 
 **2. General Integral Definition**
 

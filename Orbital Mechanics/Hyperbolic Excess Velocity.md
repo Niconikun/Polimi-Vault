@@ -51,7 +51,7 @@ where $v_{esc}$ is the [[Escape Velocity]] at that altitude ($\sqrt{2\mu/r_p}$).
 3. **Unbound Trajectory:** Only applies to trajectories with an [[Eccentricity]] $e > 1$.
 
 ### Governing Laws
-- **[[Conservation of Energy]]:** The sum of kinetic and potential energy remains constant. As [[potential energy]] increases toward zero at infinity, [[Kinetic Energy]] decreases to its $v_\infty$ value.
+- **[[Conservation of Energy]]:** The sum of kinetic and [[potential energy]] remains constant. As [[Potential Energy]] increases toward zero at infinity, [[Kinetic Energy]] decreases to its $v_\infty$ value.
 - **Hyperbolic Geometry:** The trajectory follows the asymptotes of the hyperbola, and $v_\infty$ is the velocity vector aligned with those asymptotes. 
 
 ## Physical Interpretation

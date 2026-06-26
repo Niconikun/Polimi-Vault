@@ -8,7 +8,7 @@
 
 - **1839:** **Saint-Venant** and **Wantzel** derive the first equations for the flow of air through an orifice, hinting at a maximum velocity limit.
     
-- **1867:** **Osborne Reynolds** (of Reynolds Number fame) experimentally observes the choking phenomenon in steam and identifies the sonic limit at the throat.
+- **1867:** **Osborne Reynolds** (of [[Reynolds Number]] fame) experimentally observes the choking phenomenon in steam and identifies the sonic limit at the throat.
     
 - **1940s:** During the **V-2 rocket** development, engineers rely on choked flow equations to ensure a consistent, predictable mass flow into the engine, which is critical for maintaining stable combustion.
     

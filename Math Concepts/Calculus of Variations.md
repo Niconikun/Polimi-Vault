@@ -316,7 +316,7 @@ Inequality constraints and non-holonomic constraints require specialized techniq
 - [[Lagrangian Mechanics]]
 - [[Finite Element Method]]
 - [[Optimal Control Theory]]
-- [[Partial Differential Equations]]
+- [[Partial Differential Equations (PDEs)]]
 - [[Functional Analysis]]
 - [[Noether's Theorem]]
 - [[Direct Methods in Calculus of Variations]]

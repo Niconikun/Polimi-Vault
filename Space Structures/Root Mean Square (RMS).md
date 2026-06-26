@@ -94,7 +94,7 @@ Imagine two scenarios for a satellite bracket:
 
 ## Applications
 
-### Spacecraft Vibration Analysis
+### Spacecraft [[Vibration Analysis]]
 
 1. **Component Qualification:** Setting the shaker table to a specific G-RMS to ensure a radio or battery won't fail.
     

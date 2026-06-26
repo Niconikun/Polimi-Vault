@@ -31,7 +31,7 @@ u=Φq
 - If u has 1,000,000 elements (physical DOFs), q might only have 100 elements (the most important modes).
     
 
-### 2. Kinetic and Potential Energy
+### 2. Kinetic and [[Potential Energy]]
 
 In Lagrangian mechanics, we define the **Lagrangian** (L) in terms of generalized coordinates:
 

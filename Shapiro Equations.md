@@ -1,6 +1,6 @@
 ## Formal Definition
 
-The **Shapiro Equations** are a set of differential equations that describe how the properties of a compressible fluid (Mach number, Pressure, Temperature, Density) change in response to multiple simultaneous "drivers." These drivers include changes in **cross-sectional area** ($dA$), **friction** ($4f dx/D$), **heat addition** ($dQ$), **mass addition** ($dw$), and even **chemical reactions**. By using "[[Influence Coefficient]]," Shapiro’s method allows an engineer to determine the net effect on the Mach number when multiple forces are acting on the gas at once.
+The **Shapiro Equations** are a set of [[differential equations]] that describe how the properties of a compressible fluid (Mach number, Pressure, Temperature, Density) change in response to multiple simultaneous "drivers." These drivers include changes in **cross-sectional area** ($dA$), **friction** ($4f dx/D$), **heat addition** ($dQ$), **mass addition** ($dw$), and even **chemical reactions**. By using "[[Influence Coefficient]]," Shapiro’s method allows an engineer to determine the net effect on the Mach number when multiple forces are acting on the gas at once.
 
 ## Historical Development
 

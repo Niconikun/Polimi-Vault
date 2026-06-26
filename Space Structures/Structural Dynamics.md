@@ -62,7 +62,7 @@ $$[M]\{\ddot{u}(t)\} + [C]\{\dot{u}(t)\} + [K]\{u(t)\} = \{F(t)\}$$
 
 - **D'Alembert’s Principle:** Allows the treatment of a dynamic problem as a "quasi-static" problem by introducing "inertial forces."
     
-- **Hamilton’s Principle:** States that the actual path taken by a dynamic system is the one that minimizes the difference between kinetic and potential energy.
+- **Hamilton’s Principle:** States that the actual path taken by a dynamic system is the one that minimizes the difference between kinetic and [[potential energy]].
     
 
 ## Theoretical Framework

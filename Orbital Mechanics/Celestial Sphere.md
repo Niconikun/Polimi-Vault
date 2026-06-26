@@ -13,7 +13,7 @@ It is a purely geometric construct that serves as a practical tool for mapping t
 
 2.  **Projection of Earth's Reference Systems:** The Earth's own rotation and orbital geometry define the fundamental reference lines and planes on the celestial sphere:
     *   **[[Celestial Equator]]:** The great circle projection of the Earth's [[equatorial plane]] onto the celestial sphere. It divides the sphere into the northern and southern celestial hemispheres.
-    *   **[[Celestial Poles]] (North and South):** The projection of the Earth's rotational axis onto the celestial sphere. The [[North Celestial Pole]] (NCP) is directly above Earth's North Pole, and the South Celestial Pole (SCP) is directly above the South Pole.
+    *   **[[Celestial Poles]] (North and South):** The projection of the Earth's rotational axis onto the celestial sphere. The [[North Celestial Pole]] (NCP) is directly above Earth's North Pole, and the [[South Celestial Pole]] (SCP) is directly above the South Pole.
     *   **[[Ecliptic Plane]]:** The great circle representing the apparent annual path of the Sun around the celestial sphere. It is inclined at approximately 23.5° to the [[celestial equator]], an angle known as the *obliquity of the ecliptic*. This [[inclination]] is the fundamental cause of the seasons.
     *   **[[Vernal Equinox]]l and [[Autumnal Equinox]] ([[First Point of Aries]] γ and Libra Ω):** The two points where the ecliptic and [[celestial equator]] intersect. The [[Vernal Equinox]] (γ) serves as the primary reference point (the *origin of [[Geographic Longitude]]*) for the equatorial coordinate system.
 

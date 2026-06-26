@@ -130,7 +130,7 @@ In computer simulations, white noise is generated as a sequence of independent, 
 
 - **Unphysical Power:** Requires a frequency cutoff to be used in real-world calculations.
     
-- **Mathematical Sensitivity:** Requires careful handling in differential equations (Itō calculus).
+- **Mathematical Sensitivity:** Requires careful handling in [[differential equations]] (Itō calculus).
     
 
 ## See Also

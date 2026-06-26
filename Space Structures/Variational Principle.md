@@ -2,7 +2,7 @@
 
 ## Formal Definition
 
-A **Variational Principle** is a fundamental concept in mathematics and physics that formulates the governing equations of a physical system as the [[Stationarity]] condition (typically minimization or maximization) of a [[Functional]]—an integral quantity that depends on the system's state variables. In [[Continuum Mechanics]] and structural analysis, variational principles provide an alternative to differential equations by expressing physical laws as extremum problems, where the actual state of the system corresponds to an extremum (usually minimum) of an energy-like quantity over a class of admissible functions.
+A **Variational Principle** is a fundamental concept in mathematics and physics that formulates the governing equations of a physical system as the [[Stationarity]] condition (typically minimization or maximization) of a [[Functional]]—an integral quantity that depends on the system's state variables. In [[Continuum Mechanics]] and structural analysis, variational principles provide an alternative to [[differential equations]] by expressing physical laws as extremum problems, where the actual state of the system corresponds to an extremum (usually minimum) of an energy-like quantity over a class of admissible functions.
 
 ## Mathematical Formulation
 

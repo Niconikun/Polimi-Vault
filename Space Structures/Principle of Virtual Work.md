@@ -98,7 +98,7 @@ $$
 $$
 
 **With conservative forces:**
-If forces are conservative, PVW is equivalent to the Principle of Stationary Potential Energy.
+If forces are conservative, PVW is equivalent to the Principle of Stationary [[Potential Energy]].
 
 ## Applications in [[Finite Element Method]]
 

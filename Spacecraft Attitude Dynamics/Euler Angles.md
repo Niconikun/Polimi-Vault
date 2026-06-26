@@ -25,7 +25,7 @@ $$
 \mathbf{C} = \mathbf{R}_x(\phi) \mathbf{R}_y(\theta) \mathbf{R}_z(\psi)
 $$
 
-### Kinematic Differential Equations
+### Kinematic [[Differential Equations]]
 To link Euler angles to the angular velocities ($\omega_1, \omega_2, \omega_3$) found in **Euler's Equations of Motion**, we use:
 
 $$
@@ -55,7 +55,7 @@ $$
 ## Physical Interpretation
 
 ### [[Gimbal Lock]]
-The "Achilles' heel" of Euler angles is **[[Gimbal Lock]]**. When the middle angle ($\theta$ in a 3-2-1 sequence) reaches $\pm 90^\circ$, the first and third axes align. Mathematically, the system loses a degree of freedom, and the differential equations "blow up" (divide by zero). Physically, the spacecraft's computer loses the ability to distinguish between a roll and a yaw.
+The "Achilles' heel" of Euler angles is **[[Gimbal Lock]]**. When the middle angle ($\theta$ in a 3-2-1 sequence) reaches $\pm 90^\circ$, the first and third axes align. Mathematically, the system loses a degree of freedom, and the [[differential equations]] "blow up" (divide by zero). Physically, the spacecraft's computer loses the ability to distinguish between a roll and a yaw.
 
 ## Advantages and Limitations
 

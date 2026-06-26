@@ -67,7 +67,7 @@ where \( \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_n \) and \( p \geq m 
 **Key idea:** Apply [[Power Method]] to multiple vectors simultaneously:
 - Each vector converges to dominant eigenvector
 - Orthogonalization prevents all vectors converging to same direction
-- Maintains linear independence throughout iterations
+- Maintains [[linear independence]] throughout iterations
 
 ### Rayleigh-Ritz Projection
 
@@ -432,7 +432,7 @@ $$
 
 ### Industrial Applications
 
-**Aircraft wing vibration analysis:**
+**Aircraft wing [[vibration analysis]]:**
 - Matrix size: \( n \approx 500,000 \) DOFs
 - Desired: First 20 vibration modes (0-50 Hz)
 - Method: Subspace iteration with shift-and-invert (\( \sigma = (2\pi \cdot 30)^2 \))
@@ -563,7 +563,7 @@ where \( \kappa(V) \) is condition number of subspace basis.
 
 1. **"Subspace iteration always converges to extremal eigenvalues":** Can target interior eigenvalues with shift-and-invert
 2. **"More vectors always faster convergence":** Optimal subspace size depends on eigenvalue distribution
-3. **"Orthogonalization is optional":** Critical for maintaining linear independence
+3. **"Orthogonalization is optional":** Critical for maintaining [[linear independence]]
 4. **"Subspace iteration is obsolete":** Still widely used, especially in [[Structural Dynamics]]
 
 ### Learning Resources

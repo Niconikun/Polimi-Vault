@@ -246,7 +246,7 @@ $$
 2. **Least squares problems:** Orthogonal basis simplifies normal equations
 3. **Eigenvalue algorithms:** Used in QR algorithm and subspace methods
 4. **Singular value decomposition:** Building block for computing SVD
-5. **Linear independence testing:** Detects near-linear dependence
+5. **[[Linear independence]] testing:** Detects near-linear dependence
 
 ### Engineering Disciplines
 1. **Structural analysis:** [[Modal Analysis]] and coordinate transformation
@@ -258,7 +258,7 @@ $$
 ### Scientific Computing
 1. **Finite element methods:** Constructing orthogonal shape functions
 2. **Computational fluid dynamics:** Pressure projection methods
-3. **Quantum mechanics:** Orthogonalizing wavefunctions
+3. **[[Quantum mechanics]]:** Orthogonalizing wavefunctions
 4. **Statistics:** Principal component analysis and regression
 5. **Machine learning:** Feature orthogonalization and whitening
 
@@ -351,7 +351,7 @@ def modified_gram_schmidt(A):
 1. **Numerical instability (CGS):** Can lose orthogonality for ill-conditioned matrices
 2. **Sequential nature:** Difficult to parallelize efficiently
 3. **O(n²) complexity:** Expensive for large matrices
-4. **Breakdown for dependent vectors:** Requires linear independence
+4. **Breakdown for dependent vectors:** Requires [[linear independence]]
 5. **Storage requirements:** Need to store all vectors during processing
 
 ### Validity Range

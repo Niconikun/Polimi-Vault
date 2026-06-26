@@ -212,7 +212,7 @@ where $\Delta t$ is time spread and $\Delta \omega$ is frequency spread. A signa
 5. **Acoustics:** Audio processing, speech recognition, room acoustics
 
 ### Scientific Fields
-1. **Physics:** Quantum mechanics (wavefunctions), optics (diffraction), [[electromagnetism]]
+1. **Physics:** [[Quantum mechanics]] (wavefunctions), optics (diffraction), [[electromagnetism]]
 2. **Mathematics:** Solving PDEs, [[harmonic analysis]], number theory
 3. **Chemistry:** NMR spectroscopy, molecular vibrations, crystallography
 4. **Biology:** Medical imaging (MRI, CT), EEG/ECG analysis, DNA sequencing
@@ -355,7 +355,7 @@ Key component of Shor's factoring algorithm and quantum phase estimation.
    \cos(\omega_0 t) \leftrightarrow \pi[\delta(\omega - \omega_0) + \delta(\omega + \omega_0)]
    $$
 
-### Solving Differential Equations
+### Solving [[Differential Equations]]
 
 **Example - Heat equation:**
 $$

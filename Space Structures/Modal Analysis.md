@@ -14,7 +14,7 @@
 - **1990s:** Operational modal analysis emerges for output-only system identification
 
 ### Foundational Contributors
-1. **Lord Rayleigh (1842-1919):** Developed Rayleigh's quotient and energy methods for vibration analysis
+1. **Lord Rayleigh (1842-1919):** Developed Rayleigh's quotient and energy methods for [[vibration analysis]]
 2. **R. E. D. Bishop (1925-2019):** Pioneered modern experimental modal analysis techniques
 3. **D. J. Ewins (1940-2021):** Authored definitive textbook "Modal Testing: Theory, Practice and Application"
 4. **R. R. Craig (1934-2020):** Developed component mode synthesis methods

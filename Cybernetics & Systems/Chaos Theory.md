@@ -2,7 +2,7 @@
 ## 1. Core Tenets
 ### 1.1. Sensitive Dependence on Initial Conditions
 - **Definition**: Systems exhibit **chaotic behavior** when infinitesimal changes in initial conditions lead to **divergent trajectories**. This is quantified by the **Lyapunov exponent** $\lambda > 0$.
-- **Cybernetic Link**: Aligns with **nonlinear dynamics** and **complex [[Systems Theory]]**. The "butterfly effect" demonstrates how **small perturbations** can cascade through a system.
+- **Cybernetic Link**: Aligns with **nonlinear dynamics** and **complex [[Systems Theory]]**. The "[[butterfly effect]]" demonstrates how **small perturbations** can cascade through a system.
   - *Example*: The Lorenz system's trajectories diverge exponentially for nearby initial conditions:
     $$
     \dot{x} = \sigma(y - x), \quad \dot{y} = x(\rho - z) - y, \quad \dot{z} = xy - \beta z.

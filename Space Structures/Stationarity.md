@@ -221,7 +221,7 @@ Represents a system in "statistical equilibrium." For example, a vehicle driving
     
 - [[Ergodicity]]
     
-- [[Power Spectral Density]]
+- [[Power Spectral Density (PSD)]]
     
 - [[Autocorrelation Function (ACF)]]
     

@@ -12,7 +12,7 @@ An **Equilibrium Point** is a specific state ($\mathbf{x}_e$) of a dynamical sys
 - **1960s:** Aerospace engineers identify "Gravity Gradient" and "[[Lagrange Points]]" as natural equilibrium points in space that can be exploited for fuel-efficient station-keeping.
 
 ### Foundational Contributors
-1. **Henri Poincaré (1854–1912):** Developed the qualitative theory of differential equations and "Phase Portraits" to visualize equilibrium.
+1. **Henri Poincaré (1854–1912):** Developed the qualitative theory of [[differential equations]] and "Phase Portraits" to visualize equilibrium.
 2. **Aleksandr Lyapunov:** Formalized the mathematical definitions of stability for these points.
 
 ## Mathematical Formulation

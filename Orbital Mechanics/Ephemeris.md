@@ -24,7 +24,7 @@ Ephemerides are categorized by their purpose and the objects they describe:
 *   **Satellite Ephemerides:**
     *   **GNSS Ephemerides:** Broadcast by systems like GPS, Galileo, and BeiDou, these allow your receiver to calculate the precise location of the satellites, which is essential for triangulating your own position on Earth.
     *   **General Satellite Ephemerides (TLEs):** For other Earth-orbiting satellites, a common format is the **Two-Line Element Set (TLE)**, which is not a table of positions but a set of [[Keplerian Parameters]] that can be processed by an orbit model (like [[SGP4]]) *to generate* an ephemeris.
-*   **Astrometric Ephemerides:** Provided for astronomers to point their telescopes at smaller solar system bodies like comets and asteroids.
+*   **Astrometric Ephemerides:** Provided for astronomers to point their telescopes at smaller [[solar system]] bodies like comets and asteroids.
 
 #### **4. Role in Orbital Mechanics & Astronomy**
 

@@ -48,7 +48,7 @@ where $*$ denotes [[convolution]].
 
 The impulse response $h(t)$ is the system's output when the input is a Dirac delta function $\delta(t)$.
 
-### **Linear Constant-Coefficient Differential Equations**
+### **Linear Constant-Coefficient [[Differential Equations]]**
 LTI systems can be described by linear [[Ordinary Differential Equations (ODEs)]] with constant coefficients:
 $$
 \sum_{k=0}^{n} a_k \frac{d^k y(t)}{dt^k} = \sum_{k=0}^{m} b_k \frac{d^k x(t)}{dt^k}

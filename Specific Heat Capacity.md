@@ -10,7 +10,7 @@
     
 - **1819:** **Pierre Louis Dulong** and **Alexis Thérèse Petit** propose the "Dulong–Petit Law," which suggests that the molar heat capacity of many solid elements is approximately constant.
     
-- **1900s:** **Albert Einstein** and **Peter Debye** use quantum mechanics to explain why specific heat capacity drops significantly at cryogenic temperatures—a critical factor for liquid oxygen/hydrogen tank design.
+- **1900s:** **Albert Einstein** and **Peter Debye** use [[quantum mechanics]] to explain why specific heat capacity drops significantly at cryogenic temperatures—a critical factor for liquid oxygen/hydrogen tank design.
     
 
 ### Foundational Contributors

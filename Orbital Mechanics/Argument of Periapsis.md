@@ -154,7 +154,7 @@ Together, these three angles (**i**, **Ω**, **ω**) define the **orientation of
    - Used in the design and operation of spacecraft, satellites, and interplanetary missions.
    - Example: Calculating the argument of periapsis for a **geostationary satellite** to ensure it remains fixed over a specific point on Earth.
 2. **Astronomy:**
-   - Describing the orbits of planets, comets, and asteroids in the solar system.
+   - Describing the orbits of planets, comets, and asteroids in the [[solar system]].
    - Example: Determining the argument of periapsis for **Halley's Comet** to predict its future appearances.
 
 ### Scientific Fields

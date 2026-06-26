@@ -256,7 +256,7 @@ $$
 
 ### Engineering Disciplines
 1. **Structural Engineering:** Earthquake analysis of buildings and bridges
-2. **Mechanical Engineering:** Vibration analysis of machinery and vehicles
+2. **Mechanical Engineering:** [[Vibration analysis]] of machinery and vehicles
 3. **Aerospace Engineering:** Dynamic analysis of aircraft and spacecraft
 4. **Civil Engineering:** Seismic design of dams, tunnels, and offshore platforms
 5. **Geotechnical Engineering:** Soil-structure interaction problems
@@ -555,7 +555,7 @@ Generalizes Rayleigh damping (which has $N=2$)
 
 ### Original Motivation
 
-**Rayleigh's 1877 work:** In "The Theory of Sound", Rayleigh sought mathematical simplification for damped vibration analysis
+**Rayleigh's 1877 work:** In "The Theory of Sound", Rayleigh sought mathematical simplification for damped [[vibration analysis]]
 
 **Key insight:** If damping distribution follows mass and stiffness distributions, [[Modal Analysis]] remains valid
 
@@ -1195,4 +1195,4 @@ rayleigh $a0 0.0 $a1 0.0
 
 ---
 
-*Note: Rayleigh damping provides a mathematically convenient and computationally efficient approach to modeling [[Viscous Damping]] in linear dynamic systems. While its assumptions of proportional damping may not always match physical reality, its ability to preserve modal orthogonality makes it invaluable for practical engineering analysis, particularly in seismic design and vibration analysis of complex structures.*
+*Note: Rayleigh damping provides a mathematically convenient and computationally efficient approach to modeling [[Viscous Damping]] in linear dynamic systems. While its assumptions of proportional damping may not always match physical reality, its ability to preserve modal orthogonality makes it invaluable for practical engineering analysis, particularly in seismic design and [[vibration analysis]] of complex structures.*

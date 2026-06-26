@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Weighted Residual Methods** (WRM) constitute a broad class of numerical techniques for solving differential equations by requiring that the **residual**—the error obtained when substituting an approximate solution into the governing equation—be orthogonal to a set of carefully chosen **weighting functions** over the problem domain. These methods transform the original differential equation into an integral form that can be discretized and solved numerically, providing the theoretical foundation for many computational techniques including finite element, finite volume, and spectral methods.
+**Weighted Residual Methods** (WRM) constitute a broad class of numerical techniques for solving [[differential equations]] by requiring that the **residual**—the error obtained when substituting an approximate solution into the governing equation—be orthogonal to a set of carefully chosen **weighting functions** over the problem domain. These methods transform the original differential equation into an integral form that can be discretized and solved numerically, providing the theoretical foundation for many computational techniques including finite element, finite volume, and spectral methods.
 
 ## Mathematical Formulation
 

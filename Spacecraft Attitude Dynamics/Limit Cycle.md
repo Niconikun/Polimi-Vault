@@ -7,7 +7,7 @@ A **Limit Cycle** is an isolated closed trajectory in the state-space (phase pla
 ## Historical Development
 
 ### Key Milestones
-- **1880s:** **Henri Poincaré** first identifies and names "limit cycles" while studying the qualitative behavior of differential equations.
+- **1880s:** **Henri Poincaré** first identifies and names "limit cycles" while studying the qualitative behavior of [[differential equations]].
 - **1920s:** **Balthasar van der Pol** analyzes limit cycles in vacuum tube oscillators, leading to the famous Van der Pol equation.
 - **1960s:** NASA engineers for the **Mercury** and **Gemini** programs realize that spacecraft using on-off thrusters will always live in a limit cycle, leading to the development of "tight" vs. "wide" deadbands to manage fuel consumption.
 

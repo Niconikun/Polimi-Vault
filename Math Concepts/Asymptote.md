@@ -14,7 +14,7 @@ An **asymptote** is a line, curve, or surface that a given function, curve, or g
 - **17th Century:** **René Descartes** and **Pierre de Fermat** developed analytic geometry, providing tools to describe asymptotes algebraically.
 - **18th Century:** **Leonhard Euler** and **Colin Maclaurin** formalized the concept of asymptotes in calculus, particularly in the study of limits and infinite series.
 - **19th Century:** **Augustin-Louis Cauchy** and **Bernhard Riemann** refined the definition of asymptotes in the context of real and complex analysis.
-- **20th Century:** Asymptotic analysis became a key tool in **applied mathematics**, **physics**, and **engineering**, used to approximate solutions to differential equations and describe the behavior of complex systems.
+- **20th Century:** Asymptotic analysis became a key tool in **applied mathematics**, **physics**, and **engineering**, used to approximate solutions to [[differential equations]] and describe the behavior of complex systems.
 
 ### Foundational Contributors
 1. **Euclid (c. 300 BCE):** Studied conic sections and their properties, including asymptotes.
@@ -110,7 +110,7 @@ Asymptotes can be categorized based on their geometric and analytical properties
 2. **Asymptotes in Analytic Geometry:**
    - Used to describe the behavior of conic sections (e.g., hyperbolas) and other curves.
 3. **Asymptotes in Asymptotic Analysis:**
-   - Used to approximate solutions to differential equations or describe the behavior of complex systems for large inputs.
+   - Used to approximate solutions to [[differential equations]] or describe the behavior of complex systems for large inputs.
 
 ---
 ## Classification and Variants
@@ -182,7 +182,7 @@ Asymptotes can be categorized based on their geometric and analytical properties
 1. **Mathematics:**
    - Asymptotes are used in calculus, analytic geometry, and asymptotic analysis to simplify and understand complex functions.
 2. **Physics:**
-   - Asymptotes describe the behavior of physical systems at extreme scales (e.g., blackbody radiation, quantum mechanics).
+   - Asymptotes describe the behavior of physical systems at extreme scales (e.g., blackbody radiation, [[quantum mechanics]]).
 3. **Economics:**
    - Asymptotes can model long-term trends, such as the **law of diminishing returns** or **supply and demand curves**.
 
@@ -245,7 +245,7 @@ Asymptotes can be categorized based on their geometric and analytical properties
 2. **Asymptotic Statistics:**
    - Applying asymptotic analysis to statistical models, particularly for large datasets or extreme values.
 3. **Quantum Asymptotics:**
-   - Studying the asymptotic behavior of quantum systems, such as the **semiclassical limit** of quantum mechanics.
+   - Studying the asymptotic behavior of quantum systems, such as the **semiclassical limit** of [[quantum mechanics]].
 
 ---
 ## Special Cases and Examples

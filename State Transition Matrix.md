@@ -55,7 +55,7 @@ Imagine you are playing billiards. The STM is the mathematical rule that takes a
 ## Advantages and Limitations
 
 ### Strengths
-1.  **Analytical Propagation:** Allows you to "jump" forward in time without having to integrate the differential equations at every tiny micro-step.
+1.  **Analytical Propagation:** Allows you to "jump" forward in time without having to integrate the [[differential equations]] at every tiny micro-step.
 2.  **Linear Covariance (LinCov):** Used to propagate uncertainty. If you know your position error now, $\Phi$ tells you how large that error "bubble" will be in two hours.
 
 ### Limitations

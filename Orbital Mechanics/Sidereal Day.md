@@ -30,7 +30,7 @@ This period is derived from the fact that in the time it takes the Earth to comp
 
 3.  **Significance in Astronomy:**
     *   **Celestial Coordinate Systems:** The sidereal day is the fundamental timescale for the **equatorial coordinate system**. The [[Right Ascension]] of a celestial object is essentially its "sidereal time" coordinate.
-    *   **[[Sidereal Time]]:** Local Sidereal Time (LST) is defined as the [[Hour Angle]] of the [[Vernal Equinox]]. When the [[vernal equinox]] crosses the observer's meridian, the Local Sidereal Time is 0 hours. The sidereal day is thus the period between two successive upper transits of the [[vernal equinox]].
+    *   **[[Sidereal Time]]:** [[Local Sidereal Time]] is defined as the [[Hour Angle]] of the [[Vernal Equinox]]. When the [[vernal equinox]] crosses the observer's meridian, the [[Local Sidereal Time]] is 0 hours. The sidereal day is thus the period between two successive upper transits of the [[vernal equinox]].
     *   **Telescope Operation:** Astronomical telescopes often use sidereal time to track celestial objects. Since the stars appear fixed on the [[Celestial Sphere]], a drive system that moves at the sidereal rate (15.041 arcseconds per second of solar time) will keep a star centered in the telescope's [[Field of View]].
 
 In summary, a **sidereal day** is the true rotational period of the Earth, measured as the time interval between two successive culminations of a distant star or the [[vernal equinox]]. Its value of approximately 23h 56m 4s is shorter than the common 24-hour solar day due to the Earth's orbital motion around the Sun, and it serves as the critical time base for all sidereally-referenced systems in astronomy and orbital mechanics.

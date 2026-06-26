@@ -27,7 +27,7 @@ LHA = LST - \alpha = 0
 $$
 
 ### Component Breakdown
-- **$LST$:** Local Sidereal Time.
+- **$LST$:** [[Local Sidereal Time]].
 - **$\alpha$:** [[Right Ascension]] of a celestial body.
 - **Significance:** When $LHA = 0^\circ$, the object is at "Upper Transit." When $LHA = 180^\circ$, the object is at "Lower Transit."
 

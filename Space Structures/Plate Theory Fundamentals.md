@@ -255,7 +255,7 @@ $$
 where $\nabla^4 = \frac{\partial^4}{\partial x^4} + 2\frac{\partial^4}{\partial x^2 \partial y^2} + \frac{\partial^4}{\partial y^4}$ is the biharmonic operator.
 
 #### For Mindlin-Reissner Plates
-Three coupled partial differential equations:
+Three coupled partial [[differential equations]]:
 $$
 \begin{aligned}
 D\left(\frac{\partial^2 \theta_x}{\partial x^2} + \frac{1-\nu}{2}\frac{\partial^2 \theta_x}{\partial y^2} + \frac{1+\nu}{2}\frac{\partial^2 \theta_y}{\partial x \partial y}\right) - \kappa Gh\left(\theta_x + \frac{\partial w}{\partial y}\right) &= 0 \\

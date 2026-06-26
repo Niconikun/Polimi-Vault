@@ -15,7 +15,7 @@ The **Spring-Mass-Damper Model** is a fundamental mechanical system representati
 1. **Robert Hooke (1635-1703):** Established [[Hooke's Law]] for linear elasticity
 2. **Lord Rayleigh (1842-1919):** Developed [[Rayleigh Damping]] model and energy methods
 3. **Claude-Louis Navier (1785-1836):** Formulated early vibration and [[Damping]] theories
-4. **Stephen Timoshenko (1878-1972):** Advanced practical vibration analysis methods
+4. **Stephen Timoshenko (1878-1972):** Advanced practical [[vibration analysis]] methods
 
 ## Mathematical Formulation
 
@@ -196,7 +196,7 @@ where $D = \frac{1}{2}c\dot{x}^2$ and $Q = F(t)$ yields the same equation.
 
 **Spring (k):**
 - Provides restoring force, proportional to displacement
-- Stores [[potential energy]]: $V = \frac{1}{2}kx^2$
+- Stores [[Potential Energy]]: $V = \frac{1}{2}kx^2$
 - Determines stiffness and oscillation frequency
 
 **Damper (c):**

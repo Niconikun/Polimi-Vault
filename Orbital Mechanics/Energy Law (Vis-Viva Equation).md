@@ -32,7 +32,7 @@ $$
 1.  **[[Conservation of Energy]]:** The equation $\epsilon = -\frac{GM}{2a}$ shows that the [[Specific Orbital Energy]] is a function **only** of the [[Semi-Major Axis]] $a$. For a given orbit, $a$ is constant, and therefore the total energy is constant. Energy is exchanged between kinetic and potential forms, but their sum remains unchanged.
 
 2.  **Interpretation of the Vis-Viva Equation:**
-    *   **At [[Periapsis]]** (closest approach, $r = r_p = a(1-e)$): The potential energy is at its minimum (most negative), so the [[Kinetic Energy]] must be at its maximum, resulting in the highest velocity $v_p$.
+    *   **At [[Periapsis]]** (closest approach, $r = r_p = a(1-e)$): The [[potential energy]] is at its minimum (most negative), so the [[Kinetic Energy]] must be at its maximum, resulting in the highest velocity $v_p$.
     *   **At [[Apoapsis]]** (farthest point, $r = r_a = a(1+e)$): The potential energy is at its maximum (less negative), so the [[Kinetic Energy]] is at its minimum, resulting in the lowest velocity $v_a$.
 
 3.  **Orbit Classification by Energy:** The [[Specific Orbital Energy]] $\epsilon$ determines the type of orbit:

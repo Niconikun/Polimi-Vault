@@ -10,7 +10,7 @@ The **Stefan-Boltzmann Law** states that the total energy radiated per unit surf
     
 - **1884:** **Ludwig Boltzmann** provides a theoretical derivation of the law using the principles of thermodynamics and Maxwell’s electromagnetic theory.
     
-- **1900:** **Max Planck** derives the law as a consequence of his broader **Planck's Law**, integrating the Stefan-Boltzmann law into the framework of quantum mechanics.
+- **1900:** **Max Planck** derives the law as a consequence of his broader **Planck's Law**, integrating the Stefan-Boltzmann law into the framework of [[quantum mechanics]].
     
 
 ### Foundational Contributors

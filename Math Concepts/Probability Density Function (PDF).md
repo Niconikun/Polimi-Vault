@@ -52,7 +52,7 @@ The PDF allows us to calculate the statistical "moments" of a structural load:
 
 ### Core Assumptions
 
-1. **Gaussianity:** Most aerospace random vibration analysis assumes a **Gaussian PDF**, meaning the noise is symmetric and centered around a mean.
+1. **Gaussianity:** Most aerospace random [[vibration analysis]] assumes a **Gaussian PDF**, meaning the noise is symmetric and centered around a mean.
     
 2. **[[Stationarity]]:** Assumes the "shape" of the PDF does not change during the flight event (e.g., the intensity of the engine roar is constant for a specific window).
     

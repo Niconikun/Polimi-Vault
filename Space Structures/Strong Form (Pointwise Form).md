@@ -1,7 +1,7 @@
 #Space-Structures #DONE 
 ## Formal Definition
 
-The **Strong Form**, also known as the **Classical Form** or **Pointwise Form**, refers to the original statement of a boundary value problem where the governing differential equations and boundary conditions must be satisfied exactly at every point in the domain and on its boundary. This formulation requires solutions to possess sufficient differentiability to make the differential operators well-defined in the classical sense, imposing strict continuity and smoothness requirements that often exceed what is physically necessary or mathematically convenient.
+The **Strong Form**, also known as the **Classical Form** or **Pointwise Form**, refers to the original statement of a boundary value problem where the governing [[differential equations]] and boundary conditions must be satisfied exactly at every point in the domain and on its boundary. This formulation requires solutions to possess sufficient differentiability to make the differential operators well-defined in the classical sense, imposing strict continuity and smoothness requirements that often exceed what is physically necessary or mathematically convenient.
 
 ## Mathematical Formulation
 
@@ -354,7 +354,7 @@ General framework encompassing both strong and weak forms:
 
 - [[Weak Form (Variational Form)]]
 - [[Finite Difference Method]]
-- [[Partial Differential Equations]]
+- [[Partial Differential Equations (PDEs)]]
 - [[Boundary Value Problems]]
 - [[Method of Weighted Residuals]]
 - [[Elliptic Partial Differential Equations]]

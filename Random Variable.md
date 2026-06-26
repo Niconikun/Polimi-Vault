@@ -171,7 +171,7 @@ Distribution of \(X\) captures:
 ### Engineering & Physics
 1. **[[Signal processing]]:** Random signals and noise
 2. **Reliability engineering:** Time to failure
-3. **Quantum mechanics:** Observables in quantum theory
+3. **[[Quantum mechanics]]:** Observables in quantum theory
 4. **Statistical mechanics:** Macroscopic variables from microscopic states
 
 ### Economics & Finance
@@ -386,7 +386,7 @@ CDF \(F_X\) completely characterizes distribution of \(X\):
 
 ### Formalization
 - **Kolmogorov's axioms:** Unified discrete and continuous
-- **Measure theory:** Provided rigorous foundation
+- **[[Measure theory]]:** Provided rigorous foundation
 - **[[Functional]] analysis:** Extended to more general spaces
 
 ### Modern Developments

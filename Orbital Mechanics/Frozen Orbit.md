@@ -41,7 +41,7 @@ $$e_{frozen} \approx -\frac{J_3 R \sin i}{2 J_2 a (1-e^2)}$$
 2. **Near-Circular Approximation:** Most frozen orbits are designed with very low [[Eccentricity]] to maintain altitude consistency.
 
 ### Governing Laws
-- **Lagrange’s Planetary Equations:** The set of differential equations describing how orbital elements change in response to a disturbing potential.
+- **Lagrange’s Planetary Equations:** The set of [[differential equations]] describing how orbital elements change in response to a disturbing potential.
 - **[[Conservation of Energy]]:** While elements like $\omega$ are frozen, the specific orbital energy remains constant.
 
 ## Theoretical Framework

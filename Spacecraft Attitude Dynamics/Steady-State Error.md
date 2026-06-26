@@ -22,7 +22,7 @@ In a closed-loop system, the error is defined as:
 $$E(s) = R(s) - Y(s)$$
 
 ### The Final Value Theorem
-The steady-state error can be calculated directly from the system's [[transfer function]] without solving the differential equations:
+The steady-state error can be calculated directly from the system's [[transfer function]] without solving the [[differential equations]]:
 $$e_{ss} = \lim_{t \to \infty} e(t) = \lim_{s \to 0} s E(s)$$
 
 ### System Type and Error

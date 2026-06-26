@@ -604,7 +604,7 @@ Vibration isolation relies on impedance mismatch between source and receiver:
 - PEER Ground Motion Database
 - UCSD Network for Earthquake Engineering Simulation (NEES)
 - MIT OpenCourseWare "Dynamics and Control"
-- MATLAB tutorials on vibration analysis
+- MATLAB tutorials on [[vibration analysis]]
 
 **Visual Aids:**
 - Shake table demonstration videos

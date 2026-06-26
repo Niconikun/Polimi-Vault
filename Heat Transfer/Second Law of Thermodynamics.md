@@ -69,7 +69,7 @@ Q˙​∝−∇T
 
 In space, your "sink" is deep space at ≈3 K. However, your satellite's radiators must be at a temperature higher than the surroundings to reject heat.
 
-- If your radiator is colder than the electronic component it is supposed to cool, the Second Law forbids heat from moving to the radiator without a **Heat Pump** (active cooling).
+- If your radiator is colder than the electronic component it is supposed to cool, the Second Law forbids heat from moving to the radiator without a **[[Heat Pump]]** (active cooling).
     
 - This is why "Cold Plates" must always be physically cooler than the components mounted on them.
     

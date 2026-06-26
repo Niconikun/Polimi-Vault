@@ -59,7 +59,7 @@ $$T(K) = T(^\circ C) + 273.15$$
 
 - **The Zeroth Law of Thermodynamics:** If two systems are each in thermal equilibrium with a third system, they are in thermal equilibrium with each other. This is what makes thermometers possible.
     
-- **The Third Law of Thermodynamics:** As temperature approaches absolute zero ($0 \text{ K}$), the entropy of a system approaches a constant minimum.
+- **The [[Third Law of Thermodynamics]]:** As temperature approaches absolute zero ($0 \text{ K}$), the entropy of a system approaches a constant minimum.
     
 
 ## Theoretical Framework

@@ -280,5 +280,5 @@ where $DJ$ is the functional derivative.
 - [[Finite Element Method]]
 - [[Noether's Theorem]]
 - [[Principle of Minimum Potential Energy]]
-- [[Partial Differential Equations]]
+- [[Partial Differential Equations (PDEs)]]
 - [[Optimal Control Theory]]

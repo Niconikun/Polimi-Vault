@@ -103,7 +103,7 @@ V(\mathbf{q}_v, \boldsymbol{\omega}) = \frac{1}{2}\boldsymbol{\omega}^T\mathbf{I
 $$
 where:
 - First term: [[Kinetic Energy]]
-- Second & third terms: "Error" [[potential energy]]
+- Second & third terms: "Error" [[Potential Energy]]
 
 The control torque designed to make $\dot{V} \leq 0$ yields globally stabilizing controllers.
 

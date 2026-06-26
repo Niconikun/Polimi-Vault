@@ -32,7 +32,7 @@ It is precisely analogous to **[[Geographic Latitude]]** on the Earth's [[surfac
 #### **5. Key Characteristics**
 
 *   **Fixed for "Fixed" Stars:** For distant stars, declination is nearly constant over human timescales (though [[precession]] causes slow drift).
-*   **Variable for Solar System Objects:** For objects within our solar system (planets, moons, asteroids, satellites), declination changes continuously as they move against the background stars and relative to the Earth.
+*   **Variable for [[Solar System]] Objects:** For objects within our [[solar system]] (planets, moons, asteroids, satellites), declination changes continuously as they move against the background stars and relative to the Earth.
 
 #### **Related Concepts (for Linking in Obsidian)**
 

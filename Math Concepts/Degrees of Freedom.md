@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**Degrees of Freedom (DOF)** are the minimum number of independent coordinates required to completely define the configuration or position of a dynamical system at any given instant. In a [[mathematical model]], the number of DOFs corresponds to the number of independent scalar differential equations needed to describe the system's motion. For a [[Rigid Body]] in 3D space, there are **6 DOFs** (three translations and three rotations). In a flexible structure modeled via [[Finite Element Analysis (FEA)]], the number of DOFs can reach the millions, as every "node" in the mesh has its own set of translational and rotational coordinates.
+**Degrees of Freedom (DOF)** are the minimum number of independent coordinates required to completely define the configuration or position of a dynamical system at any given instant. In a [[mathematical model]], the number of DOFs corresponds to the number of independent scalar [[differential equations]] needed to describe the system's motion. For a [[Rigid Body]] in 3D space, there are **6 DOFs** (three translations and three rotations). In a flexible structure modeled via [[Finite Element Analysis (FEA)]], the number of DOFs can reach the millions, as every "node" in the mesh has its own set of translational and rotational coordinates.
 
 ## Historical Development
 

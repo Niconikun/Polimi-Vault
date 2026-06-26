@@ -174,7 +174,7 @@ Consider an ensemble of DC voltage sources where the voltage $V$ is random and s
 - [[Stochastic Process]]
 - [[Stationarity]]
 - [[Autocorrelation Function (ACF)]]
-- [[Power Spectral Density]]
+- [[Spacecraft Attitude Dynamics/Power Spectral Density (PSD)|Power Spectral Density (PSD)]]
 - [[Random Vibration]]
 - [[Ensemble Average]]
     

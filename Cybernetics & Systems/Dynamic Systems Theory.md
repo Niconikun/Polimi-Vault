@@ -1,6 +1,6 @@
 ## 1. Core Tenets
 ### 1.1. [[State-Space Representation]] Representation
-- **Definition**: Systems are described by **state variables** that evolve over time according to **differential equations** or **difference equations**. The **[[State-Space Representation]]** captures all possible configurations of the system.
+- **Definition**: Systems are described by **state variables** that evolve over time according to **[[differential equations]]** or **difference equations**. The **[[State-Space Representation]]** captures all possible configurations of the system.
 - **Cybernetic Link**: Aligns with **control theory** (Wiener, 1948) and **[[Systems Theory]]** (Bertalanffy, 1968). The system's behavior is a **trajectory** through [[State-Space Representation]].
   - *Example*: A pendulum's state is fully described by its angle $\theta$ and [[Angular Velocity]] $\dot{\theta}$, evolving according to $\ddot{\theta} = -\frac{g}{L}\sin\theta$.
 

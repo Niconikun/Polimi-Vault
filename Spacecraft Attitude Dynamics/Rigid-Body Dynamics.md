@@ -8,7 +8,7 @@ The study of rigid body dynamics is divided into two complementary aspects:
 1.  **Translational Dynamics:** Governs the motion of the body's [[Center of Mass]].
 2.  **Rotational Dynamics:** Governs the change in the body's [[Angular Velocity]], or its rotation about the [[Center of Mass]].
 
-These two motions are governed by separate sets of differential equations and can often be analyzed independently.
+These two motions are governed by separate sets of [[differential equations]] and can often be analyzed independently.
 
 ### Fundamental Equations and Concepts
 

@@ -29,7 +29,7 @@ A **Complex Adaptive System (CAS)** is a framework for understanding a specific 
     *   **Link:** This is the core cybernetic principle of [[Feedback Loop]], specifically a combination of [[Balancing Feedback Loop]] (seeking stability) and [[Reinforcing Feedback Loop]] (leading to growth or runaway effects).
 
 5.  **Non-Linearity**
-    *   **Description:** Cause and effect are not proportional. A small perturbation or a minor change in initial conditions can lead to dramatically large and unforeseen consequences (the "Butterfly Effect"). Conversely, large efforts might have minimal impact. This makes long-term prediction of a CAS's state virtually impossible.
+    *   **Description:** Cause and effect are not proportional. A small perturbation or a minor change in initial conditions can lead to dramatically large and unforeseen consequences (the "[[Butterfly Effect]]"). Conversely, large efforts might have minimal impact. This makes long-term prediction of a CAS's state virtually impossible.
     *   **Link:** [[Non-Linearity]], [[Sensitivity to Initial Conditions]].
 
 6.  **Co-evolution and a Dynamic "Fitness Landscape"**

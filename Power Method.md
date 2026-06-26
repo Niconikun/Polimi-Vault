@@ -235,7 +235,7 @@ Each iteration amplifies component along dominant eigenvector relative to others
 5. **Civil Engineering:** Seismic analysis, soil-structure interaction
 
 ### Scientific Fields
-1. **Physics:** Quantum mechanics (ground state energy), statistical mechanics
+1. **Physics:** [[[[Quantum mechanics]]]] (ground state energy), statistical mechanics
 2. **Chemistry:** Molecular orbital calculations, reaction dynamics
 3. **Economics:** Input-output models, portfolio optimization
 4. **Computer Science:** PageRank algorithm, recommendation systems
@@ -440,7 +440,7 @@ $$
 - Power Method finds dominant eigenvector (PageRank scores)
 - Scales to billions of web pages using sparse matrix techniques
 
-**Structural vibration analysis:**
+**Structural [[vibration analysis]]:**
 - Matrix:$(K - \omega^2 M)$ from finite element discretization
 - [[Inverse Power Method]] finds fundamental frequency (smallest$\omega^2$)
 - Used in building design and earthquake engineering
@@ -530,11 +530,11 @@ $$
 ### Original Motivation
 
 **Early 20th century applications:**
-- Structural engineering: Vibration analysis of bridges and buildings
+- Structural engineering: [[Vibration analysis]] of bridges and buildings
 - Statistical analysis: Principal component analysis
-- Quantum mechanics: Ground state energy calculations
+- [[Quantum mechanics]]: Ground state energy calculations
 
-**Von Mises' contribution:** Formalized algorithm for solving eigenvalue problems in vibration analysis.
+**Von Mises' contribution:** Formalized algorithm for solving eigenvalue problems in [[vibration analysis]].
 
 ### Evolution Over Time
 

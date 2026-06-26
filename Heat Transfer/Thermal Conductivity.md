@@ -10,7 +10,7 @@
 
 - **1822:** **Jean-Baptiste Joseph Fourier** defines the property while developing his theory on heat flow in solids.
     
-- **1900s:** The development of **Quantum Mechanics** allows scientists to explain thermal conductivity in terms of **phonons** (lattice vibrations) and **free electrons**.
+- **1900s:** The development of **[[Quantum Mechanics]]** allows scientists to explain thermal conductivity in terms of **phonons** (lattice vibrations) and **free electrons**.
     
 - **1960s:** NASA missions drive the characterization of k for specialized honeycomb panels and advanced composites, where the conductivity is often "tuned" to be different in different directions.
     

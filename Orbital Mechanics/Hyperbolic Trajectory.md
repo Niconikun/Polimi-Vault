@@ -11,7 +11,7 @@ A **Hyperbolic Orbit** is an unbound, open trajectory where the [[Eccentricity]]
 - **1687:** Isaac Newton proves in the *Principia* that a $1/r^2$ force law allows for trajectories in the shape of any conic section, including hyperbolas.
 - **1959:** Luna 1 becomes the first human-made object to achieve a heliocentric hyperbolic orbit after escaping Earth's gravity.
 - **1970s:** The Voyager missions utilize hyperbolic "swing-bys" (Gravity Assists) to move from one planet to the next.
-- **2017:** 'Oumuamua is discovered; its high [[Eccentricity]] ($e \approx 1.2$) confirms it is the first observed interstellar object on a hyperbolic trajectory through our solar system.
+- **2017:** 'Oumuamua is discovered; its high [[Eccentricity]] ($e \approx 1.2$) confirms it is the first observed interstellar object on a hyperbolic trajectory through our [[solar system]].
 
 ### Foundational Contributors
 1. **Isaac Newton (1642–1727):** Mathematically unified closed (elliptical) and open (hyperbolic) celestial motion.
@@ -38,7 +38,7 @@ $$\sin\left(\frac{\delta}{2}\right) = \frac{1}{e}$$
 ## Fundamental Principles
 
 ### Core Assumptions
-1. **$v > v_{esc}$:** The spacecraft’s [[Kinetic Energy]] exceeds its [[potential energy]] at all times.
+1. **$v > v_{esc}$:** The spacecraft’s [[Kinetic Energy]] exceeds its [[Potential Energy]] at all times.
 2. **Unbound State:** The object is not gravitationally "captured"; it is merely "deflected" by the central body.
 
 ### Governing Laws

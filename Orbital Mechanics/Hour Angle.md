@@ -24,14 +24,14 @@ The Hour Angle is a measure of **how much time has passed** since the celestial 
 
 The Hour Angle is the crucial link between the equatorial coordinate system (which is fixed to the sky) and the diurnal motion of the [[Celestial Sphere]] (which is caused by the Earth's rotation). This is encapsulated in the fundamental formula:
 
-**[[Local Sidereal Time (LST)]] = [[Right Ascension]] (RA) of a object + its Hour Angle (HA)**
+**[[Local Sidereal Time]] = [[Right Ascension]] (RA) of a object + its Hour Angle (HA)**
 
 Or, rearranged:
-**Hour Angle (HA) = Local Sidereal Time (LST) - [[Right Ascension]] (RA)**
+**Hour Angle (HA) = [[Local Sidereal Time]] - [[Right Ascension]] (RA)**
 
 This equation is of paramount importance because:
 *   **[[Right Ascension]] (RA)** is the object's "celestial [[Geographic Longitude]]," fixed on the [[Celestial Sphere]].
-*   **Local Sidereal Time (LST)** is, by definition, the [[Right Ascension]] of stars currently on the observer's local meridian (i.e., the RA for which HA = 0).
+*   **[[Local Sidereal Time]]** is, by definition, the [[Right Ascension]] of stars currently on the observer's local meridian (i.e., the RA for which HA = 0).
 *   **Hour Angle (HA)** is the object's position relative to the observer's meridian *at a specific moment in time*.
 
 ### Types of Hour Angle

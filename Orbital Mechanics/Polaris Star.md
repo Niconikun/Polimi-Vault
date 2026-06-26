@@ -33,6 +33,6 @@ Polaris provides a fundamental, fixed directional reference for an observer on E
 
 *   **Not Perfectly Stationary:** Polaris is not exactly at the NCP. It traces a very small daily circle around the pole with a radius equal to its angular separation. For most practical navigation, this is negligible, but for precise astrometry or telescope alignment, this small offset must be accounted for.
 *   **[[Precession]] of the [[Equinox]]:** Due to the 25,800-year [[precession]] cycle of Earth's axis, the celestial pole moves. Polaris's proximity to the pole is a transient phenomenon. It was not the pole star in ancient times and will not be in the future (e.g., in ~12,000 years, Vega will be the north star).
-*   **Southern Hemisphere:** There is no similarly bright "south pole star" close to the South Celestial Pole.
+*   **Southern Hemisphere:** There is no similarly bright "south pole star" close to the [[South Celestial Pole]].
 
 In summary, **Polaris** is a fundamental astronomical benchmark. Its unique position near the North Celestial Pole provides a fixed, natural fiducial point in the sky, allowing any terrestrial observer in the Northern Hemisphere to instantly define the cardinal direction of True North and determine their own [[Geographic Latitude]], thereby establishing the foundational axes of their local **topocentric reference frame**.

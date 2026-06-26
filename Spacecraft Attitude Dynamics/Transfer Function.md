@@ -21,7 +21,7 @@ For multi-input multi-output (MIMO) systems, the transfer function becomes a **m
 
 ## **Mathematical Foundation**
 
-### **From Differential Equations to Transfer Functions**
+### **From [[Differential Equations]] to Transfer Functions**
 Consider an nth-order linear differential equation describing a system:
 $$
 a_n \frac{d^n y(t)}{dt^n} + a_{n-1} \frac{d^{n-1} y(t)}{dt^{n-1}} + \cdots + a_1 \frac{dy(t)}{dt} + a_0 y(t) = b_m \frac{d^m u(t)}{dt^m} + \cdots + b_1 \frac{du(t)}{dt} + b_0 u(t)

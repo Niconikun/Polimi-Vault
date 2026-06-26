@@ -28,7 +28,7 @@ $$
 \frac{T_1^2}{T_2^2} = \frac{a_1^3}{a_2^3}
 $$
 
-For a single body, if you use years for the period and Astronomical Units (AU) for the [[Semi-Major Axis]], the constant is conveniently 1 for planets in our solar system:
+For a single body, if you use years for the period and Astronomical Units (AU) for the [[Semi-Major Axis]], the constant is conveniently 1 for planets in our [[solar system]]:
 
 $$
 T^2 = a^3 \quad \text{(where T is in Earth-years, and a is in AU)}

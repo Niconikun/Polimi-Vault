@@ -8,7 +8,7 @@ The **Eigenvalue Problem** is a fundamental mathematical formulation in linear a
 - **1743:** Leonhard Euler studies rotational motion and discovers principal axes, laying groundwork for eigenvalue concepts
 - **1820s:** Augustin-Louis Cauchy formalizes eigenvalue theory for quadratic forms and principal axis theorem
 - **1904:** David Hilbert introduces spectral theory for integral operators, extending eigenvalue concepts to infinite dimensions
-- **1925:** Werner Heisenberg and Erwin Schrödinger apply eigenvalue problems to quantum mechanics
+- **1925:** Werner Heisenberg and Erwin Schrödinger apply eigenvalue problems to [[quantum mechanics]]
 - **1960s:** John Francis and Vera Kublanovskaya independently develop QR algorithm for numerical eigenvalue computation
 - **1990s:** Development of iterative methods for large-scale eigenvalue problems in [[Finite Element Analysis (FEA)]]
 
@@ -16,7 +16,7 @@ The **Eigenvalue Problem** is a fundamental mathematical formulation in linear a
 1. **Leonhard Euler (1707-1783):** Discovered principal axes in [[Rigid Body]] rotation
 2. **Augustin-Louis Cauchy (1789-1857):** Formalized eigenvalue theory for quadratic forms
 3. **David Hilbert (1862-1943):** Developed spectral theory for linear operators
-4. **John von Neumann (1903-1957):** Advanced spectral theory and applications to quantum mechanics
+4. **John von Neumann (1903-1957):** Advanced spectral theory and applications to [[quantum mechanics]]
 5. **Gene Golub (1932-2007):** Developed numerical algorithms for eigenvalue computation
 
 ## Mathematical Formulation
@@ -230,7 +230,7 @@ For dynamical system \(\dot{\mathbf{x}} = A\mathbf{x}\):
 
 **Critical values:** When eigenvalues cross imaginary axis, bifurcations occur.
 
-### Quantum Mechanics
+### [[Quantum Mechanics]]
 
 In Schrödinger equation \(H\psi = E\psi\):
 - \(H\): Hamiltonian operator (Hermitian)
@@ -245,11 +245,11 @@ In Schrödinger equation \(H\psi = E\psi\):
 1. **Structural Engineering:** [[Modal Analysis]], buckling loads, principal stress directions
 2. **Control Systems:** Stability analysis, [[Controllability]]/[[Observability]] Gramians
 3. **Electrical Engineering:** RLC circuit natural frequencies, power system stability
-4. **Mechanical Engineering:** Vibration analysis, rotor dynamics, stress analysis
+4. **Mechanical Engineering:** [[Vibration analysis]], rotor dynamics, stress analysis
 5. **Aerospace Engineering:** Aircraft flutter analysis, spacecraft attitude dynamics
 
 ### Scientific Fields
-1. **Physics:** Quantum mechanics, statistical mechanics, [[Continuum Mechanics]]
+1. **Physics:** [[Quantum mechanics]], statistical mechanics, [[Continuum Mechanics]]
 2. **Chemistry:** Molecular orbital theory, vibrational spectroscopy
 3. **Economics:** Input-output models, portfolio optimization
 4. **Biology:** Population dynamics, neural networks, protein folding
@@ -556,7 +556,7 @@ $$
 
 **Early 20th century:**
 - Hilbert's spectral theory for integral equations
-- Quantum mechanics revolutionizes application of eigenvalue theory
+- [[Quantum mechanics]] revolutionizes application of eigenvalue theory
 - Numerical methods develop with advent of computers
 
 ### Evolution Over Time
@@ -581,7 +581,7 @@ $$
 1. **Geometric approach:** Visualize eigenvectors as invariant directions
 2. **Physical applications:** Use vibration examples to illustrate eigenvalues as frequencies
 3. **Numerical experiments:** Compute eigenvalues of simple matrices, observe sensitivity
-4. **Historical perspective:** Show evolution from principal axes to quantum mechanics
+4. **Historical perspective:** Show evolution from principal axes to [[quantum mechanics]]
 
 ### Common Misconceptions
 

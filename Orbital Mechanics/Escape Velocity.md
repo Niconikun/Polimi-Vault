@@ -113,7 +113,7 @@ When $r = r_s = \frac{2GM}{c^2}$, the classical escape velocity equals the speed
 
 #### **4.3 Multi-body Systems**
 
-For escape from a system of multiple bodies (e.g., escaping the Solar System from Earth), the concept becomes more complex. The required speed depends on the object's trajectory and gravitational assists.
+For escape from a system of multiple bodies (e.g., escaping the [[Solar System]] from Earth), the concept becomes more complex. The required speed depends on the object's trajectory and gravitational assists.
 
 ---
 

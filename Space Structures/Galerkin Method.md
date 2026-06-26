@@ -1,6 +1,6 @@
 ## Formal Definition
 
-The **Galerkin Method** is a weighted residual numerical technique for solving differential equations by projecting the residual onto a finite-dimensional subspace of test functions. As a member of the broader class of **Method of Weighted Residuals (MWR)**, it transforms continuous differential equations into discrete algebraic systems by enforcing orthogonality between the residual and a set of weighting functions. In its most common form, the **Bubnov-Galerkin** method, the weighting functions are chosen to be identical to the trial functions used to approximate the solution.
+The **Galerkin Method** is a weighted residual numerical technique for solving [[differential equations]] by projecting the residual onto a finite-dimensional subspace of test functions. As a member of the broader class of **Method of Weighted Residuals (MWR)**, it transforms continuous differential equations into discrete algebraic systems by enforcing orthogonality between the residual and a set of weighting functions. In its most common form, the **Bubnov-Galerkin** method, the weighting functions are chosen to be identical to the trial functions used to approximate the solution.
 
 ## Mathematical Formulation
 
@@ -114,7 +114,7 @@ In the [[Finite Element Method]] (FEM), the Galerkin method is applied with:
 ## Advantages
 
 1. **Mathematical Rigor:** Strong theoretical foundation with convergence proofs.
-2. **Flexibility:** Applicable to a wide range of differential equations.
+2. **Flexibility:** Applicable to a wide range of [[differential equations]].
 3. **Systematic Procedure:** Well-defined steps for implementation.
 4. **[[Natural Boundary Conditions]]:** Neumann/Robin conditions incorporated automatically.
 5. **Energy Conservation:** For conservative systems, preserves fundamental physical principles.

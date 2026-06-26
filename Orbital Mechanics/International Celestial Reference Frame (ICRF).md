@@ -5,7 +5,7 @@ The **ICRF** is the **fundamental celestial reference frame** adopted by the **I
 
 ### **Key Characteristics of the ICRF**
 1. **Origin and Orientation**:
-   - **Origin**: The **barycenter of the Solar System** (accounting for the masses of the Sun, planets, and other bodies).
+   - **Origin**: The **barycenter of the [[Solar System]]** (accounting for the masses of the Sun, planets, and other bodies).
    - **Axes**:
      - **X-axis**: Points toward the mean [[equinox]] of **[[J2000]].0** (intersection of the mean equator and ecliptic at the [[J2000]] [[Epoch]]).
      - **Z-axis**: Aligned with the **mean Earth rotation axis** at [[J2000]].0 (Celestial Intermediate Pole, CIP).

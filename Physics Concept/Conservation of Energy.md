@@ -19,7 +19,7 @@ The Law of Conservation of Energy is a fundamental principle of physics which st
     *   **[[Nuclear Energy]]:** Energy stored in the nuclei of atoms.
     *   **[[Radiant Energy]]:** Energy carried by electromagnetic radiation.
 
-*   **[[Transformation]] and Transfer:** The constancy of the total energy does not imply that the energy distribution within the system is static. Energy is continuously converted from one form to another (e.g., potential energy to [[Kinetic Energy]] in a falling object) and transferred between subsystems (e.g., via [[Work]] or [[Heat]]).
+*   **[[Transformation]] and Transfer:** The constancy of the total energy does not imply that the energy distribution within the system is static. Energy is continuously converted from one form to another (e.g., [[potential energy]] to [[Kinetic Energy]] in a falling object) and transferred between subsystems (e.g., via [[Work]] or [[Heat]]).
 
 #### **3. Mathematical Formulation**
 
@@ -50,7 +50,7 @@ The Law of Conservation of Energy is one of the most robust and widely applicabl
 *   Chemical Reactions
 *   Nuclear Physics
 *   General Relativity (with a suitably defined energy-momentum tensor)
-*   Quantum Mechanics
+*   [[Quantum Mechanics]]
 
 In particle physics, energy conservation is linked with mass conservation through Einstein's mass-energy equivalence principle, $E = mc^2$, allowing for the conversion of mass into energy and vice versa, as in nuclear reactions.
 

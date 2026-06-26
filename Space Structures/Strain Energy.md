@@ -62,7 +62,7 @@ where $\lambda$ is the first Lamé constant.
 
 The concept of strain energy is paramount in the analysis and design of space structures:
 
-*   **[[Finite Element Analysis (FEA)]] (FEA):** Solvers often use the **[[Principle of Minimum Potential Energy]]**, which states that a structure in equilibrium minimizes its total potential energy (the sum of strain energy and the potential of applied loads). FEA formulations are frequently derived from this principle.
+*   **[[Finite Element Analysis (FEA)]] (FEA):** Solvers often use the **[[Principle of Minimum Potential Energy]]**, which states that a structure in equilibrium minimizes its total [[potential energy]] (the sum of strain energy and the potential of applied loads). FEA formulations are frequently derived from this principle.
 
 *   **Failure Criteria:** The **[[Distortion Energy Theory]]** (von Mises yield criterion) states that yielding occurs when the distortion energy (a component of the total strain energy associated with shape change, as opposed to volume change) reaches a critical value. The von Mises stress $\sigma_v$ is proportional to the square root of this distortion energy [[density]].
 

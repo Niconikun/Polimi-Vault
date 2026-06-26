@@ -435,7 +435,7 @@ Eigenvalues: $\lambda_k = 2 - 2\cos(\frac{k\pi}{n+1})$, $k=1,\ldots,n$
 
 ### Industrial Scale Problem
 
-**Automotive chassis vibration analysis:**
+**Automotive chassis [[vibration analysis]]:**
 - Matrix: 2,000,000 DOFs, bandwidth ~1000
 - Desired: First 50 modes (0-200 Hz)
 - Method: Block Lanczos with shift-and-invert

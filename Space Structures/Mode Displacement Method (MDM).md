@@ -253,14 +253,14 @@ For distributed systems:
 ### Engineering Disciplines
 1. **Earthquake Engineering:** Seismic response analysis of buildings and bridges
 2. **Aerospace Engineering:** Dynamic response of aircraft and spacecraft structures
-3. **Mechanical Engineering:** Vibration analysis of machinery and rotating equipment
+3. **Mechanical Engineering:** [[Vibration analysis]] of machinery and rotating equipment
 4. **Civil Engineering:** Wind-induced vibration of tall structures
 5. **Nuclear Engineering:** Seismic qualification of nuclear power plant components
 
 ### Scientific Fields
 1. **Geophysics:** Ground motion amplification studies
 2. **Acoustics:** Structural-acoustic interaction problems
-3. **Biomechanics:** Bone and tissue vibration analysis
+3. **Biomechanics:** Bone and tissue [[vibration analysis]]
 4. **Materials Science:** Dynamic characterization of composites
 
 ### Practical Implementations
@@ -530,7 +530,7 @@ $$
 **Military applications:**
 - Aircraft and missile dynamic response
 - Nuclear weapon effects on structures
-- Ship vibration analysis
+- Ship [[vibration analysis]]
 
 ### Evolution Over Time
 

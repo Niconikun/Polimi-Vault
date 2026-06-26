@@ -57,13 +57,13 @@ Think of a tennis ball bouncing off a moving train. If the ball is thrown at the
 ## Advantages and Limitations
 
 ### Strengths
-1. **Propellant Savings:** Allows missions to reach the outer solar system that would otherwise require rockets larger than currently possible.
+1. **Propellant Savings:** Allows missions to reach the outer [[solar system]] that would otherwise require rockets larger than currently possible.
 2. **Speed Generation:** Necessary for reaching high-velocity escape trajectories (e.g., New Horizons to Pluto).
 3. **Braking:** Essential for missions to Mercury or the Sun to "shed" Earth's orbital velocity.
 
 ### Weaknesses
 1. **Launch Windows:** Depends entirely on the alignment of the planets (e.g., the Voyager "Grand Tour" window only opens once every 175 years).
-2. **Increased Flight Time:** Often requires "looping" around the inner solar system for several years to gain enough energy for the outer solar system.
+2. **Increased Flight Time:** Often requires "looping" around the inner [[solar system]] for several years to gain enough energy for the outer [[solar system]].
 3. **Navigation Precision:** Small errors in the approach altitude ([[Periapsis]]) are magnified into massive errors in the departure trajectory.
 
 ## Applications
@@ -73,7 +73,7 @@ Think of a tennis ball bouncing off a moving train. If the ball is thrown at the
 - **Deep Space Network (DSN) Tracking:** Crucial for monitoring the spacecraft during the critical flyby period.
 
 ### Practical Implementations
-- **Voyager 1 & 2:** Used Jupiter, Saturn, Uranus, and Neptune to exit the solar system. 
+- **Voyager 1 & 2:** Used Jupiter, Saturn, Uranus, and Neptune to exit the [[solar system]]. 
 - **Cassini-Huygens:** Used four gravity assists (Venus, Venus, Earth, Jupiter) to reach Saturn.
 - **Parker Solar Probe:** Uses seven flybys of Venus over seven years to gradually lower its perihelion closer to the Sun.
 

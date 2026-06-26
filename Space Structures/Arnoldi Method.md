@@ -94,7 +94,7 @@ $$
 
 **Theorem:** If $\dim(\mathcal{K}_m(A, \mathbf{q}_1)) = m$ (no breakdown), then Arnoldi produces unique (up to sign) orthonormal basis with $Q_m^* A Q_m = H_m$ in Hessenberg form.
 
-**Proof sketch:** Induction on $m$, using linear independence of Krylov vectors and Gram-Schmidt uniqueness.
+**Proof sketch:** Induction on $m$, using [[linear independence]] of Krylov vectors and Gram-Schmidt uniqueness.
 
 ### Convergence Analysis
 
@@ -222,7 +222,7 @@ $$
 
 ### Engineering Disciplines
 1. **Aerospace Engineering:** Flutter analysis, stability of aircraft modes
-2. **Mechanical Engineering:** Vibration analysis of non-conservative systems
+2. **Mechanical Engineering:** [[Vibration analysis]] of non-conservative systems
 3. **Electrical Engineering:** Small-signal stability of power systems
 4. **Control Systems:** Model reduction, controller design
 5. **Civil Engineering:** Dynamic analysis with [[Damping]]
@@ -238,7 +238,7 @@ $$
 - **Computational fluid dynamics:** Stability analysis using ARPACK
 - **Control system design:** Model reduction via balanced truncation
 - **Circuit simulation:** Eigenvalue analysis of descriptor systems
-- **[[Structural Dynamics]]:** Damped vibration analysis
+- **[[Structural Dynamics]]:** Damped [[vibration analysis]]
 - **Data science:** Spectral clustering for non-symmetric affinity matrices
 
 ## Implementation Considerations
@@ -422,7 +422,7 @@ $$
 
 ### Fluid Stability Example
 
-**Orr-Sommerfeld operator:** For plane Poiseuille flow at Reynolds number Re:
+**Orr-Sommerfeld operator:** For plane Poiseuille flow at [[Reynolds number]] Re:
 - Discretization yields large non-symmetric matrix
 - Want eigenvalues with largest real part (most unstable modes)
 - Arnoldi with shift-and-invert near imaginary axis

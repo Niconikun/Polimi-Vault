@@ -368,7 +368,7 @@ $$
 - Peridynamics: Non-local formulation for fracture
 - [[Molecular dynamics]]: Atomistic simulation
 - Discrete element methods: Granular materials
-- Quantum mechanics: Electronic structure effects
+- [[Quantum mechanics]]: Electronic structure effects
 
 ## Current Research Directions
 

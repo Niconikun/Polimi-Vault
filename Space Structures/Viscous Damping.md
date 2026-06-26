@@ -620,7 +620,7 @@ identical to mechanical SDOF equation.
 **Software Tutorials:**
 - MATLAB: ode45 for damped systems, System Identification Toolbox
 - ANSYS/ABAQUS: Damping in transient dynamics
-- Python: SciPy signal processing, vibration analysis libraries
+- Python: SciPy signal processing, [[vibration analysis]] libraries
 
 ## Implementation in Software
 
@@ -955,4 +955,4 @@ if __name__ == "__main__":
 
 ---
 
-*Note: Viscous damping provides a fundamental and mathematically tractable model for energy dissipation in dynamic systems. While real-world damping mechanisms are often more complex, the viscous damping model serves as an essential building block for vibration analysis, structural design, and control system development across engineering disciplines.*
+*Note: Viscous damping provides a fundamental and mathematically tractable model for energy dissipation in dynamic systems. While real-world damping mechanisms are often more complex, the viscous damping model serves as an essential building block for [[vibration analysis]], structural design, and control system development across engineering disciplines.*

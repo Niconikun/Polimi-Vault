@@ -15,7 +15,7 @@ A **Series System** is a configuration of components or subsystems connected suc
 
 ### Foundational Contributors
 
-1. **Robert Lusser:** A pioneer of reliability theory who formulated "Lusser’s Law," which mathematically defines the reliability of series systems.
+1. **Robert Lusser:** A pioneer of [[reliability theory]] who formulated "Lusser’s Law," which mathematically defines the reliability of series systems.
     
 
 ## Mathematical Formulation

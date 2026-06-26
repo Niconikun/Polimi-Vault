@@ -6,7 +6,7 @@ $$\mathcal{H}(q_i, p_i, t) = \sum_{i} p_i \dot{q}_i - \mathcal{L}(q_i, \dot{q}_i
 [[Hamilton’s canonical equations of motion]] are: $$\dot{q}_i = \frac{\partial \mathcal{H}}{\partial p_i}, \quad \dot{p}_i = -\frac{\partial \mathcal{H}}{\partial q_i}$$
 
 > - The [[phase space]], spanned by (qi,pi)(q_i, p_i)(qi​,pi​), is a 2_n_-dimensional manifold where the dynamics evolve, contrasting with the configuration space of [[Lagrangian mechanics]].
-> - Hamiltonian mechanics provides a symmetric, elegant framework that treats coordinates and momenta equally, facilitating canonical transformations, conservation laws, and connections to quantum mechanics and statistical mechanics.
+> - Hamiltonian mechanics provides a symmetric, elegant framework that treats coordinates and momenta equally, facilitating canonical transformations, conservation laws, and connections to [[quantum mechanics]] and statistical mechanics.
 
 ---
 
@@ -14,9 +14,9 @@ $$\mathcal{H}(q_i, p_i, t) = \sum_{i} p_i \dot{q}_i - \mathcal{L}(q_i, \dot{q}_i
 
 Hamiltonian mechanics emerged in 1833 as a profound reformulation of classical mechanics by Sir William Rowan Hamilton. Building upon [[Lagrangian mechanics]]—developed by Joseph-Louis Lagrange in the late 18th century—Hamilton’s approach replaced generalized velocities q˙i\dot{q}_iq˙​i​ with generalized momenta pip_ipi​, introducing a new function, the Hamiltonian, which represents the total energy of the system. This transformation was motivated by the desire for a more elegant and symmetric formulation of the laws of motion, which would simplify the analysis of complex mechanical systems and provide deeper insights into their dynamics.
 
-Hamilton’s work was influenced by the [[Calculus of Variations]] and the [[principle of least action]], which states that the motion of a physical system minimizes the action integral S=∫L dtS = \int \mathcal{L} \, dtS=∫Ldt. By recasting mechanics in terms of [[Generalized Coordinates]] and momenta, Hamilton provided a framework that not only simplified the equations of motion but also revealed the underlying geometric structure of phase space. This reformulation proved crucial for the subsequent development of quantum mechanics, where the Hamiltonian operator plays a central role in Schrödinger’s equation.
+Hamilton’s work was influenced by the [[Calculus of Variations]] and the [[principle of least action]], which states that the motion of a physical system minimizes the action integral S=∫L dtS = \int \mathcal{L} \, dtS=∫Ldt. By recasting mechanics in terms of [[Generalized Coordinates]] and momenta, Hamilton provided a framework that not only simplified the equations of motion but also revealed the underlying geometric structure of phase space. This reformulation proved crucial for the subsequent development of [[quantum mechanics]], where the Hamiltonian operator plays a central role in Schrödinger’s equation.
 
-Carl Gustav Jacobi later extended Hamilton’s work, leading to the Hamilton-Jacobi equation (1842), which further advanced analytical mechanics by providing a powerful method to solve the equations of motion via canonical transformations. The Hamiltonian formalism has since become a cornerstone of classical mechanics, quantum mechanics, statistical mechanics, and even field theory.
+Carl Gustav Jacobi later extended Hamilton’s work, leading to the Hamilton-Jacobi equation (1842), which further advanced analytical mechanics by providing a powerful method to solve the equations of motion via canonical transformations. The Hamiltonian formalism has since become a cornerstone of classical mechanics, [[quantum mechanics]], statistical mechanics, and even field theory.
 
 ---
 
@@ -56,7 +56,7 @@ The Hamiltonian equations of motion are particularly advantageous for systems wi
 
 The Hamiltonian H\mathcal{H}H represents the total energy of the system when the [[Lagrangian]] is time-independent and the [[Potential Energy]] is velocity-independent. In such cases, the Hamiltonian is conserved and corresponds to the system’s energy. However, for time-dependent potentials or non-conservative systems, the Hamiltonian may not correspond to the total energy.
 
-The geometric interpretation of Hamiltonian mechanics is rooted in symplectic geometry. The symplectic 2-form ω\omegaω encodes the structure of phase space and is preserved by canonical transformations. This geometric framework provides a natural setting for understanding the dynamics of Hamiltonian systems and their connections to quantum mechanics and statistical mechanics.
+The geometric interpretation of Hamiltonian mechanics is rooted in symplectic geometry. The symplectic 2-form ω\omegaω encodes the structure of phase space and is preserved by canonical transformations. This geometric framework provides a natural setting for understanding the dynamics of Hamiltonian systems and their connections to [[quantum mechanics]] and statistical mechanics.
 
 ---
 
@@ -82,7 +82,7 @@ Hamiltonian mechanics offers several advantages over Lagrangian mechanics:
 
 - **[[Symmetry]] and Elegance:** The Hamiltonian formulation treats coordinates and momenta equally, providing a symmetric and elegant description of the system’s dynamics.
 - **Canonical Transformations:** Hamiltonian mechanics is naturally suited for canonical transformations, which preserve the form of Hamilton’s equations and are crucial for perturbation theory and integrability.
-- **Connection to Quantum Mechanics:** The Hamiltonian operator in quantum mechanics is directly analogous to the classical Hamiltonian, facilitating the transition from classical to quantum mechanics via canonical quantization.
+- **Connection to [[Quantum Mechanics]]:** The Hamiltonian operator in [[quantum mechanics]] is directly analogous to the classical Hamiltonian, facilitating the transition from classical to [[quantum mechanics]] via canonical quantization.
 - **Phase Space Geometry:** The geometric structure of phase space provides a natural framework for understanding the dynamics of Hamiltonian systems and their connections to other areas of physics.
 
 ---
@@ -100,7 +100,7 @@ Hamiltonian mechanics offers several advantages over Lagrangian mechanics:
 Hamiltonian mechanics extends to:
 
 - **[[Statistical Mechanics]]:** Phase space volume conservation and ergodic theory.
-- **Quantum Mechanics:** Canonical quantization, Hamiltonian operator, and Schrödinger equation.
+- **[[Quantum Mechanics]]:** Canonical quantization, Hamiltonian operator, and Schrödinger equation.
 - **Classical Field Theory:** Hamiltonian [[density]] for fields.
 - **[[Chaos Theory]] and Dynamical Systems:** Analysis of chaotic behavior and Poincaré recurrence theorem.
 - **Optimal Control Theory:** Hamilton-Jacobi-Bellman equation and canonical transformations.
@@ -124,4 +124,4 @@ Hamiltonian mechanics extends to:
 
 ---
 
-This report provides a rigorous and comprehensive breakdown of Hamiltonian mechanics, highlighting its historical development, mathematical formulation, physical interpretation, and broad applicability across physics. The Hamiltonian formalism’s elegance and power lie in its symmetric treatment of coordinates and momenta, its geometric structure, and its deep connections to quantum mechanics and statistical mechanics.
+This report provides a rigorous and comprehensive breakdown of Hamiltonian mechanics, highlighting its historical development, mathematical formulation, physical interpretation, and broad applicability across physics. The Hamiltonian formalism’s elegance and power lie in its symmetric treatment of coordinates and momenta, its geometric structure, and its deep connections to [[quantum mechanics]] and statistical mechanics.

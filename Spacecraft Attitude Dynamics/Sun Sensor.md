@@ -13,7 +13,7 @@ A **Sun Sensor** is a navigational instrument used by spacecraft to determine th
 - **Present:** Modern CubeSats utilize miniaturized "Sun Sensor on a Chip" technology, integrating the sensor and processing logic into a single semiconductor package.
 
 ### Foundational Contributors
-1. **Johannes Kepler (1571–1630):** His work on planetary motion established the Sun as the central reference point for solar system navigation.
+1. **Johannes Kepler (1571–1630):** His work on planetary motion established the Sun as the central reference point for [[solar system]] navigation.
 2. **Adcole Space (Company):** A pioneer in the aerospace industry that standardized the high-reliability digital sun sensors used on hundreds of NASA and military missions.
 
 ## Mathematical Formulation

@@ -81,7 +81,7 @@ $$ \mathbf{f}_{th}^e = EA \alpha \Delta T \begin{bmatrix} -1 \\ 1 \end{bmatrix} 
 
 1. **Nonlinear Geometric Analysis:** Using the corotational formulation or total Lagrangian formulation to account for large displacements and rotations.
 2. **Elastoplastic Behavior:** Incorporating material nonlinearity via plastic hinges or distributed plasticity.
-3. **Dynamic Analysis:** Consistent and lumped mass matrices for transient and vibration analysis.
+3. **Dynamic Analysis:** Consistent and lumped mass matrices for transient and [[vibration analysis]].
 4. **Thermal Effects:** Including thermal expansion and temperature-dependent material properties.
 
 ## Consistent Mass Matrix

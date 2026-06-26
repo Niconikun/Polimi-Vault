@@ -114,7 +114,7 @@ This is the most general form of the rotational equation of motion. Conservation
     \frac{dL^i}{dt} = \tau^i
     $$
 
-The [[Conservation of Angular Momentum]] is a fundamental principle of physics with profound implications, from explaining the stability of planetary orbits and the dynamics of spinning tops to governing the rules of quantum mechanics and the structure of galaxies. The Einstein notation provides a compact and elegant framework for expressing these concepts in a form that readily generalizes to complex systems and advanced physical theories.
+The [[Conservation of Angular Momentum]] is a fundamental principle of physics with profound implications, from explaining the stability of planetary orbits and the dynamics of spinning tops to governing the rules of [[quantum mechanics]] and the structure of galaxies. The Einstein notation provides a compact and elegant framework for expressing these concepts in a form that readily generalizes to complex systems and advanced physical theories.
 
 ### Inertial Tensor and General Rotation of a [[Rigid Body]]
 

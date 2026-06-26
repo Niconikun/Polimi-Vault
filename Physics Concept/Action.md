@@ -14,7 +14,7 @@ Where:
 -$t_1$ and $t_2$ are the initial and final times.
 - $L(q, \dot{q}, t) = T - V$ is the **Lagrangian** of the system.
 - $T$ is the [[Kinetic Energy]] of the system.
-- $V$ is the potential energy of the system.
+- $V$ is the [[potential energy]] of the system.
 - $q$ is the generalized coordinate (or a vector of coordinates).
 - $\dot{q}$ is the generalized [[velocity]].
 
@@ -41,7 +41,7 @@ These equations are equivalent to [[Newton's Second Law]] but are often more pow
 ### Physical Interpretation and Key Concepts
 
 - **A [[Functional]], Not a Function:** Action $S$ is a *[[Functional]]*—it maps an entire path $q(t)$ to a single number. Its [[Stationarity]] condition selects the one physically realized path from an infinity of conceivable paths.
-- **The "Cost" of a Path:** One can intuitively think of the Action as a measure of the "effort" or "dynamical cost" associated with a potential path. Nature "chooses" the path of least effort, which is not necessarily the shortest path in space, but the one that optimally balances kinetic and potential energy over [[time]].
+- **The "Cost" of a Path:** One can intuitively think of the Action as a measure of the "effort" or "dynamical cost" associated with a potential path. Nature "chooses" the path of least effort, which is not necessarily the shortest path in space, but the one that optimally balances kinetic and [[potential energy]] over [[time]].
 - **Connection to Conservation Laws:** The Action formulation provides a deep connection between symmetries and conservation laws via **[[Noether's Theorem]]**. For example:
     - [[Invariance]] of the Lagrangian under [[time]] translation leads to [[Conservation of Energy]].
     - [[Invariance]] under spatial translation leads to [[conservation of linear momentum]].
@@ -55,7 +55,7 @@ The Lagrangian for a rigid spacecraft can be written as:
 $$
 L(\vec{q}, \vec{\omega}) = T_{rot}(\vec{\omega}) - V(\vec{q})
 $$
-where $T_{rot}$ is the [[rotational kinetic energy]] $\frac{1}{2} \vec{\omega}^T \mathbf{I} \vec{\omega}$ and $V$ could represent potential energy from a gravity gradient. The [[Generalized Coordinates]] $\vec{q}$ could be quaternions or [[Euler Angles]].
+where $T_{rot}$ is the [[rotational kinetic energy]] $\frac{1}{2} \vec{\omega}^T \mathbf{I} \vec{\omega}$ and $V$ could represent [[potential energy]] from a gravity gradient. The [[Generalized Coordinates]] $\vec{q}$ could be quaternions or [[Euler Angles]].
 
 [[Hamilton's Principle]] guarantees that the resulting equations of motion (which can be derived to be Euler's rotational equations) are the ones that minimize the Action, providing a profound and general framework for analyzing and deriving the equations for complex multi-body spacecraft systems.
 

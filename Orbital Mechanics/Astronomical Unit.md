@@ -3,7 +3,7 @@
 ---
 ## Formal Definition
 
-The **Astronomical Unit (AU)** is a standard unit of length, primarily used in astronomy to measure distances within the **Solar System**. It is defined as the **average distance between the Earth and the Sun**, approximately **149,597,870.7 kilometers (92,955,807.3 miles)**. The AU provides a convenient scale for describing the sizes of planetary orbits, interplanetary distances, and other measurements within the Solar System. It is one of the fundamental units in **celestial mechanics** and **astrodynamics**.
+The **Astronomical Unit (AU)** is a standard unit of length, primarily used in astronomy to measure distances within the **[[Solar System]]**. It is defined as the **average distance between the Earth and the Sun**, approximately **149,597,870.7 kilometers (92,955,807.3 miles)**. The AU provides a convenient scale for describing the sizes of planetary orbits, interplanetary distances, and other measurements within the Solar System. It is one of the fundamental units in **celestial mechanics** and **astrodynamics**.
 
 ---
 
@@ -71,7 +71,7 @@ where **k** is the constant that relates the orbital period of a planet to its s
 The AU is a fundamental unit in celestial mechanics, used to:
 1. **Describe Planetary Orbits:** The semi-major axes of planetary orbits are often expressed in AU (e.g., Earth = 1 AU, Mars ≈ 1.52 AU).
 2. **Calculate Orbital Periods:** Using Kepler's Third Law, the AU allows astronomers to determine the orbital periods of planets and other celestial bodies.
-3. **Standardize Distances:** The AU provides a consistent scale for measuring distances within the Solar System, avoiding the need for large numbers in meters or kilometers.
+3. **Standardize Distances:** The AU provides a consistent scale for measuring distances within the [[Solar System]], avoiding the need for large numbers in meters or kilometers.
 
 ### Relationship to Other Concepts
 1. **Connection to the Light-Year:**

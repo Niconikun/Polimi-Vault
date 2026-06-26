@@ -53,7 +53,7 @@ This equation reveals the core mechanism:
 
 ### Governing Laws
 -   **Work-Energy Theorem:** Work done is force times distance ($W = F \cdot d$). In a given time $t$, a fast-moving rocket covers more distance $d$ than a slow-moving one. Since thrust $F$ is constant, the work done (energy added) is greater at higher speeds.
--   **[[Conservation of Energy]]:** The chemical [[potential energy]] of the propellant is converted into the [[Kinetic Energy]] of the exhaust and the spacecraft.
+-   **[[Conservation of Energy]]:** The chemical [[Potential Energy]] of the propellant is converted into the [[Kinetic Energy]] of the exhaust and the spacecraft.
 
 ## Physical Interpretation
 

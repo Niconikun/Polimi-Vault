@@ -1,6 +1,6 @@
 ## Formal Definition
 
-A **Boundary Value Problem** (BVP) is a system of differential equations coupled with a set of constraints called **boundary conditions** that must be satisfied on the boundary of the domain. In [[Continuum Mechanics]] and structural analysis, BVPs provide the complete mathematical framework for determining the state of a physical system (displacements, stresses, temperatures, etc.) throughout a spatial domain, given information about the behavior at its boundaries and governing physical laws expressed as differential equations.
+A **Boundary Value Problem** (BVP) is a system of [[differential equations]] coupled with a set of constraints called **boundary conditions** that must be satisfied on the boundary of the domain. In [[Continuum Mechanics]] and structural analysis, BVPs provide the complete mathematical framework for determining the state of a physical system (displacements, stresses, temperatures, etc.) throughout a spatial domain, given information about the behavior at its boundaries and governing physical laws expressed as [[differential equations]].
 
 ## Mathematical Formulation
 
@@ -310,7 +310,7 @@ Uncertainty in parameters, boundary conditions, or geometry:
 
 ## See Also
 
-- [[Partial Differential Equations]]
+- [[Partial Differential Equations (PDEs)]]
 - [[Initial Value Problems]]
 - [[Finite Element Method]]
 - [[Weak Form (Variational Form)]]

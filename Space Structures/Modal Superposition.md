@@ -18,7 +18,7 @@
 ### Foundational Contributors
 1. **Daniel Bernoulli (1700-1782):** Introduced superposition principle for linear systems
 2. **Lord Rayleigh (1842-1919):** Developed Rayleigh's method and energy-based [[Modal Analysis]]
-3. **Stephen Timoshenko (1878-1972):** Advanced practical methods for structural vibration analysis
+3. **Stephen Timoshenko (1878-1972):** Advanced practical methods for structural [[vibration analysis]]
 4. **Ray W. Clough (1920-2016):** Integrated modal superposition into finite element methods
 5. **Edward L. Wilson (b. 1931):** Developed numerical methods for [[Modal Analysis]] in [[Structural Dynamics]]
 
@@ -175,7 +175,7 @@ where $\mathbf{z} = \begin{bmatrix} \mathbf{q} \\ \dot{\mathbf{q}} \end{bmatrix}
 
 ### By Application Domain
 1. **Seismic analysis:** Response spectrum or time history analysis
-2. **Harmonic response:** Steady-state vibration analysis
+2. **Harmonic response:** Steady-state [[vibration analysis]]
 3. **Transient analysis:** Impact, blast, or general transient loading
 4. **[[Random Vibration]]:** Power spectral density analysis
 
@@ -268,7 +268,7 @@ At excitation frequency $\omega \approx \omega_i$:
 
 ### Engineering Disciplines
 1. **Structural Engineering:** Seismic analysis of buildings and bridges, wind-induced vibration
-2. **Mechanical Engineering:** Vibration analysis of machinery, rotor dynamics, fatigue analysis
+2. **Mechanical Engineering:** [[Vibration analysis]] of machinery, rotor dynamics, fatigue analysis
 3. **Aerospace Engineering:** Aircraft flutter analysis, spacecraft structural dynamics
 4. **Civil Engineering:** Dynamic response of dams, towers, and offshore platforms
 5. **Electrical Engineering:** Vibration of power transmission lines, transformer noise
@@ -551,7 +551,7 @@ $$
 
 ### Original Motivation
 
-**Early vibration analysis:**
+**Early [[vibration analysis]]:**
 - Musical instruments and acoustics
 - Clock and watch mechanisms
 - Bridge and building failures due to resonance

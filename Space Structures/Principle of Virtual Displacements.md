@@ -106,7 +106,7 @@ This derivation proves the equivalence between the [[Strong Form (Pointwise Form
 
 ### 4. Relationship to the [[Variational Principle]]
 
-The Principle of Virtual Displacements is essentially the **first variation of the total [[potential energy]] [[Functional]]**.
+The Principle of Virtual Displacements is essentially the **first variation of the total [[Potential Energy]] [[Functional]]**.
 
 Recall the total potential energy:
 $$

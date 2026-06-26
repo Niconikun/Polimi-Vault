@@ -28,7 +28,7 @@ $$
 \vec{F}_g = -\nabla U \quad \Rightarrow \quad F_g = -\frac{dU}{dr} = -G \frac{m_1 m_2}{r^2}
 $$
 
-This confirms that the force is the spatial rate of change of the potential energy.
+This confirms that the force is the spatial rate of change of the [[potential energy]].
 
 #### **3. For a System of Multiple Particles**
 

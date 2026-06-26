@@ -17,7 +17,7 @@ $$
 $$
 
 where:
-- $U[\mathbf{u}]$ = [[Strain Energy]] (internal potential energy) stored in the deformed body
+- $U[\mathbf{u}]$ = [[Strain Energy]] (internal [[potential energy]]) stored in the deformed body
 - $W[\mathbf{u}]$ = work potential of external forces (negative of work done by external forces)
 
 ### Detailed Expressions

@@ -16,7 +16,7 @@ A **Sample Space** (denoted Ω or S) is the set of all possible distinct outcome
 ### Foundational Contributors
 1. **Blaise Pascal (1623-1662):** Early work on probability of dice rolls
 2. **Pierre-Simon Laplace (1749-1827):** Formalized sample space concept
-3. **Andrey Kolmogorov (1903-1987):** Axiomatic treatment using measure theory
+3. **Andrey Kolmogorov (1903-1987):** Axiomatic treatment using [[measure theory]]
 4. **Joseph Doob (1910-2004):** Developed theory for stochastic processes
 5. **William Feller (1906-1970):** Popularized sample space concepts in textbooks
 
@@ -147,7 +147,7 @@ Size and structure of Ω relate to:
 ### Engineering & Science
 1. **Reliability analysis:** Sample space of failure modes
 2. **[[Signal processing]]:** Sample spaces for random signals
-3. **Quantum mechanics:** Sample space of measurement outcomes
+3. **[[Quantum mechanics]]:** Sample space of measurement outcomes
 
 ### Computer Science & AI
 1. **Randomized algorithms:** Sample space of random choices
@@ -206,7 +206,7 @@ omega = "ℝ"  # Real numbers
 4. **Computational foundation:** Basis for random sampling algorithms
 
 ### Weaknesses
-1. **Complexity for large spaces:** Uncountable Ω requires measure theory
+1. **Complexity for large spaces:** Uncountable Ω requires [[measure theory]]
 2. **Non-uniqueness:** Multiple valid Ω for same phenomenon
 3. **Practical limitations:** Some Ω too large to enumerate or sample
 4. **Interpretation challenges:** Infinite Ω can be counterintuitive
@@ -281,7 +281,7 @@ omega = "ℝ"  # Real numbers
 
 ### Modern Formulation
 - **Kolmogorov's axioms:** Unified discrete and continuous probability
-- **Measure theory:** Provided tools for uncountable Ω
+- **[[Measure theory]]:** Provided tools for uncountable Ω
 - **Functional analysis:** Extended to infinite-dimensional Ω
 
 ### Current Trends

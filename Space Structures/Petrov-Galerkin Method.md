@@ -142,7 +142,7 @@ where $k$ depends on polynomial degree and stabilization effectiveness
 
 ## Practical Applications
 
-1. **Fluid Dynamics:** Navier-Stokes equations, especially high Reynolds number flows
+1. **Fluid Dynamics:** Navier-Stokes equations, especially high [[Reynolds number]] flows
 2. **Convection-Diffusion-Reaction:** Chemical transport, pollutant dispersion
 3. **Wave Propagation:** Helmholtz equation, acoustics, electromagnetics
 4. **Plasma Physics:** Magnetohydrodynamics (MHD) equations

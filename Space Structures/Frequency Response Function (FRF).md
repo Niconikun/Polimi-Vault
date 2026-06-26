@@ -132,7 +132,7 @@ Frequency response characteristics determined by:
 
 ## Derivation and Proof
 
-### From Differential Equations
+### From [[Differential Equations]]
 
 Consider linear constant-coefficient differential equation:
 $$
@@ -202,7 +202,7 @@ $$
 2. **[[Signal Processing]]:** Filter design, equalization, spectral shaping
 3. **Communications:** Channel characterization, [[impedance]] matching
 4. **Audio Engineering:** Speaker/headphone response, room acoustics
-5. **Vibration Analysis:** Mechanical [[Resonance]] characterization, [[Damping]] estimation
+5. **[[Vibration Analysis]]:** Mechanical [[Resonance]] characterization, [[Damping]] estimation
 
 ### Scientific Fields
 1. **Physics:** Optical system response, acoustic [[impedance]]

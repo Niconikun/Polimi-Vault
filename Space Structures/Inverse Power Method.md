@@ -221,7 +221,7 @@ Since \( \left| \frac{\lambda_1 - \sigma}{\lambda_i - \sigma} \right| < 1 \) for
 
 ### Quantum State Calculation
 
-**Quantum mechanics:** For Hamiltonian \( H \), shift \( \sigma \) near energy level of interest:
+**[[Quantum mechanics]]:** For Hamiltonian \( H \), shift \( \sigma \) near energy level of interest:
 - Inverse iteration computes corresponding wavefunction
 - More efficient than full diagonalization for specific states
 
@@ -398,7 +398,7 @@ $$
 2. Solve \( T(\lambda^{(k)}) \mathbf{w} = T'(\lambda^{(k)}) \mathbf{v}^{(k)} \)
 3. Update eigenvector and eigenvalue
 
-**Applications:** Damped vibration systems, delay differential equations.
+**Applications:** Damped vibration systems, delay [[differential equations]].
 
 ## Special Cases and Examples
 
@@ -544,7 +544,7 @@ $$
 - Avoid full eigenvalue decomposition which was computationally prohibitive
 - Early applications in aircraft and bridge design
 
-**Quantum mechanics applications:**
+**[[Quantum mechanics]] applications:**
 - Compute specific energy states of atoms and molecules
 - Ground state and excited state calculations
 - Basis for many quantum chemistry methods
@@ -864,7 +864,7 @@ def generalized_inverse_power_method(A, B, sigma, v0=None, max_iter=100, tol=1e-
 - Preconditioning
 - Sparse Matrix
 - [[Numerical Linear Algebra]]
-- Vibration Analysis
+- [[Vibration Analysis]]
 - [[Quantum Mechanics]]
 
 ---

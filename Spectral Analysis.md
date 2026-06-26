@@ -163,7 +163,7 @@ where $\sigma_w^2$ is innovation variance.
 
 ## Applications
 
-### [[Structural Dynamics]] and Vibration Analysis
+### [[Structural Dynamics]] and [[Vibration Analysis]]
 1. **[[Modal Analysis]]:** Identifying natural frequencies, [[Damping]] ratios, mode shapes
 2. **Operational [[Modal Analysis]]:** Extracting modal parameters from operational response only
 3. **Fault Detection:** Monitoring changes in spectral characteristics for condition monitoring
@@ -315,7 +315,7 @@ Common window functions and their properties:
 - `pywt`: Wavelet transform
 
 ### Specialized Software
-- **LMS Test.Lab:** Industrial vibration analysis
+- **LMS Test.Lab:** Industrial [[vibration analysis]]
 - **MATLAB System Identification Toolbox:** Parametric spectral estimation
 - **R's `spectrum` function:** Multiple spectral estimation methods
 
@@ -327,7 +327,7 @@ Common window functions and their properties:
 3. **Nonparametric Estimation:** Periodogram, windowing, averaging
 4. **Parametric Estimation:** AR, MA, ARMA modeling
 5. **Time-Frequency Analysis:** STFT, wavelets
-6. **Applications:** Vibration analysis, communications, biomedical
+6. **Applications:** [[Vibration analysis]], communications, biomedical
 
 ### Common Misconceptions
 1. **"Spectrum shows sinusoidal components":** Actually shows statistical distribution of power
@@ -343,7 +343,7 @@ Common window functions and their properties:
 - Foundation for information theory and modern communications
 
 ### Engineering Applications
-- Revolutionized vibration analysis and structural health monitoring
+- Revolutionized [[vibration analysis]] and structural health monitoring
 - Enabled modern digital communications (OFDM, spread spectrum)
 - Critical for medical diagnostics (EEG, ECG analysis)
 

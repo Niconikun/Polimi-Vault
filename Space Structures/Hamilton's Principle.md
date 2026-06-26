@@ -15,7 +15,7 @@ $$
 where:
 - $L = T - V$ is the Lagrangian function
 - $T$ is the [[Kinetic Energy]] of the system
-- $V$ is the potential energy of the system (including both conservative and non-conservative forces if expressed appropriately)
+- $V$ is the [[potential energy]] of the system (including both conservative and non-conservative forces if expressed appropriately)
 - $q_i$ are the [[Generalized Coordinates]]
 - $\dot{q}_i$ are the generalized velocities
 - $t_1$ and $t_2$ are the initial and final times, respectively
@@ -159,7 +159,7 @@ Hamilton's Principle serves as the foundation for:
 
 ### Theoretical Power
 - Direct connection to conservation laws via [[Noether's Theorem]]
-- Foundation for quantum mechanics via Feynman's path integral formulation
+- Foundation for [[quantum mechanics]] via Feynman's path integral formulation
 - Essential for developing relativistic and field-theoretic formulations
 
 ### Computational Utility
@@ -189,7 +189,7 @@ Hamilton's Principle serves as the foundation for:
 - Action for a relativistic particle
 - Lagrangian density for relativistic fields
 
-### Quantum Mechanics
+### [[Quantum Mechanics]]
 - Feynman path integral formulation: amplitudes as sums over all paths weighted by $e^{iS/\hbar}$
 
 ### Optimal Control Theory

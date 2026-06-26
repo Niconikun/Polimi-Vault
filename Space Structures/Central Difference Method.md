@@ -5,7 +5,7 @@ The **Central Difference Method** (also known as the **explicit central differen
 ## Historical Development
 
 ### Key Milestones
-- **1927:** Lewis Fry Richardson proposes finite difference methods for solving differential equations
+- **1927:** Lewis Fry Richardson proposes finite difference methods for solving [[differential equations]]
 - **1940s:** Development of explicit difference schemes for solving hyperbolic equations
 - **1950s:** Application to structural dynamics problems in engineering
 - **1960s:** Implementation in finite difference codes for wave propagation
