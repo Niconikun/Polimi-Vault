@@ -12,7 +12,7 @@ In the context of **[[attitude]] dynamics**, SRP is significant for two primary 
 
 ### **2. Calculation of Solar Radiation Pressure Force**
 
-The calculation is derived from the physics of [[photon]] momentum. The force arises from three [[photon]]-surface interactions: [[absorption]], [[specular reflection]], and [[Diffuse Reflection]].
+The calculation is derived from the physics of [[photon]] momentum. The force arises from three [[photon]]-surface interactions: [[Absorption]], [[specular reflection]], and [[Diffuse Reflection]].
 
 #### **A. Fundamental Solar Radiation Pressure**
 

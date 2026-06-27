@@ -15,7 +15,7 @@
 ### 1.3. Operational Closure
 - **Definition**: Systems are **organizationally closed** (Maturana & Varela, 1980). They generate their own states via recursive interactions.
 - **Cybernetic Link**: Resonates with **[[Autopoiesis]]** and **[[circular causality]]**.
-  - *Example*: A neural network’s weights are updated via internal rules (e.g., backpropagation), not external data.
+  - *Example*: A neural network’s weights are updated via internal rules (e.g., [[backpropagation]]), not external data.
 
 ### 1.4. Observer-Dependence
 - **Definition**: All descriptions are **observer-relative**; no "God’s-eye view" exists.

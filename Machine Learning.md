@@ -222,7 +222,7 @@ $$
 3. **Decision Trees:** Information gain or Gini impurity splits
 4. **Random Forests:** Bootstrap aggregating; parallel tree training
 5. **Gradient Boosting:** Sequential [[Optimization Theory|optimization]]; XGBoost, LightGBM
-6. **Neural Networks:** Backpropagation; [[Optimization Theory|stochastic gradient descent]]
+6. **Neural Networks:** [[Backpropagation]]; [[Optimization Theory|stochastic gradient descent]]
 
 ### Unsupervised Learning Algorithms
 

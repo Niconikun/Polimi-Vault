@@ -14,7 +14,7 @@
     where $\sigma$ is a non-linear activation function (e.g., ReLU).
 
 ### 1.3. Learning as Weight Adjustment
-- **Definition**: Learning is the **adjustment of connection weights** via algorithms (e.g., backpropagation) to minimize error, not explicit rule acquisition.
+- **Definition**: Learning is the **adjustment of connection weights** via algorithms (e.g., [[backpropagation]]) to minimize error, not explicit rule acquisition.
 - **Cybernetic Link**: Maps to **adaptive control systems** (Ashby, 1956). The network **self-organizes** through feedback.
   - *Example*: A deep learning model "learns" to classify images by iteratively tuning weights to reduce prediction errors.
 
@@ -93,7 +93,7 @@ $$
 ## 7. Formal Summary
 Connectionism is a **subsymbolic, distributed, and adaptive** theory of cognition where:
 1. **Knowledge** = **weight matrices** and **activation patterns** (not symbols).
-2. **Learning** = **optimization** of weights via feedback (e.g., backpropagation).
+2. **Learning** = **optimization** of weights via feedback (e.g., [[backpropagation]]).
 3. **Processing** = **context-sensitive** dynamics in a high-dimensional state space.
 
 **Key Equation**:

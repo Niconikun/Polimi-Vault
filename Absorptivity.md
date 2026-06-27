@@ -2,8 +2,6 @@
 
 **Absorptivity** (α) is a dimensionless property (ranging from 0 to 1) that represents the fraction of incident radiant energy (irradiation) that is absorbed by a [[Surface]]. In aerospace engineering, we specifically focus on **Solar Absorptivity** (αs​), which characterizes a material's behavior under the high-energy, short-wavelength spectrum of the Sun (approximately **0.2 to 3.0 μm**). A surface with an absorptivity of 1 is a perfect absorber (a blackbody), while a surface with an absorptivity of 0 reflects all incoming energy.
 
-+1
-
 ## Historical Development
 
 ### Key Milestones

@@ -42,7 +42,7 @@ Adaptive systems can be described using mathematical models that incorporate **f
   - **k** = Time step
 
 - **[[Neural Networks]]:**
-  Adaptive systems based on [[neural networks]] use **[[backpropagation]]** to adjust weights and biases:
+  Adaptive systems based on [[neural networks]] use **[[Backpropagation]]** to adjust weights and biases:
   $$
   w_{new} = w_{old} - \eta \cdot \frac{\partial E}{\partial w}
   $$
