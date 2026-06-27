@@ -244,7 +244,7 @@ $$
 - Phase change (Stefan problems)
 
 ### Electromagnetics
-- Maxwell's equations
+- [[Maxwell's equations]]
 - Wave propagation
 - Antenna design
 

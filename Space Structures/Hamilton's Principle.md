@@ -91,7 +91,7 @@ In the configuration space (the space of all [[generalized coordinates]]), the s
 ### Continuous Systems
 - Elastic solids (beams, plates, shells)
 - Fluid dynamics (in variational formulations)
-- Electromagnetic fields (Maxwell's equations from Lagrangian density)
+- Electromagnetic fields ([[Maxwell's equations]] from Lagrangian density)
 - General relativity (Einstein-Hilbert action)
 
 ### [[Structural Dynamics]]

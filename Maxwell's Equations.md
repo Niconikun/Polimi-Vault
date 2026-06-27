@@ -57,44 +57,44 @@ $$
 **Field Variables:**
 - $\mathbf{E}$: [[Electric Field]] (V/m)
 - $\mathbf{B}$: [[Magnetic Field]] (Tesla, T)
-- $\rho$: charge density (C/m³)
-- $\mathbf{J}$: current density (A/m²)
+- $\rho$: [[charge density]] (C/m³)
+- $\mathbf{J}$: [[current density]] (A/m²)
 
 **Physical Constants:**
-- $\epsilon_0 = 8.854 \times 10^{-12}$ F/m: permittivity of free space
-- $\mu_0 = 4\pi \times 10^{-7}$ H/m: permeability of free space
-- $c = 1/\sqrt{\mu_0 \epsilon_0} \approx 3 \times 10^8$ m/s: speed of light
+- $\epsilon_0 = 8.854 \times 10^{-12}$ F/m: [[Permittivity]] of free space
+- $\mu_0 = 4\pi \times 10^{-7}$ H/m: [[Permeability]] of free space
+- $c = 1/\sqrt{\mu_0 \epsilon_0} \approx 3 \times 10^8$ m/s: [[Speed of Light]]
 
 ### Integral Form
 
-**Gauss's Law:**
+**[[Gauss's Law]]:**
 $$
 \oint_S \mathbf{E} \cdot d\mathbf{A} = \frac{Q_{\text{enc}}}{\epsilon_0}
 $$
 
-**Gauss's Law for Magnetism:**
+**[[Gauss's Law]]:**
 $$
 \oint_S \mathbf{B} \cdot d\mathbf{A} = 0
 $$
 
-**Faraday's Law:**
+**[[Faraday's Law]]:**
 $$
 \oint_C \mathbf{E} \cdot d\mathbf{l} = -\frac{d\Phi_B}{dt}
 $$
 
-**Ampère-Maxwell Law:**
+**[[Ampère-Maxwell Law]]:**
 $$
 \oint_C \mathbf{B} \cdot d\mathbf{l} = \mu_0 I_{\text{enc}} + \mu_0 \epsilon_0 \frac{d\Phi_E}{dt}
 $$
 
 ### Special Cases
 
-1. **Electrostatics (Static Fields, $\partial/\partial t = 0$):**
+1. **[[Electrostatics]] (Static Fields, $\partial/\partial t = 0$):**
    $$
    \nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}, \quad \nabla \times \mathbf{E} = 0
    $$
 
-2. **Magnetostatics (Static Currents):**
+2. **[[Magnetostatics]] (Static Currents):**
    $$
    \nabla \cdot \mathbf{B} = 0, \quad \nabla \times \mathbf{B} = \mu_0 \mathbf{J}
    $$

@@ -196,7 +196,7 @@ $$
 S = \int \mathcal{L}(\phi, \partial_\mu \phi) d^4x
 $$
 
-[[Euler-Lagrange Equations]] yield field equations, e.g., Maxwell's equations from electromagnetic Lagrangian.
+[[Euler-Lagrange Equations]] yield field equations, e.g., [[Maxwell's equations]] from electromagnetic Lagrangian.
 
 ### Geometric Optics
 

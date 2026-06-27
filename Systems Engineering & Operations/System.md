@@ -1,6 +1,6 @@
 ## Formal Definition
 
-**A System** is a cohesive conglomeration of interrelated and interacting elements—including hardware, software, people, processes, and facilities—that work together toward a common goal. It is characterized by **emergence**, where the properties of the whole system are not found in any of the individual parts alone, and by a clearly defined **boundary** that distinguishes the system from its external environment.
+**A System** is a cohesive conglomeration of interrelated and interacting elements—including hardware, software, people, processes, and facilities—that work together toward a common goal. It is characterized by **[[Emergence]]**, where the properties of the whole system are not found in any of the individual parts alone, and by a clearly defined **boundary** that distinguishes the system from its external environment.
 
 ## Historical Development
 

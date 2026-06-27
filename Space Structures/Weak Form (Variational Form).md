@@ -261,7 +261,7 @@ where \( p \) is the polynomial degree of approximation.
 - Boundary layer theory
 
 ### Electromagnetics
-- Maxwell's equations
+- [[Maxwell's equations]]
 - Wave propagation
 - Electrostatics and magnetostatics
 

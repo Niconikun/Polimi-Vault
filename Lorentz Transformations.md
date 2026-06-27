@@ -202,7 +202,7 @@ Lorentz transformations are rotations in Minkowski space preserving this metric.
 ## Relationship to Other Concepts
 
 1. **Connection to [[Maxwell's Equations]]:**
-   - Maxwell's equations invariant under Lorentz transformations
+   - [[Maxwell's equations]] invariant under Lorentz transformations
    - Predicts constancy of $c$
    - First hint at relativity necessity
 
