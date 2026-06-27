@@ -302,10 +302,10 @@ These are computed post-solution by differentiating the moment field.
 ## See Also
 
 - [[Mindlin Plate Element (Mindlin-Reissner)]]
-- [[Shell Finite Elements]]
-- [[C¹ Continuity in Finite Elements]]
+- Shell Finite Elements]]
+- C¹ Continuity in Finite Elements]]
 - [[Plate Theory Fundamentals]]
 - [[Bogner-Fox-Schmit Element]]
-- [[Discrete Kirchhoff Elements]]
+- Discrete Kirchhoff Elements]]
 - [[Isogeometric Analysis]]
 - [[Thin-Walled Structures]]

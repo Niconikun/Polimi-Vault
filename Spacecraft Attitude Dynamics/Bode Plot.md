@@ -157,7 +157,7 @@ For spacecraft [[attitude control]] with [[Transfer Function]]:
 $$
 G(s) = \frac{1}{I s^2}
 $$
-and PD controller $C(s) = K_p + K_d s$:
+and [[PD controller]] $C(s) = K_p + K_d s$:
 
 **Open-loop [[Transfer Function]]:**
 $$

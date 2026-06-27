@@ -256,7 +256,7 @@ For computational stability analysis:
 ---
 
 ## **Historical Note**
-Developed by Aleksandr Lyapunov (1892) in his doctoral thesis "The General Problem of the Stability of Motion." Originally in Russian, it became widely known in the West after translation in the 1960s.
+Developed by Aleksandr Lyapunov (1892) in his doctoral thesis "The General Problem of the Stability of Motion." Originally in Russian, it became widely known in the West after [[translation]] in the 1960s.
 
 ---
 

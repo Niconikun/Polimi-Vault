@@ -574,7 +574,7 @@ $$
 
 - **Data-driven modal identification:** From operational vibration data
 - **Digital twin integration:** Real-time modal updating from sensor data
-- **Machine learning enhancements:** Neural networks for mode selection and error estimation
+- **Machine learning enhancements:** [[Neural networks]] for mode selection and error estimation
 - **Quantum computing applications:** For very large eigenvalue problems
 
 ## Pedagogical Approach

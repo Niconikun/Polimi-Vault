@@ -28,7 +28,7 @@ The concept has deep philosophical roots but became a central topic in 20th-cent
     *   **Link:** [[Weak Emergence]], [[Strong Emergence]], [[Reductionism]].
 
 2.  **The Relationship Between Micro and Macro**
-    *   **Description:** Emergence describes a specific kind of relationship between the micro-level (the agents/components) and the macro-level (the system as a whole). The macro-level patterns **constrain and influence** the behavior of the micro-level components, a process known as **Downward Causation**.
+    *   **Description:** Emergence describes a specific kind of relationship between the micro-level (the agents/components) and the macro-level (the system as a whole). The macro-level patterns **constrain and influence** the behavior of the micro-level components, a process known as **[[Downward Causation]]**.
     *   **Link:** [[Downward Causation]], [[Micro-Macro Link]], [[Circular Causality]].
 
 3.  **[[Synergy]] and Non-Linearity**

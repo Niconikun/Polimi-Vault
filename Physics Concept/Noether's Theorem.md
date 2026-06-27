@@ -60,8 +60,8 @@ where $\bar{\delta}\phi^i = \phi'^{\,i}(x) - \phi^i(x) = \Delta \phi^i - \partia
 
 The power of the theorem is illustrated by its most famous applications:
 
-*   **Temporal Translation [[Invariance]] ($t \to t + \epsilon$):** [[Symmetry]] under translation in [[Time]] implies **[[Conservation of Energy]]**.
-*   **Spatial Translation [[Invariance]] ($\vec{x} \to \vec{x} + \vec{\epsilon}$):** [[Symmetry]] under [[Translation]] in [[Space]] implies **[[Conservation of Linear Momentum]]**.
+*   **Temporal Translation [[Invariance]] ($t \to t + \epsilon$):** [[Symmetry]] under [[translation]] in [[Time]] implies **[[Conservation of Energy]]**.
+*   **Spatial [[Translation]] [[Invariance]] ($\vec{x} \to \vec{x} + \vec{\epsilon}$):** [[Symmetry]] under [[Translation]] in [[Space]] implies **[[Conservation of Linear Momentum]]**.
 *   **Spatial Rotation [[Invariance]]:** [[Symmetry]] under [[Rotation]] implies **[[Conservation of Angular Momentum]]**.
 *   **Internal Gauge [[Invariance]] (e.g., $\psi \to e^{i\theta}\psi$):** Symmetry under a [[global phase transformation]] implies **[[Conservation of Electric Charge]]**.
 

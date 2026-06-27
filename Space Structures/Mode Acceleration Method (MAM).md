@@ -9,7 +9,7 @@ The **Mode Acceleration Method** (MAM), also known as the **Mode Inertia Relief 
 - **1960s:** Formal mathematical formulation by W. C. Hurty and M. F. Rubin
 - **1970s:** Application to seismic analysis and nuclear power plant design
 - **1980s:** Comparison studies establishing superiority over Mode Displacement Method for force calculations
-- **1990s:** Extension to nonlinear dynamics and component mode synthesis
+- **1990s:** Extension to [[nonlinear dynamics]] and component mode synthesis
 - **2000s:** Implementation in commercial finite element software with automated correction
 - **2010s:** Integration with model reduction techniques for real-time applications
 
@@ -527,7 +527,7 @@ $$
 
 ### Modern Reformulations
 
-- **Machine learning MAM:** Neural networks for mode selection and correction
+- **Machine learning MAM:** [[Neural networks]] for mode selection and correction
 - **GPU-accelerated MAM:** Parallel computation of modal responses
 - **Adaptive MAM:** Real-time adjustment of modal basis
 - **Digital twin integration:** Continuous model updating from sensor data

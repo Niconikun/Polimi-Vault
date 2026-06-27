@@ -81,7 +81,7 @@ where $\Omega = \bigcup_{i=1}^N \Omega_i$
 **Resulting condition:** Average residual over each subdomain is zero
 **Advantages:** Conservative, leads to finite volume methods
 
-### 3. Least Squares Method
+### 3. [[Least Squares Method]]
 **Weighting functions:** Derivatives of residual with respect to coefficients
 $$
 w_i = \frac{\partial R_N}{\partial c_i}
@@ -321,7 +321,7 @@ For linear problems: **[[Consistency]] + Stability ⇔ Convergence**
 - Non-symmetric matrices
 - Full or structured depending on basis
 
-**Least squares method:**
+**[[Least squares method]]:**
 - Symmetric positive definite normal equations
 - Squared condition number
 

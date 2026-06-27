@@ -82,7 +82,7 @@ This is a **double integrator**, characteristic of rigid-body rotational dynamic
 Transfer functions enable systematic controller design using:
 
 #### **Proportional-Derivative (PD) Attitude Controller**
-A PD controller for attitude has transfer function:
+A [[PD controller]] for attitude has transfer function:
 $$
 C(s) = K_p + K_d s
 $$

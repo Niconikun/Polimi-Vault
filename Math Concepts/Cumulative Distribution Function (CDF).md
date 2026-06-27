@@ -62,7 +62,7 @@ $$f(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\r
 
 ### Governing Laws
 
-- **The Central Limit Theorem:** Explains why so many random aerospace loads (like acoustic noise) end up looking like a Gaussian "Bell Curve"—it's the result of many independent random events adding together.
+- **The [[Central Limit Theorem]]:** Explains why so many random aerospace loads (like acoustic noise) end up looking like a Gaussian "Bell Curve"—it's the result of many independent random events adding together.
     
 
 ## Theoretical Framework

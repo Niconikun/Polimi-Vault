@@ -1,10 +1,10 @@
 ## 1. Core Tenets
 ### 1.1. [[State-Space Representation]] Representation
 - **Definition**: Systems are described by **state variables** that evolve over time according to **[[differential equations]]** or **difference equations**. The **[[State-Space Representation]]** captures all possible configurations of the system.
-- **Cybernetic Link**: Aligns with **control theory** (Wiener, 1948) and **[[Systems Theory]]** (Bertalanffy, 1968). The system's behavior is a **trajectory** through [[State-Space Representation]].
+- **Cybernetic Link**: Aligns with **[[control theory]]** (Wiener, 1948) and **[[Systems Theory]]** (Bertalanffy, 1968). The system's behavior is a **trajectory** through [[State-Space Representation]].
   - *Example*: A pendulum's state is fully described by its angle $\theta$ and [[Angular Velocity]] $\dot{\theta}$, evolving according to $\ddot{\theta} = -\frac{g}{L}\sin\theta$.
 
-### 1.2. Nonlinear Dynamics
+### 1.2. [[Nonlinear Dynamics]]
 - **Definition**: Systems exhibit **nonlinear** relationships between variables, leading to **emergent behaviors** such as **attractors**, **bifurcations**, and **chaos**.
 - **Cybernetic Link**: Resonates with **complex [[Systems Theory]]** and **synergetics** (Haken, 1977). Small changes in parameters can lead to **qualitative shifts** in system behavior.
   - *Formalism*: For a system with state $\mathbf{x} \in \mathbb{R}^n$:
@@ -84,7 +84,7 @@ A system $S$ is **structurally stable** iff small perturbations to $f$ do not qu
 ### 5.2. Robotics Example: Dynamic Walking
 - **Scenario**: A passive-dynamic walker on a slope.
   - **DST Interpretation**:
-    - The walker's state (angle, [[Angular Velocity]]) follows **nonlinear dynamics**:
+    - The walker's state (angle, [[Angular Velocity]]) follows **[[nonlinear dynamics]]**:
       $$
       \ddot{\theta} = \frac{g}{L}\sin(\theta - \alpha) - \frac{\dot{\theta}^2}{L}\sin(\theta - 2\alpha),
       $$
@@ -127,4 +127,4 @@ $$
    - Connect to [[First-Order Cybernetics]], [[Second-Order Cybernetics]], [[Autopoiesis]], and [[Chaos Theory]].
 1. **Examples**:
    - Add a **biological example** (e.g., circadian rhythms as limit cycles).
-   - Expand with **AI examples** (e.g., reservoir computing as a dynamic system).
+   - Expand with **[[Artificial Intelligence]] examples** (e.g., reservoir computing as a dynamic system).

@@ -69,7 +69,7 @@ meaning all operations refer only to its own states.
 
 ---
 
-## 5. Example: Second-Order Cybernetics in AI
+## 5. Example: Second-Order Cybernetics in [[Artificial Intelligence]]
 - **Scenario**: A human training a reinforcement learning (RL) agent.
   - **Second-Order Interpretation**:
     - The agent's "knowledge" of the environment is **co-constructed** with the human trainer's observations and reward design.
@@ -115,4 +115,4 @@ $$
    - Connect to [[Radical Constructivism]], [[Autopoiesis]], [[Enactivism]], and [[First-Order Cybernetics]].
 1. **Examples**:
    - Add a **social systems example** (e.g., Luhmann’s theory of communication).
-   - Expand with **AI examples** (e.g., human-in-the-loop machine learning).
+   - Expand with **[[Artificial Intelligence]] examples** (e.g., human-in-the-loop machine learning).

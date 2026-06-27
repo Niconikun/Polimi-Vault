@@ -70,7 +70,7 @@ where $\theta$ is the threshold for maintaining operational closure.
 
 ---
 
-## 5. Example: Autopoiesis in Biology and AI
+## 5. Example: Autopoiesis in Biology and [[Artificial Intelligence]]
 ### 5.1. Biological Example: The Cell
 - **Scenario**: A eukaryotic cell maintaining its membrane and organelles.
   - **Autopoietic Interpretation**:
@@ -81,7 +81,7 @@ where $\theta$ is the threshold for maintaining operational closure.
     \text{Nutrients} \xrightarrow{\text{perturbation}} \text{Receptors} \xrightarrow{\text{metabolic pathways}} \text{Organelles} \xrightarrow{\text{self-repair}} \text{Cell}.
     $$
 
-### 5.2. AI Example: Self-Maintaining Robot
+### 5.2. [[Artificial Intelligence]] Example: Self-Maintaining Robot
 - **Scenario**: A robot that repairs its own components using environmental resources.
   - **Autopoietic Interpretation**:
     - The robot’s "goal" is not programmed but **emerges** from its need to maintain operational closure (e.g., replacing damaged parts).
@@ -127,4 +127,4 @@ $$
    - Connect to [[Enactivism]], [[Radical Constructivism]], [[Dynamic Systems Theory]], and [[Second-Order Cybernetics]].
 1. **Examples**:
    - Add a **social systems example** (e.g., Luhmann’s autopoietic communication systems).
-   - Expand with **AI implementations** (e.g., artificial chemistry models of autopoiesis).
+   - Expand with **[[Artificial Intelligence]] implementations** (e.g., artificial chemistry models of autopoiesis).

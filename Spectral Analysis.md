@@ -292,7 +292,7 @@ Common window functions and their properties:
 - Applications: Cognitive radio, medical imaging
 
 ### Deep Learning Approaches
-- Neural networks for spectral estimation
+- [[Neural networks]] for spectral estimation
 - Automatic feature extraction from time series
 - End-to-end system identification
 

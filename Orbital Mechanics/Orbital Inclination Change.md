@@ -8,7 +8,7 @@ An **Orbital [[Inclination]] Change** (or plane change) is an orbital maneuver p
 
 ### Key Milestones
 - **1950s:** Mathematical formalization during the early Cold War for satellite placement in polar and Sun-synchronous orbits.
-- **1963:** Launch of Syncom 2, the first satellite to successfully perform significant plane changes to achieve a geosynchronous orbit.
+- **1963:** Launch of Syncom 2, the first satellite to successfully perform significant plane changes to achieve a [[geosynchronous orbit]].
 - **1960s-70s:** Development of the "Dog-leg" maneuver during launch to minimize the $\Delta v$ penalty for high-[[inclination]] launches from low-[[Geographic Latitude]] sites (e.g., Cape Canaveral).
 
 ### Foundational Contributors

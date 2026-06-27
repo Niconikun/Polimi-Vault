@@ -203,7 +203,7 @@ Actuators can be classified based on their energy source and working principle:
 ### Current Research Directions
 1. **Miniaturization:** Developing micro- and nano-scale actuators for applications in robotics, medicine, and nanotechnology.
 2. **Energy Efficiency:** Improving the efficiency of actuators to reduce energy consumption and extend battery life in portable devices.
-3. **Integration with AI:** Combining actuators with artificial intelligence for adaptive and autonomous systems.
+3. **Integration with [[Artificial Intelligence]]:** Combining actuators with [[artificial intelligence]] for adaptive and autonomous systems.
 
 ---
 ## Special Cases and Examples
@@ -247,7 +247,7 @@ Actuators can be classified based on their energy source and working principle:
 - From simple mechanical devices to complex, smart-material-based systems, actuators have evolved to meet the demands of modern engineering and technology.
 
 ### Modern Reformulations
-- Actuators are now integrated with sensors, control systems, and AI, enabling intelligent and adaptive machines for applications in robotics, aerospace, and medicine.
+- Actuators are now integrated with sensors, control systems, and [[Artificial Intelligence]], enabling intelligent and adaptive machines for applications in robotics, aerospace, and medicine.
 
 ---
 ## Pedagogical Approach

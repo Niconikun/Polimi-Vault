@@ -486,7 +486,7 @@ Each peak corresponds to a [[Natural Frequency]], peak width relates to damping,
 
 **Mid-frequency:** Modal and wave methods both applicable, hybrid approaches needed.
 
-### Connection to Control Theory
+### Connection to [[Control Theory]]
 
 **Modal control:** Design controllers to affect specific modes
 **Spillover:** Control of low modes excites uncontrolled high modes

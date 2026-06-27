@@ -69,7 +69,7 @@ defined on a probability space $(\Omega, \mathcal{F}, P)$ and an index set $T$.
 
 - **Kolmogorov Extension Theorem:** Guarantees that a stochastic process is uniquely characterized by its family of finite-dimensional distributions (FDDs).
     
-- **Central Limit Theorem ([[Functional]]):** Explains why many physical stochastic processes (like noise) tend toward Gaussian distributions.
+- **[[Central Limit Theorem]] ([[Functional]]):** Explains why many physical stochastic processes (like noise) tend toward Gaussian distributions.
     
 
 ## Theoretical Framework

@@ -10,17 +10,17 @@
 ## Historical Development
 
 ### Key Milestones
-- **1940s–1950s:** Early work in **cybernetics** by Norbert Wiener and **control theory** laid the foundation for adaptive systems, introducing concepts like feedback loops and self-regulation.
-- **1960s:** Development of **adaptive control theory** in engineering, focusing on systems that adjust their control parameters in real-time to optimize performance.
-- **1970s–1980s:** Advances in **artificial intelligence (AI)** and **[[machine learning]]** enabled systems to learn and adapt from data, leading to applications in robotics, signal processing, and automation.
-- **1990s–2000s:** The rise of **neural networks** and **evolutionary algorithms** allowed systems to adapt in complex, non-linear environments.
+- **1940s–1950s:** Early work in **cybernetics** by Norbert Wiener and **[[control theory]]** laid the foundation for adaptive systems, introducing concepts like feedback loops and self-regulation.
+- **1960s:** Development of **[[Adaptive Control Theory]]** in engineering, focusing on systems that adjust their control parameters in real-time to optimize performance.
+- **1970s–1980s:** Advances in **[[artificial intelligence]] (AI)** and **[[machine learning]]** enabled systems to learn and adapt from data, leading to applications in robotics, signal processing, and automation.
+- **1990s–2000s:** The rise of **[[Neural Networks]]** and **[[evolutionary algorithms]]** allowed systems to adapt in complex, non-linear environments.
 - **2010s–Present:** Integration of adaptive systems with **big data**, **IoT (Internet of Things)**, and **edge computing** has enabled real-time adaptation in smart cities, autonomous vehicles, and personalized medicine.
 
 ### Foundational Contributors
 1. **Norbert Wiener (1894–1964):** Pioneer of cybernetics, which introduced the concept of feedback and self-regulating systems.
-2. **John G. Truxal (1920–2002):** Contributed to the development of adaptive control theory in engineering.
-3. **Marvin Minsky (1927–2016):** Advanced the field of AI, including adaptive learning systems.
-4. **Modern Researchers:** Scientists in AI, robotics, and control engineering continue to develop adaptive systems for diverse applications.
+2. **John G. Truxal (1920–2002):** Contributed to the development of [[Adaptive Control Theory]] in engineering.
+3. **Marvin Minsky (1927–2016):** Advanced the field of [[Artificial Intelligence]], including adaptive learning systems.
+4. **Modern Researchers:** Scientists in [[Artificial Intelligence]], robotics, and control engineering continue to develop adaptive systems for diverse applications.
 
 ---
 
@@ -41,8 +41,8 @@ Adaptive systems can be described using mathematical models that incorporate **f
   - **ϕ** = Feature vector (input signals or system states)
   - **k** = Time step
 
-- **Neural Networks:**
-  Adaptive systems based on neural networks use **backpropagation** to adjust weights and biases:
+- **[[Neural Networks]]:**
+  Adaptive systems based on [[neural networks]] use **[[backpropagation]]** to adjust weights and biases:
   $$
   w_{new} = w_{old} - \eta \cdot \frac{\partial E}{\partial w}
   $$
@@ -87,7 +87,7 @@ Adaptive systems can be classified based on their mechanism of adaptation and ap
    - Example: Adaptive cruise control in vehicles, which adjusts speed based on traffic conditions.
 
 2. **Learning-Based Adaptive Systems:**
-   - Use [[machine learning]] or AI to improve performance by learning from data.
+   - Use [[machine learning]] or [[Artificial Intelligence]] to improve performance by learning from data.
    - Example: Recommendation systems (e.g., Netflix, Amazon) that adapt to user preferences.
 
 3. **Evolutionary Adaptive Systems:**
@@ -102,7 +102,7 @@ Adaptive systems can be classified based on their mechanism of adaptation and ap
 1. **Engineering:**
    - Adaptive control systems, smart materials, and self-healing structures.
 2. **Computer Science:**
-   - Adaptive software, AI, and cybersecurity systems.
+   - Adaptive software, [[Artificial Intelligence]], and cybersecurity systems.
 3. **Biology:**
    - Biological systems (e.g., immune system, neural plasticity) that adapt to environmental changes.
 4. **Economics:**
@@ -127,7 +127,7 @@ Adaptive systems can be classified based on their mechanism of adaptation and ap
 
 2. **Long-Term Adaptation:**
    - Systems learn and adapt over extended periods.
-   - Example: AI systems that improve their accuracy as they process more data.
+   - Example: [[Artificial Intelligence]] systems that improve their accuracy as they process more data.
 
 ---
 ## Derivation and Proof
@@ -165,7 +165,7 @@ Adaptive systems can be classified based on their mechanism of adaptation and ap
    - Aircraft and spacecraft systems that adapt to changing flight conditions or damage.
 
 ### Scientific Fields
-1. **Artificial Intelligence:**
+1. **[[Artificial Intelligence]]:**
    - Machine learning models that adapt to new data or tasks (e.g., transfer learning, online learning).
 2. **Biology:**
    - Study of adaptive biological systems (e.g., immune response, neural plasticity).
@@ -190,7 +190,7 @@ Adaptive systems can be classified based on their mechanism of adaptation and ap
 - **Algorithmic Complexity:**
   - Adaptive systems can be computationally intensive, especially those using machine learning or evolutionary algorithms.
 - **Parallelization Potential:**
-  - Parallel computing can accelerate the training of adaptive models (e.g., neural networks) or the simulation of complex systems.
+  - Parallel computing can accelerate the training of adaptive models (e.g., [[neural networks]]) or the simulation of complex systems.
 
 ---
 ## Advantages and Limitations
@@ -212,9 +212,9 @@ Adaptive systems can be classified based on their mechanism of adaptation and ap
 ---
 ## Advanced Topics
 
-### Adaptive AI Systems
-- **Meta-Learning:** AI systems that learn how to adapt quickly to new tasks or environments (e.g., few-shot learning).
-- **Neuroevolution:** Combines neural networks with evolutionary algorithms to create adaptive agents.
+### Adaptive [[Artificial Intelligence]] Systems
+- **Meta-Learning:** [[Artificial Intelligence]] systems that learn how to adapt quickly to new tasks or environments (e.g., few-shot learning).
+- **Neuroevolution:** Combines [[neural networks]] with evolutionary algorithms to create adaptive agents.
 
 ### Current Research Directions
 1. **Explainable Adaptive Systems:**
@@ -269,10 +269,10 @@ Adaptive systems can be classified based on their mechanism of adaptation and ap
 - The need for systems to operate effectively in uncertain or changing environments drove the development of adaptive systems, enabling machines and algorithms to "learn" and improve over time.
 
 ### Evolution Over Time
-- From early cybernetic systems to modern AI-driven adaptive technologies, the field has evolved to address increasingly complex and dynamic problems.
+- From early cybernetic systems to modern [[Artificial Intelligence]]-driven adaptive technologies, the field has evolved to address increasingly complex and dynamic problems.
 
 ### Modern Reformulations
-- Adaptive systems are now integral to **smart technologies**, including autonomous systems, IoT, and AI, enabling them to operate in real-world, unpredictable conditions.
+- Adaptive systems are now integral to **smart technologies**, including autonomous systems, IoT, and [[Artificial Intelligence]], enabling them to operate in real-world, unpredictable conditions.
 
 ---
 ## Pedagogical Approach

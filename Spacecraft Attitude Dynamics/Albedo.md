@@ -23,7 +23,7 @@ $$A = \frac{P_{reflected}}{P_{incident}}$$
 
 ### Component Breakdown
 - **$P_{reflected}$:** The radiant flux (power) reflected by the surface.
-- **$P_{incident}$:** The total solar radiant flux hitting the surface ([[Solar Constant|[[Solar Consta]]nt]] $\approx 1361 \text{ W/m}^2$ at 1 AU).
+- **$P_{incident}$:** The total solar radiant flux hitting the surface ([[Solar Constant]] $\approx 1361 \text{ W/m}^2$ at 1 AU).
 
 ### Bond Albedo vs. Geometric Albedo
 1.  **Bond Albedo:** The fraction of total solar energy reflected back into space in all directions. Crucial for **Energy Balance** calculations.
@@ -36,7 +36,7 @@ $$A = \frac{P_{reflected}}{P_{incident}}$$
 2. **[[Diffuse Reflection]]:** Most planetary surfaces are modeled as Lambertian (diffuse) reflectors rather than specular (mirror-like) reflectors.
 
 ### Governing Laws
-- **Lambert’s Cosine Law:** The intensity of reflected light is proportional to the cosine of the angle between the observer and the surface normal.
+- **[[Lambert’s Cosine Law]]:** The intensity of reflected light is proportional to the cosine of the angle between the observer and the surface normal.
 - **[[Conservation of Energy]]:** Incident energy that is not reflected ($1 - A$) is absorbed and must be re-emitted as infrared radiation ([[Heat]]).
 
 ## Theoretical Framework

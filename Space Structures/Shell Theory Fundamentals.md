@@ -438,12 +438,12 @@ $$
 ## See Also
 
 - [[Plate Theory Fundamentals]]
-- [[Kirchhoff-Love Shell Elements]]
+- [[Kirchhoff-Love Shell Element]]
 - [[Mindlin-Reissner Shell Element]]
 - [[Curvilinear Coordinates in Continuum Mechanics]]
-- [[Shell Buckling and Stability]]
-- [[Finite Element Analysis of Shells]]
-- [[Composite Shell Structures]]
-- [[Nonlinear Shell Analysis]]
+- Shell Buckling and Stability]]
+- Finite Element Analysis of Shells]]
+- Composite Shell Structures]]
+- Nonlinear Shell Analysis]]
 - [[Thin-Walled Structures]]
-- [[Differential Geometry for Engineers]]
+- Differential Geometry for Engineers]]

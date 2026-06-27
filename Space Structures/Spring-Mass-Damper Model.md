@@ -531,7 +531,7 @@ Early development driven by:
 2. **19th century:** Mathematical formalization (Cauchy, Navier, Stokes)
 3. **Early 20th century:** Engineering applications, experimental methods
 4. **Mid 20th century:** Computer analysis, [[Random Vibration]] theory
-5. **Late 20th century:** Nonlinear dynamics, active control, smart materials
+5. **Late 20th century:** [[Nonlinear dynamics]], active control, smart materials
 
 ### Modern Reformulations
 

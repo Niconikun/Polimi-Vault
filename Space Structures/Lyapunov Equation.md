@@ -8,7 +8,7 @@ The **Lyapunov Equation** is a linear matrix equation used to determine the stab
 
 - **1892:** Aleksandr Lyapunov publishes his doctoral thesis, _The General Problem of the Stability of Motion_, introducing the "Direct Method" for stability analysis.
     
-- **1950s-60s:** The equation becomes central to the "State-Space" approach in modern control theory.
+- **1950s-60s:** The equation becomes central to the "State-Space" approach in modern [[control theory]].
     
 - **1968:** R.H. Bartels and G.W. Stewart develop a stable numerical algorithm (Bartels-Stewart algorithm) to solve the equation.
     

@@ -67,7 +67,7 @@ Complexity Theory coalesced in the late 20th century, drawing from mathematics, 
 
 *   **Biology:** Understanding evolution, ecosystems, and the origin of life.
 *   **Economics & Finance:** Modeling markets as [[Complex Adaptive Systems]], understanding bubbles and crashes.
-*   **Computer Science:** Neural networks, genetic algorithms, and swarm robotics.
+*   **Computer Science:** [[Neural networks]], genetic algorithms, and swarm robotics.
 *   **Sociology & Political Science:** Modeling the spread of ideas, the dynamics of social networks, and the emergence of collective behavior.
 *   **Management & Innovation:** Creating agile organizations that can adapt to rapidly changing environments, fostering innovation ecosystems.
 

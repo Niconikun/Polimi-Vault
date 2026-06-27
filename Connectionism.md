@@ -69,7 +69,7 @@ $$
 
 ---
 
-## 5. Example: Connectionism in AI
+## 5. Example: Connectionism in [[Artificial Intelligence]]
 - **Scenario**: A neural network learning to translate languages.
   - **Connectionist Interpretation**:
     - "Knowledge" of grammar is **distributed** across weights, not a rulebook.
@@ -84,9 +84,9 @@ $$
 ## 6. Criticisms and Rebuttals
 | **Criticism**                          | **Connectionist Response**                                                                              |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| *"Connectionism lacks symbolic reasoning."* | **Hybrid models** (e.g., neural-symbolic AI) combine subsymbolic and symbolic processing (Garcez et al., 2008). |
+| *"Connectionism lacks symbolic reasoning."* | **Hybrid models** (e.g., neural-symbolic [[Artificial Intelligence]]) combine subsymbolic and symbolic processing (Garcez et al., 2008). |
 | *"Networks are black boxes."*          | **Interpretability tools** (e.g., attention maps, LIME) reveal patterns (Ribeiro et al., 2016).           |
-| *"Connectionism ignores the body."*    | **Embodied connectionism** integrates sensors/motors (e.g., robotic neural networks).                     |
+| *"Connectionism ignores the body."*    | **Embodied connectionism** integrates sensors/motors (e.g., robotic [[neural networks]]).                     |
 
 ---
 
@@ -110,8 +110,8 @@ $$
 ### Suggested Additions:
 1. **Diagrams** (Excalidraw):
    - A **neural network** with labeled weights/activations.
-   - A **contrast table** of connectionism vs. symbolic AI.
+   - A **contrast table** of connectionism vs. symbolic [[Artificial Intelligence]].
 2. **Links**:
    - Connect to [[Dynamic Systems Theory]], [[Radical Constructivism]], and [[Embodied Cognition]].
 3. **Examples**:
-   - Add a **biological example** (e.g., hippocampal place cells) or **AI example** (e.g., Transformers).
+   - Add a **biological example** (e.g., hippocampal place cells) or **[[Artificial Intelligence]] example** (e.g., Transformers).

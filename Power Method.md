@@ -235,11 +235,11 @@ Each iteration amplifies component along dominant eigenvector relative to others
 5. **Civil Engineering:** Seismic analysis, soil-structure interaction
 
 ### Scientific Fields
-1. **Physics:** [[[[Quantum mechanics]]]] (ground state energy), statistical mechanics
-2. **Chemistry:** Molecular orbital calculations, reaction dynamics
-3. **Economics:** Input-output models, portfolio optimization
-4. **Computer Science:** PageRank algorithm, recommendation systems
-5. **Biology:** Population dynamics, neural network analysis
+1. **Physics:** [[Quantum mechanics]] (ground state energy), statistical mechanics
+2. **[[Chemistry]]:** Molecular orbital calculations, reaction dynamics
+3. **[[Economics]]:** [[Input-Output Model]]s, portfolio optimization
+4. **[[Computer Science]]:** [[PageRank algorithm]], recommendation systems
+5. **[[Biology]]:** Population dynamics, neural network analysis
 
 ### Practical Implementations
 - **Google PageRank:** Finding importance scores for web pages

@@ -2,7 +2,7 @@
 ## 1. Core Tenets
 ### 1.1. Sensitive Dependence on Initial Conditions
 - **Definition**: Systems exhibit **chaotic behavior** when infinitesimal changes in initial conditions lead to **divergent trajectories**. This is quantified by the **Lyapunov exponent** $\lambda > 0$.
-- **Cybernetic Link**: Aligns with **nonlinear dynamics** and **complex [[Systems Theory]]**. The "[[butterfly effect]]" demonstrates how **small perturbations** can cascade through a system.
+- **Cybernetic Link**: Aligns with **[[nonlinear dynamics]]** and **complex [[Systems Theory]]**. The "[[butterfly effect]]" demonstrates how **small perturbations** can cascade through a system.
   - *Example*: The Lorenz system's trajectories diverge exponentially for nearby initial conditions:
     $$
     \dot{x} = \sigma(y - x), \quad \dot{y} = x(\rho - z) - y, \quad \dot{z} = xy - \beta z.
@@ -10,7 +10,7 @@
 
 ### 1.2. Deterministic Chaos
 - **Definition**: Chaotic systems are **deterministic** (governed by exact equations) yet **unpredictable** in the long term due to sensitivity to initial conditions. This challenges **Laplace's determinism**.
-- **Cybernetic Link**: Connects to **control theory** and **adaptive systems**. Chaos can be **harnessed** for control (e.g., chaos synchronization).
+- **Cybernetic Link**: Connects to **[[control theory]]** and **adaptive systems**. Chaos can be **harnessed** for control (e.g., chaos synchronization).
   - *Formalism*: For a map $f: \mathbb{R}^n \to \mathbb{R}^n$, chaos requires:
     1. **Sensitive dependence**: $\exists \delta > 0$ such that for any $x$ and $\epsilon > 0$, $\exists y$ with $|x-y| < \epsilon$ and $|f^n(x) - f^n(y)| > \delta$ for some $n$.
     2. **Topological transitivity**: $\forall$ open sets $U, V$, $\exists n$ such that $f^n(U) \cap V \neq \emptyset$.
@@ -57,8 +57,8 @@ $$
 ## 3. Cybernetic Frameworks Aligned with Chaos Theory
 | **Framework**               | **Connection to Chaos Theory**                                                                             |
 |-----------------------------|----------------------------------------------------------------------------------------------------------|
-| **[[Dynamic Systems Theory]]**  | Chaos is a **subset of nonlinear dynamics** (Strogatz, 1994).                                             |
-| **Control Theory**         | **Chaos control** methods (e.g., OGY) stabilize unstable periodic orbits (Ott et al., 1990).             |
+| **[[Dynamic Systems Theory]]**  | Chaos is a **subset of [[nonlinear dynamics]]** (Strogatz, 1994).                                             |
+| **[[Control Theory]]**         | **Chaos control** methods (e.g., OGY) stabilize unstable periodic orbits (Ott et al., 1990).             |
 | **[[Complex Adaptive Systems]]** | Chaotic systems exhibit **emergent complexity** (Holland, 1992).                                         |
 | **[[Information Theory]]**     | Chaos generates **information** at a rate given by the **Kolmogorov-Sinai entropy** (Shannon, 1948).       |
 
@@ -74,7 +74,7 @@ $$
 
 ---
 
-## 5. Example: Chaos in Physics and AI
+## 5. Example: Chaos in Physics and [[Artificial Intelligence]]
 ### 5.1. Physics Example: Double Pendulum
 - **Scenario**: A double pendulum with chaotic motion.
   - **Chaos Interpretation**:
@@ -85,7 +85,7 @@ $$
       with a similar equation for $\ddot{\theta}_2$.
     - **Lyapunov exponent** $\lambda \approx 1.4$ (chaotic for most initial conditions).
 
-### 5.2. AI Example: Chaotic Neural Networks
+### 5.2. [[Artificial Intelligence]] Example: Chaotic Neural Networks
 - **Scenario**: Reservoir computing with chaotic dynamics.
   - **Chaos Interpretation**:
     - A **chaotic recurrent neural network** (e.g., Mackey-Glass system) acts as a reservoir:

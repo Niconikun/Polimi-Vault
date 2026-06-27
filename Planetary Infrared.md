@@ -78,7 +78,7 @@ Imagine walking barefoot on a sidewalk at midnight.
 
 - The sun has been down for hours, so there is no **Solar** load.
     
-- There is no light reflecting, so there is no **Albedo**.
+- There is no light reflecting, so there is no **[[Albedo]]**.
     
 - However, you can still feel the heat rising from the concrete against your skin. That "invisible glow" of stored heat is the sidewalk's **Infrared Emission**. For a satellite, the Earth is that giant, warm sidewalk.
     

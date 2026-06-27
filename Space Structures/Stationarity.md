@@ -12,7 +12,7 @@
     
 - **1930s-40s:** Norbert Wiener and Khinchin independently derive the **[[Wiener-Khinchin Theorem]]**, linking the [[Autocorrelation Function (ACF)]] of a stationary process to its power spectral density.
     
-- **1960s:** Widespread application in [[signal processing]] and control theory for analyzing random noise.
+- **1960s:** Widespread application in [[signal processing]] and [[control theory]] for analyzing random noise.
     
 - **1980s:** Integration into time-series econometrics (e.g., unit root tests).
     

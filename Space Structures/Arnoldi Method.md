@@ -201,7 +201,7 @@ $$
 **Matrix multiplication $A\mathbf{q}_k$:** System response to excitation
 **[[Orthogonalization]]:** Remove components already observed in previous responses
 
-**Control theory analogy:** Like exciting system with specific input and observing outputs to identify modes.
+**[[Control theory]] analogy:** Like exciting system with specific input and observing outputs to identify modes.
 
 ### Energy Propagation Network
 
@@ -533,7 +533,7 @@ where $H_m'$ is $H_m$ with $\theta$ removed.
 1. **1950-1970:** Theoretical development, recognition as fundamental algorithm
 2. **1970-1980:** Numerical stability analysis, comparison with other methods
 3. **1980-1990:** Implicit restarting, integration into ARPACK
-4. **1990-2000:** Applications in fluid stability, control theory
+4. **1990-2000:** Applications in fluid stability, [[control theory]]
 5. **2000-2010:** Parallel implementations, model reduction applications
 6. **2010-present:** Extensions to nonlinear problems, tensor methods
 

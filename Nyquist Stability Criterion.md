@@ -369,7 +369,7 @@ Direct application fails for nonlinear systems
 ---
 
 ## **Historical Context**
-Developed by Harry Nyquist at Bell Labs in 1932 to determine stability of feedback amplifiers. Originally published in "Regeneration Theory" (1932). Extended by Bode, Black, and others. Became fundamental to control theory development in 1940s-1950s.
+Developed by Harry Nyquist at Bell Labs in 1932 to determine stability of feedback amplifiers. Originally published in "Regeneration Theory" (1932). Extended by Bode, Black, and others. Became fundamental to [[control theory]] development in 1940s-1950s.
 
 ---
 

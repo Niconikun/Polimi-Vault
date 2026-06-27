@@ -198,7 +198,7 @@ Consider a spacecraft's pitch dynamics linearized around [[Nadir]]-pointing:
 
 **[[Transfer Function]]**: $G(s) = \frac{\Theta(s)}{T(s)} = \frac{1}{I_y s^2}$
 
-With PD controller $C(s) = K_p + K_d s$, the closed-loop system:
+With [[PD controller]] $C(s) = K_p + K_d s$, the closed-loop system:
 $$
 T_{cl}(s) = \frac{K_d s + K_p}{I_y s^2 + K_d s + K_p}
 $$

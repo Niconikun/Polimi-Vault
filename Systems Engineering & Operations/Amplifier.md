@@ -265,7 +265,7 @@ Amplifiers are classified into **classes** based on their conduction angle (the 
    - Research into new topologies (e.g., Class D, E, F) and materials (e.g., GaN, SiC) to improve efficiency and reduce size.
 2. **Linearization Techniques:**
    - Developing methods to linearize amplifiers (e.g., feedforward, predistortion) for high-frequency applications.
-3. **Integration with AI:**
+3. **Integration with [[Artificial Intelligence]]:**
    - Using [[machine learning]] to optimize amplifier performance or adapt to changing conditions.
 
 ---
@@ -324,7 +324,7 @@ Amplifiers are classified into **classes** based on their conduction angle (the 
 - From vacuum tubes to [[transistors]] to integrated circuits, amplifiers have evolved to become smaller, more efficient, and more reliable.
 
 ### Modern Reformulations
-- Modern amplifiers integrate digital signal processing (DSP), smart materials, and AI to achieve unprecedented performance and adaptability.
+- Modern amplifiers integrate digital signal processing (DSP), smart materials, and [[Artificial Intelligence]] to achieve unprecedented performance and adaptability.
 
 ---
 ## Pedagogical Approach

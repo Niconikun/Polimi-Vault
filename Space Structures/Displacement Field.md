@@ -27,7 +27,7 @@ where $u_x, u_y, u_z$ are the scalar components of the displacement vector, each
     *   In fluid mechanics, an **Eulerian** or **spatial** description $\mathbf{u}(\mathbf{x}, t)$ is often used, where the independent variable is the current spatial position $\mathbf{x}$.
 
 *   **Decomposition of Motion:** The displacement field encompasses both **[[Rigid Body]] motion** and **deformation**.
-    *   **[[Rigid Body]] Displacement:** If $\mathbf{u}(\mathbf{X}, t)$ is a linear function of $\mathbf{X}$ (i.e., $\mathbf{u} = \mathbf{c} + (\mathbf{R} - \mathbf{I})\mathbf{X}$, where $\mathbf{c}$ is a constant translation vector and $\mathbf{R}$ is a rotation matrix), the body moves without changing the distance between any two points.
+    *   **[[Rigid Body]] Displacement:** If $\mathbf{u}(\mathbf{X}, t)$ is a linear function of $\mathbf{X}$ (i.e., $\mathbf{u} = \mathbf{c} + (\mathbf{R} - \mathbf{I})\mathbf{X}$, where $\mathbf{c}$ is a constant [[translation]] vector and $\mathbf{R}$ is a rotation matrix), the body moves without changing the distance between any two points.
     *   **Deformational Displacement:** Any deviation from a [[Rigid Body]] motion field represents the relative movement of points within the body, i.e., its deformation.
 
 #### **3. Relationship to Strain (The Measure of Deformation)**

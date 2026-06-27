@@ -192,7 +192,7 @@ Hamilton's Principle serves as the foundation for:
 ### [[Quantum Mechanics]]
 - Feynman path integral formulation: amplitudes as sums over all paths weighted by $e^{iS/\hbar}$
 
-### Optimal Control Theory
+### Optimal [[Control Theory]]
 - Pontryagin's maximum principle as a generalization
 - Hamilton-Jacobi-Bellman equation in dynamic programming
 

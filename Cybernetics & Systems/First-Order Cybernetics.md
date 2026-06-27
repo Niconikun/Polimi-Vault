@@ -1,7 +1,7 @@
 ## 1. Core Tenets
 ### 1.1. Objective Control Systems
 - **Definition**: Focuses on **objective observation and control** of systems from an external viewpoint. The observer is **separate** from the observed system.
-- **Cybernetic Link**: Aligns with **classical control theory** (Wiener, 1948) and **feedback mechanisms**. Systems are analyzed as **input-output** relationships.
+- **Cybernetic Link**: Aligns with **classical [[control theory]]** (Wiener, 1948) and **feedback mechanisms**. Systems are analyzed as **input-output** relationships.
   - *Example*: A thermostat regulating temperature is a **first-order cybernetic system**—it maintains a set point through negative feedback without self-reference.
 
 ### 1.2. Homeostasis and Feedback
@@ -53,8 +53,8 @@ where $f$ is the decision function and $R(E)$ is the system’s model of $E$.
 ## 3. Cybernetic Frameworks Aligned with First-Order Cybernetics
 | **Framework**                | **Connection to First-Order Cybernetics**                                    |
 | ---------------------------- | ---------------------------------------------------------------------------- |
-| **Classical Control Theory** | Systems are controlled via **feedback loops** (Wiener, 1948).                |
-| **Symbolic AI**              | Cognition is **rule-based** and **representational** (Newell & Simon, 1976). |
+| **Classical [[Control Theory]]** | Systems are controlled via **feedback loops** (Wiener, 1948).                |
+| **Symbolic [[Artificial Intelligence]]**              | Cognition is **rule-based** and **representational** (Newell & Simon, 1976). |
 | **[[Information Theory]]**   | Focuses on **objective information transmission** (Shannon, 1948).           |
 | **[[Homeostasis]]**          | Systems maintain stability through **error correction** (Ashby, 1956).       |
 

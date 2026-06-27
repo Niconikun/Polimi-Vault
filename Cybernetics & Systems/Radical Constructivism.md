@@ -1,6 +1,6 @@
 ## 1. Core Tenets
 ### 1.1. Epistemological Solipsism
-- **Definition**: Knowledge is a **viable construction** by the cognizing system (e.g., organism, AI), not a mirror of objective reality.
+- **Definition**: Knowledge is a **viable construction** by the cognizing system (e.g., organism, [[Artificial Intelligence]]), not a mirror of objective reality.
 - **Cybernetic Link**: Aligns with **[[Second-Order Cybernetics]]** (von Foerster, 1974), where the observer is part of the system. The "world" is a closed-loop of sensorimotor interactions.
   - *Example*: A robot’s reality is defined by its sensorimotor contingencies (O’Regan & Noë, 2001).
 
@@ -63,7 +63,7 @@ $$
 
 ---
 
-## 5. Example: RC in AI Cybernetics
+## 5. Example: RC in [[Artificial Intelligence]] Cybernetics
 - **Scenario**: A reinforcement learning (RL) agent in a grid world.
   - **RC Interpretation**:
     - The agent’s "map" is a **viable policy** $\pi$, not a mirror of the grid.

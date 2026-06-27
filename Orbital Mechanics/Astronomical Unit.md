@@ -75,7 +75,7 @@ The AU is a fundamental unit in celestial mechanics, used to:
 
 ### Relationship to Other Concepts
 1. **Connection to the Light-Year:**
-   - While the AU is used for distances within the Solar System, the **light-year** is used for interstellar distances. 1 light-year ≈ 63,241 AU.
+   - While the AU is used for distances within the Solar System, the **[[light-year]]** is used for interstellar distances. 1 light-year ≈ 63,241 AU.
 2. **Contrast with the Parsec:**
    - The **parsec** (pc) is another astronomical unit, defined as the distance at which a star would have a parallax of 1 arcsecond. 1 pc ≈ 206,265 AU.
 3. **Connection to the Solar Constant:**

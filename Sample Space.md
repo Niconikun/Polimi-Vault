@@ -149,7 +149,7 @@ Size and structure of Ω relate to:
 2. **[[Signal processing]]:** Sample spaces for random signals
 3. **[[Quantum mechanics]]:** Sample space of measurement outcomes
 
-### Computer Science & AI
+### Computer Science & [[Artificial Intelligence]]
 1. **Randomized algorithms:** Sample space of random choices
 2. **[[Machine learning]]:** Hypothesis spaces, parameter spaces
 3. **Cryptography:** Sample spaces for keys and random numbers
@@ -157,7 +157,7 @@ Size and structure of Ω relate to:
 ### Economics & Finance
 1. **Financial modeling:** Sample spaces for asset returns
 2. **Decision theory:** State spaces for uncertain outcomes
-3. **Game theory:** Strategy spaces and outcome spaces
+3. **[[Game theory]]:** Strategy spaces and outcome spaces
 
 ## Implementation Considerations
 

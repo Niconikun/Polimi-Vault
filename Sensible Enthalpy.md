@@ -59,7 +59,7 @@ $$\Delta h_s = c_p \Delta T$$
 
 As you add sensible enthalpy to a gas, the energy fills different "buckets" in order:
 
-1. **Translation:** Molecules move faster in straight lines (Standard $T$ increase).
+1. **[[Translation]]:** Molecules move faster in straight lines (Standard $T$ increase).
     
 2. **Rotation:** Molecules start spinning faster (occurs at low to moderate $T$).
     

@@ -1,6 +1,6 @@
 ## Formal Definition
 
-A **Geostationary Orbit** (GEO) is a specific type of circular, geosynchronous orbit located approximately 35,786 kilometers above Earth's equator. A satellite in this orbit possesses an [[orbital period]] exactly equal to Earth's rotational period (one [[Sidereal Day]]) and moves in the same direction as Earth's rotation (West to East). Because the orbital plane coincides with the equatorial plane, the satellite appears to remain perfectly stationary at a fixed longitude and latitude ($0^\circ$) relative to a ground observer. 
+A **Geostationary Orbit** (GEO) is a specific type of circular, [[geosynchronous orbit]] located approximately 35,786 kilometers above Earth's equator. A satellite in this orbit possesses an [[orbital period]] exactly equal to Earth's rotational period (one [[Sidereal Day]]) and moves in the same direction as Earth's rotation (West to East). Because the orbital plane coincides with the equatorial plane, the satellite appears to remain perfectly stationary at a fixed longitude and latitude ($0^\circ$) relative to a ground observer. 
 
 
 

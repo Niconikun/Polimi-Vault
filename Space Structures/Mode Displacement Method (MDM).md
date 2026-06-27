@@ -545,7 +545,7 @@ $$
 
 - **[[Dynamic Substructuring]]:** MDM applied to component-level models
 - **Parametric model order reduction:** For design optimization
-- **Machine learning enhancements:** Neural networks for mode selection
+- **Machine learning enhancements:** [[Neural networks]] for mode selection
 - **Digital twin integration:** Real-time modal updating from sensor data
 
 ## Pedagogical Approach

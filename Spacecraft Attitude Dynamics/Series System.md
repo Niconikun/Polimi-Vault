@@ -20,7 +20,7 @@ A **Series System** is a configuration of components or subsystems connected suc
 
 ## Mathematical Formulation
 
-### 1. [[Transfer Function]] (Control Theory)
+### 1. [[Transfer Function]] ([[Control Theory]])
 
 For a series of $n$ linear systems with individual transfer functions $G_1(s), G_2(s), \dots, G_n(s)$, the total system [[transfer function]] $G_{total}(s)$ is the **product** of the individual functions:
 

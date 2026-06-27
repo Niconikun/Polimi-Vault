@@ -15,7 +15,7 @@ The **Gram-Schmidt Process** is an algorithm for orthogonalizing a set of linear
 - **2000s:** Applications in signal processing and machine learning
 
 ### Foundational Contributors
-1. **Jørgen Pedersen Gram (1850-1916):** First described the [[orthogonalization]] process in "On Series Development Using the Least Squares Method"
+1. **Jørgen Pedersen Gram (1850-1916):** First described the [[orthogonalization]] process in "On Series Development Using the [[Least Squares Method]]"
 2. **Erhard Schmidt (1876-1959):** Independently developed the method in the context of Hilbert spaces
 3. **Alston Scott Householder (1904-1993):** Analyzed numerical stability aspects
 4. **James H. Wilkinson (1919-1986):** Provided detailed error analysis for numerical implementations

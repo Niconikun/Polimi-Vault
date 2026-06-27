@@ -103,7 +103,7 @@ Hamiltonian mechanics extends to:
 - **[[Quantum Mechanics]]:** Canonical quantization, Hamiltonian operator, and Schrödinger equation.
 - **Classical Field Theory:** Hamiltonian [[density]] for fields.
 - **[[Chaos Theory]] and Dynamical Systems:** Analysis of chaotic behavior and Poincaré recurrence theorem.
-- **Optimal Control Theory:** Hamilton-Jacobi-Bellman equation and canonical transformations.
+- **Optimal [[Control Theory]]:** Hamilton-Jacobi-Bellman equation and canonical transformations.
 
 ---
 

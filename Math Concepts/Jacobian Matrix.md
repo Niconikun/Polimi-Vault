@@ -9,7 +9,7 @@ The **Jacobian Matrix** is a matrix of all first-order partial derivatives of a 
 ### Key Milestones
 - **1841:** **Carl Gustav Jacob Jacobi** publishes his seminal work on determinants and differential equations, formalizing the matrix that now bears his name.
 - **1890s:** The Jacobian becomes a staple in multi-variable calculus for performing coordinate transformations (e.g., from Cartesian to Spherical coordinates).
-- **1960s:** With the advent of modern control theory, the Jacobian is utilized to linearize the non-linear equations of motion for the **Apollo Guidance Computer**.
+- **1960s:** With the advent of modern [[control theory]], the Jacobian is utilized to linearize the non-linear equations of motion for the **Apollo Guidance Computer**.
 
 ### Foundational Contributors
 1. **Carl Gustav Jacob Jacobi (1804–1851):** The German mathematician who unified the study of partial derivatives into matrix form.

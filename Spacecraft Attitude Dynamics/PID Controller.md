@@ -162,9 +162,9 @@ For plant $G(s)$, design PID parameters using:
 ## **Relevance in Attitude Determination and Control (ADCS)**
 
 ### **1. Single-Axis [[Attitude Control]]**
-For a rigid spacecraft with single-axis dynamics $I\ddot{\theta} = \tau$, a PD controller is often sufficient:
+For a rigid spacecraft with single-axis dynamics $I\ddot{\theta} = \tau$, a [[PD controller]] is often sufficient:
 
-**PD Controller:**
+**[[PD Controller]]:**
 $$
 \tau = -K_p(\theta - \theta_d) - K_d\dot{\theta}
 $$

@@ -240,7 +240,7 @@ For floating-point arithmetic with unit round-off ε:
 - Truncated arithmetic in FFT butterflies
 
 ### [[Machine Learning]] Integration
-- Learned FFT algorithms via neural networks
+- Learned FFT algorithms via [[neural networks]]
 - Optimizing FFT parameters for specific data distributions
 
 ### Quantum FFT

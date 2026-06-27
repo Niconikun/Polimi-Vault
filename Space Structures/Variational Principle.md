@@ -242,7 +242,7 @@ For finite deformations or nonlinear materials:
 
 Variational principles can be viewed as special cases of [[Weighted Residual Methods]] where the weighting functions are variations of the solution itself (Galerkin approach).
 
-### Optimal Control Theory
+### Optimal [[Control Theory]]
 
 Variational principles form the basis of optimal control via Pontryagin's maximum principle.
 

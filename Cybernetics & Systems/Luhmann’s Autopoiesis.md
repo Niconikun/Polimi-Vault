@@ -24,7 +24,7 @@ where $f$ is the system's internal logic (e.g., legal precedent, scientific meth
 
 3. **Structural Coupling**:
 - **Definition**: While operationally closed, social systems **structurally couple** with their environment. They adapt to external perturbations (e.g., political demands, economic constraints) **without losing autonomy**.
-- **Cybernetic Link**: Connects to **adaptive control theory**. The environment **triggers** but does not **determine** the system's responses.
+- **Cybernetic Link**: Connects to **[[Adaptive Control Theory]]**. The environment **triggers** but does not **determine** the system's responses.
 - *Example*: The **economic system** responds to political regulations (environment) but does so through its own logic (e.g., pricing, supply/demand).
 
 1. **[[Functional Differentiation]]**:
@@ -77,7 +77,7 @@ $$
 where $F_i$ is the system's contribution to societal complexity reduction (e.g., law = conflict resolution, economy = resource allocation).
 
 ### **[[Autopoiesis]] vs. [[Allopoiesis]]**
-| **[[Autopoiesis]]**                          | **Allopoiesis**                          |
+| **[[Autopoiesis]]**                          | **[[Allopoiesis]]**                          |
 |------------------------------------------|------------------------------------------|
 | Systems produce their own elements.      | Systems produce elements for other systems. |
 | Example: The **legal system** produces laws. | Example: A **factory** produces cars (for consumers). |

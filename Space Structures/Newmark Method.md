@@ -8,7 +8,7 @@ The **Newmark Method** (also known as **Newmark-β Method**) is a family of impl
 - **1959:** Nathan M. Newmark publishes "A Method of Computation for [[Structural Dynamics]]" introducing the Newmark-β method
 - **1960s:** Implementation in early finite element software (NASTRAN, ANSYS)
 - **1970s:** Development of stability and accuracy analysis, introduction of average acceleration and linear acceleration methods
-- **1980s:** Extension to nonlinear dynamics and adaptive time stepping
+- **1980s:** Extension to [[nonlinear dynamics]] and adaptive time stepping
 - **1990s:** Implementation in commercial finite element codes with automatic time step control
 - **2000s:** Parallel implementations for large-scale problems
 - **2010s:** Extension to multiphysics and coupled problems
@@ -307,7 +307,7 @@ where $K_{\text{eff}}$ includes inertia and damping effects.
 
 ### Problem Types
 1. **Linear Transient Dynamics:** With constant or time-varying loads
-2. **Nonlinear Dynamics:** Geometric or material nonlinearities
+2. **[[Nonlinear Dynamics]]:** Geometric or material nonlinearities
 3. **Contact Problems:** With changing boundary conditions
 4. **Wave Propagation:** Stress wave transmission
 5. **Multiphysics:** Coupled thermal-structural, fluid-structure interaction
@@ -1500,7 +1500,7 @@ analyze 1000 0.01
 - Conditional Stability
 - Unconditional Stability
 - Predictor-Corrector Methods
-- Nonlinear Dynamics
+- [[Nonlinear Dynamics]]
 
 ---
 

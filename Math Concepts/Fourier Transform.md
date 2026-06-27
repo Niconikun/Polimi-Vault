@@ -308,7 +308,7 @@ Multiresolution analysis overcoming time-frequency trade-off:
 $$
 W_f(a,b) = \frac{1}{\sqrt{|a|}} \int_{-\infty}^{\infty} f(t) \psi^*\left(\frac{t-b}{a}\right) \, dt
 $$
-where $\psi(t)$ is mother wavelet, $a$ is scale, $b$ is translation.
+where $\psi(t)$ is mother wavelet, $a$ is scale, $b$ is [[translation]].
 
 ### Sparse Fourier Transform
 

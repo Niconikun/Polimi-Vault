@@ -33,7 +33,7 @@ u & \text{if } |u| \le u_{max} \\
 $$
 
 ### Impact on Loop Gain
-Mathematically, saturation acts as a **Variable Gain**. When the system is in the linear region, the gain is 1. As the system saturates, the "effective gain" drops toward zero. In control theory, a drop in gain often leads to a loss of stability margins and increased [[Steady-State Error]].
+Mathematically, saturation acts as a **Variable Gain**. When the system is in the linear region, the gain is 1. As the system saturates, the "effective gain" drops toward zero. In [[control theory]], a drop in gain often leads to a loss of stability margins and increased [[Steady-State Error]].
 
 
 

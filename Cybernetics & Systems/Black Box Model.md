@@ -15,13 +15,13 @@
 
 ### 1.3. [[Observability]] and [[Controllability]]
 - **Definition**: A black box is **observable** if its state can be inferred from outputs and **controllable** if its state can be driven to any desired value through inputs. These properties are fundamental for **system identification**.
-- **Cybernetic Link**: Connects to **control theory** and **systems engineering**. The black box approach enables **model-free control** and **adaptive systems**.
+- **Cybernetic Link**: Connects to **[[control theory]]** and **systems engineering**. The black box approach enables **model-free control** and **adaptive systems**.
   - *Example*: A [[PID Controller]] tunes a system's behavior (e.g., [[Temperature]] regulation) without knowing its internal dynamics.
 
 ### 1.4. Epistemological Limitations
 - **Definition**: The black box model acknowledges **epistemological limits**—some systems cannot be fully understood through observation alone. This leads to **phenomenological** rather than **mechanistic** explanations.
 - **Cybernetic Link**: Contrasts with **[[Second-Order Cybernetics]]** (von Foerster, 1974), which includes the observer in the system. The black box model assumes an **external observer** with limited access.
-  - *Implication*: In AI, a deep learning model's "understanding" of data is treated as a black box—its internal representations are opaque, but its performance is measurable.
+  - *Implication*: In [[Artificial Intelligence]], a deep learning model's "understanding" of data is treated as a black box—its internal representations are opaque, but its performance is measurable.
 
 ---
 
@@ -66,12 +66,12 @@ where $g$ is a function that infers the internal state $S$ from outputs $Y$.
 | **[[Second-Order Cybernetics]]** | Conflicts: Black box assumes **external observer**; second-order includes the **observer in the system**. |
 | **[[Autopoiesis]]**          | Conflicts: [[Autopoiesis]] requires **internal self-production**; black box ignores internals.               |
 | **[[Radical Constructivism]]** | Partial overlap: Both accept **epistemological limits**, but RC focuses on **viability** rather than input-output mappings. |
-| **Connectionism**        | Compatible: Neural networks are often treated as black boxes in practice (e.g., deep learning).         |
+| **Connectionism**        | Compatible: [[Neural networks]] are often treated as black boxes in practice (e.g., deep learning).         |
 
 ---
 
-## 5. Example: Black Box in AI and Engineering
-### 5.1. AI Example: Deep Learning Model
+## 5. Example: Black Box in [[Artificial Intelligence]] and Engineering
+### 5.1. [[Artificial Intelligence]] Example: Deep Learning Model
 - **Scenario**: A deep neural network classifying images.
   - **Black Box Interpretation**:
     - The model's **internal weights** are unknown to the user.
@@ -99,7 +99,7 @@ where $g$ is a function that infers the internal state $S$ from outputs $Y$.
 |----------------------------------------|----------------------------------------------------------------------------------------------------------|
 | *"Black boxes are unscientific."*      | **Predictive power** is sufficient for many applications (e.g., drug discovery via ML).                 |
 | *"It ignores causality."*              | **Causal inference** techniques (e.g., Granger causality) can partially reveal internal relationships.   |
-| *"It’s limited to simple systems."*    | **Universal approximation theorems** show black boxes (e.g., neural networks) can model complex systems. |
+| *"It’s limited to simple systems."*    | **Universal approximation theorems** show black boxes (e.g., [[neural networks]]) can model complex systems. |
 
 ---
 
@@ -128,4 +128,4 @@ $$
    - Connect to [[First-Order Cybernetics]], [[System Identification]], and [[Information Theory]].
 1. **Examples**:
    - Add a **biological example** (e.g., treating the brain as a black box in neuroscience).
-   - Expand with **modern AI examples** (e.g., transformer models as black boxes).
+   - Expand with **modern [[Artificial Intelligence]] examples** (e.g., transformer models as black boxes).

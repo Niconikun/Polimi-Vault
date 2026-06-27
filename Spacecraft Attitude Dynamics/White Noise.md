@@ -91,7 +91,7 @@ Since infinite power is unphysical, engineers use **Band-Limited White Noise**, 
 
 - **Launch Simulation:** Rocket acoustic loads are often modeled as broadband random noise. While not perfectly "white," they are flat enough across the structure's sensitive frequency range to be treated as such.
     
-- **System Identification:** By exciting a satellite with white noise on a shaker table, engineers can measure the [[Frequency Response Function]] (FRF) and identify every mode of the structure.
+- **System Identification:** By exciting a satellite with white noise on a shaker table, engineers can measure the [[Frequency Response Function (FRF)]] (FRF) and identify every mode of the structure.
     
 
 ## Classification and Variants

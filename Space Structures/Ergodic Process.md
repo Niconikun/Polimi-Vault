@@ -14,7 +14,7 @@ An **Ergodic Process** is a specific class of stationary [[Stochastic Process]] 
     
 - **1950s:** Widespread adoption in information theory (Claude Shannon) and [[signal processing]].
     
-- **1960s–Present:** Essential assumption in [[Random Vibration]] analysis, structural dynamics, and control theory.
+- **1960s–Present:** Essential assumption in [[Random Vibration]] analysis, structural dynamics, and [[control theory]].
     
 
 ### Foundational Contributors

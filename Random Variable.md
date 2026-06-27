@@ -875,8 +875,8 @@ def demonstrate_random_variables():
     plt.tight_layout()
     plt.show()
     
-    # 8. Central Limit Theorem demonstration
-    print("\n8. Central Limit Theorem Simulation")
+    # 8. [[Central Limit Theorem]] demonstration
+    print("\n8. [[Central Limit Theorem]] Simulation")
     # Sample mean of exponentials should approach normal
     n_experiments = 10000
     sample_size = 30

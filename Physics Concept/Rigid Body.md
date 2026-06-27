@@ -21,7 +21,7 @@ The rigidity condition has profound mathematical implications that define the en
 
 #### **1.1 The Rotation Tensor**
 
-The most important consequence is that the motion of a rigid body from one configuration to another can be described by a **translation** of an arbitrary reference point *plus* a **[[Rotation]]** about that point.
+The most important consequence is that the motion of a rigid body from one configuration to another can be described by a **[[translation]]** of an arbitrary reference point *plus* a **[[Rotation]]** about that point.
 
 Let $\mathbf{X}$ be the position vector of a point in a fixed reference configuration, and $\mathbf{x}(t)$ be its position at time $t$. The motion is described by:
 
@@ -30,7 +30,7 @@ $$
 $$
 
 where:
-*   $\mathbf{c}(t)$ is the position vector of the origin of the body-fixed frame (the translation).
+*   $\mathbf{c}(t)$ is the position vector of the origin of the body-fixed frame (the [[translation]]).
 *   $\mathbf{R}(t)$ is the **proper orthogonal rotation tensor** (or matrix).
 
 #### **1.2 Properties of the Rotation Tensor**
@@ -101,13 +101,13 @@ The last term is the centripetal acceleration.
 
 ### 3. Dynamics of Rigid Bodies
 
-The dynamics are governed by the equations of motion for translation and rotation.
+The dynamics are governed by the equations of motion for [[translation]] and rotation.
 
 #### **3.1 Newton-Euler Equations of Motion**
 
 These are the fundamental equations describing the motion of a rigid body.
 
-*   **Translation ([[Newton's Second Law]]):**
+*   **[[Translation]] ([[Newton's Second Law]]):**
     $$
     \boxed{\sum \mathbf{F}_{\text{ext}} = m \mathbf{a}_G}
     $$
@@ -180,7 +180,7 @@ v^i_P = v^i_O + \epsilon^{\ ijk} \omega_j (x_k - x_{O,k})
 $$
 
 Its dynamics are governed by the **Newton-Euler Equations**:
-*   **Translation:** $\sum F^i_{\text{ext}} = m a^i_G$
+*   **[[Translation]]:** $\sum F^i_{\text{ext}} = m a^i_G$
 *   **Rotation:** $\sum \tau^i_G = I^{ij}_G \alpha_j + \epsilon^{ijk} \omega_j I_{kl} \omega_l$
 
 The [[inertia tensor]] $I^{ij} = \int_V \rho (\delta^{ij} r^2 - x^i x^j) dV$ encapsulates the body's mass distribution. This elegant framework is the cornerstone for analyzing the motion of satellites, aircraft, robots, and any solid object where deformation is negligible.

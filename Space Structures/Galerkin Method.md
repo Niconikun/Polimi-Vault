@@ -109,7 +109,7 @@ In the [[Finite Element Method]] (FEM), the Galerkin method is applied with:
 1. **Ritz Method:** For self-adjoint problems, Galerkin method yields identical results to Ritz method when using same trial functions.
 2. **Finite Difference Method:** Galerkin FEM can be interpreted as a generalized finite difference scheme.
 3. **Collocation Method:** Special case where weighting functions are Dirac delta functions at collocation points.
-4. **Least Squares Method:** Different weighting strategy minimizing squared residual.
+4. **[[Least Squares Method]]:** Different weighting strategy minimizing squared residual.
 
 ## Advantages
 

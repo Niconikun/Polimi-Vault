@@ -32,7 +32,7 @@ For a system undergoing a change from state 1 to state 2:
 
 - ΔU: Change in internal energy (stored thermal energy).
     
-- Q: Net [[heat transfer]] into the system (Solar, Albedo, Planetary IR).
+- Q: Net [[heat transfer]] into the system (Solar, [[Albedo]], Planetary IR).
     
 - W: Net work done by the system (often negligible in structural thermal analysis, but critical for moving parts or actuators).
     
@@ -45,7 +45,7 @@ dtdU​=Q˙​in​−Q˙​out​+P˙gen​
 
 - dtdU​: The rate of change of stored energy (mcdtdT​).
     
-- Q˙​in​: External environment loads (Solar, Albedo, Earth IR).
+- Q˙​in​: External environment loads (Solar, [[Albedo]], Earth IR).
     
 - Q˙​out​: Heat rejected via radiation (ϵσAT4).
     

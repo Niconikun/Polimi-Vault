@@ -20,7 +20,7 @@
 
 ### 1.4. Sensorimotor Contingencies
 - **Definition**: Cognition relies on **laws of sensorimotor interaction**—how actions change sensory inputs. Perception is **active exploration**, not passive reception.
-- **Cybernetic Link**: Aligns with **enactive perception** (O’Regan & Noë, 2001) and **control theory**. The agent **probes** the environment to generate meaning.
+- **Cybernetic Link**: Aligns with **enactive perception** (O’Regan & Noë, 2001) and **[[control theory]]**. The agent **probes** the environment to generate meaning.
   - *Implication*: A bat’s "knowledge" of its surroundings is its **echolocation behavior**, not an internal map.
 
 ---
@@ -117,4 +117,4 @@ $$
 2. **Links**:
    - Connect to [[Enactivism]], [[Dynamic Systems Theory]], and [[Extended Mind Theory]].
 3. **Examples**:
-   - Add a **biological example** (e.g., octopus arm coordination) or **AI example** (e.g., Boston Dynamics robots).
+   - Add a **biological example** (e.g., octopus arm coordination) or **[[Artificial Intelligence]] example** (e.g., Boston Dynamics robots).

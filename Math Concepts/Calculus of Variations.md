@@ -208,7 +208,7 @@ The [[Principle of Minimum Potential Energy]] leads to [[Equilibrium Equations]]
 
 ## Modern Developments and Extensions
 
-### Optimal Control Theory
+### Optimal [[Control Theory]]
 
 The calculus of variations extends to control problems via Pontryagin's maximum principle:
 

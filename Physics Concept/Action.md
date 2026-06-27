@@ -43,8 +43,8 @@ These equations are equivalent to [[Newton's Second Law]] but are often more pow
 - **A [[Functional]], Not a Function:** Action $S$ is a *[[Functional]]*—it maps an entire path $q(t)$ to a single number. Its [[Stationarity]] condition selects the one physically realized path from an infinity of conceivable paths.
 - **The "Cost" of a Path:** One can intuitively think of the Action as a measure of the "effort" or "dynamical cost" associated with a potential path. Nature "chooses" the path of least effort, which is not necessarily the shortest path in space, but the one that optimally balances kinetic and [[potential energy]] over [[time]].
 - **Connection to Conservation Laws:** The Action formulation provides a deep connection between symmetries and conservation laws via **[[Noether's Theorem]]**. For example:
-    - [[Invariance]] of the Lagrangian under [[time]] translation leads to [[Conservation of Energy]].
-    - [[Invariance]] under spatial translation leads to [[conservation of linear momentum]].
+    - [[Invariance]] of the Lagrangian under [[time]] [[translation]] leads to [[Conservation of Energy]].
+    - [[Invariance]] under spatial [[translation]] leads to [[conservation of linear momentum]].
     - [[Invariance]] under rotation leads to conservation of [[Angular Momentum]].
 
 ### Application to Spacecraft [[Attitude]] Dynamics

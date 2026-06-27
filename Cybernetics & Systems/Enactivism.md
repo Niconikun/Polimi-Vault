@@ -119,4 +119,4 @@ $$
 2. **Links**:
    - Connect to [[Autopoiesis]], [[Radical Constructivism]], and [[Dynamic Systems Theory]].
 3. **Examples**:
-   - Expand with a **biological example** (e.g., bacterial chemotaxis) or **AI example** (e.g., a soft robot).
+   - Expand with a **biological example** (e.g., bacterial chemotaxis) or **[[Artificial Intelligence]] example** (e.g., a soft robot).

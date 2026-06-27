@@ -43,7 +43,7 @@ To understand the *nature* of the equilibrium, we look at the eigenvalues ($\lam
 ## Theoretical Framework
 
 ### The "Bottom of the Bowl"
-In control theory, we often define our coordinates such that the desired state (e.g., pointing at a star) is at the origin ($\mathbf{x}_e = 0$). This simplifies the math for **LQR** and **State Feedback**, as the controller’s job is simply to "drive the state to zero."
+In [[control theory]], we often define our coordinates such that the desired state (e.g., pointing at a star) is at the origin ($\mathbf{x}_e = 0$). This simplifies the math for **LQR** and **State Feedback**, as the controller’s job is simply to "drive the state to zero."
 
 ## Physical Interpretation
 

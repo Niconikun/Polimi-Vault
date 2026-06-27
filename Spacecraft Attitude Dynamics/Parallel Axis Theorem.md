@@ -60,7 +60,7 @@ Imagine a satellite with a heavy battery. If the battery is located exactly at t
 2. **Computational Efficiency:** Prevents the need for re-integrating complex shapes every time a component is moved.
 
 ### Limitations
-1. **Translation Only:** Only handles shifting the origin; it does not help if the component is tilted or rotated.
+1. **[[Translation]] Only:** Only handles shifting the origin; it does not help if the component is tilted or rotated.
 2. **Point Mass Error:** Treating large components as point masses at distance $d$ only works if you also include their local $I_{cm}$.
 
 ## Applications

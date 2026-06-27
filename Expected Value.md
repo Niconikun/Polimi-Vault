@@ -198,13 +198,13 @@ $$
 1. **[[Signal processing]]:** Expected value as DC component
 2. **Statistical mechanics:** Ensemble averages
 3. **Reliability engineering:** Expected time to failure
-4. **Control theory:** Expected cost in stochastic control
+4. **[[Control theory]]:** Expected cost in stochastic control
 
 ### Computer Science
 1. **Randomized algorithms:** Expected running time analysis
 2. **[[Information theory]]:** Expected code length
 3. **[[Machine learning]]:** Expected risk minimization
-4. **Game theory:** Expected payoff in mixed strategies
+4. **[[Game theory]]:** Expected payoff in mixed strategies
 
 ## Implementation Considerations
 

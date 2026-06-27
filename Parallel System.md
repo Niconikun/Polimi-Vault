@@ -1,6 +1,6 @@
 ## Formal Definition
 
-A **Parallel System** is a configuration where components are arranged such that there are multiple paths for a signal or function to reach its destination. In control theory, parallel structures allow for the summation of different signals (such as the P, I, and D terms in a controller). In reliability engineering, a parallel system provides **redundancy**; the system only fails if _all_ parallel components fail simultaneously. This architecture is vital for high-stakes aerospace missions where "Single Points of Failure" must be eliminated.
+A **Parallel System** is a configuration where components are arranged such that there are multiple paths for a signal or function to reach its destination. In [[control theory]], parallel structures allow for the summation of different signals (such as the P, I, and D terms in a controller). In reliability engineering, a parallel system provides **redundancy**; the system only fails if _all_ parallel components fail simultaneously. This architecture is vital for high-stakes aerospace missions where "Single Points of Failure" must be eliminated.
 
 ## Historical Development
 
@@ -20,7 +20,7 @@ A **Parallel System** is a configuration where components are arranged such that
 
 ## Mathematical Formulation
 
-### 1. [[Transfer Function]] (Control Theory)
+### 1. [[Transfer Function]] ([[Control Theory]])
 
 For $n$ components in parallel with transfer functions $G_1(s), G_2(s), \dots, G_n(s)$, the total system output is the **sum** of the individual outputs:
 

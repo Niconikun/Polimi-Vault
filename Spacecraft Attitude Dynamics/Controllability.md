@@ -62,7 +62,7 @@ Imagine a car where the steering wheel is disconnected from the tires. You can h
 ## Applications
 
 ### Spacecraft Design
-1.  **Actuator Placement:** Determining where to put thrusters to ensure the ship can move in all 6 [[Degrees of Freedom]] (Translation + Rotation).
+1.  **Actuator Placement:** Determining where to put thrusters to ensure the ship can move in all 6 [[Degrees of Freedom]] ([[Translation]] + Rotation).
 2.  **Underactuated Control:** Designing "clever" maneuvers that use the physics of the orbit to rotate the ship when a primary actuator is broken.
 3.  **Robotic Arms:** Ensuring the joints can move the "hand" to any position in the work area.
 

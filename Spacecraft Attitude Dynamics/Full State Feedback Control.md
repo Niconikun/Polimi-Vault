@@ -7,7 +7,7 @@
 ## Historical Development
 
 ### Key Milestones
-- **1950s:** The shift from classical "[[Transfer Function]]" control to **Modern Control Theory** (State-Space) begins as aerospace systems become too complex for simple loops.
+- **1950s:** The shift from classical "[[Transfer Function]]" control to **Modern [[Control Theory]]** (State-Space) begins as aerospace systems become too complex for simple loops.
 - **1960:** **Rudolf Kalman** publishes on "[[Controllability]]," providing the mathematical proof that a system can only be controlled via FSF if it meets specific criteria.
 - **1970s–Present:** FSF becomes the standard for high-performance aircraft (like the F-16) and complex spacecraft, as it naturally handles the coupling between different axes (e.g., roll affecting yaw).
 

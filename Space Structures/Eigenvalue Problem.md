@@ -252,8 +252,8 @@ In Schrödinger equation \(H\psi = E\psi\):
 1. **Physics:** [[Quantum mechanics]], statistical mechanics, [[Continuum Mechanics]]
 2. **Chemistry:** Molecular orbital theory, vibrational spectroscopy
 3. **Economics:** Input-output models, portfolio optimization
-4. **Biology:** Population dynamics, neural networks, protein folding
-5. **Computer Science:** PageRank algorithm, principal component analysis, graph theory
+4. **Biology:** Population dynamics, [[neural networks]], protein folding
+5. **Computer Science:** PageRank algorithm, principal component analysis, [[graph theory]]
 
 ### Practical Implementations
 - **[[Finite Element Analysis (FEA)]]:** Eigenvalue extraction for vibration modes

@@ -77,7 +77,7 @@ ISS (ZARYA)
 ---
 
 #### **Applications**
-- **Satellite tracking** (e.g., [[SatNOGS]], [[Celestrak]]).
+- **Satellite tracking** (e.g., SatNOGS, Celestrak).
 - **Collision avoidance** (conjunction analysis).
 - **Amateur radio** (predicting satellite passes).
 - **Space debris monitoring**.
@@ -86,9 +86,9 @@ ISS (ZARYA)
 
 #### **Suggested Additions for Your Note**
 1. **Links**:
-   - [[SGP4]] (propagation model)
-   - [[Space-Track.org]] (TLE data source)
-2. **Tools**:
+   - SGP4 (propagation model)
+   - Space-Track.org (TLE data source)
+1. **Tools**:
    - [Celestrak](https://celestrak.org/) (TLE repository).
    - [PyEphem](https://rhodesmill.org/pyephem/) (Python library for TLE propagation).
 3. **Tags**: `#orbital-mechanics`, `#satellite-tracking`, `#space-debris`.

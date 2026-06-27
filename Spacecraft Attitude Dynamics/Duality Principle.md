@@ -7,7 +7,7 @@ The **Duality Principle** states that the properties of **Controllability** and 
 ## Historical Development
 
 ### Key Milestones
-- **1960:** **Rudolf Kalman** formalizes the Duality Principle in his seminal papers on linear filtering and control theory.
+- **1960:** **Rudolf Kalman** formalizes the Duality Principle in his seminal papers on linear filtering and [[control theory]].
 - **1961:** The principle is immediately applied to the development of the **Kalman Filter**, where it is realized that the "Optimal Observer" (the filter) is the dual of the "Optimal Regulator" (LQR).
 - **Present:** Duality remains the cornerstone of **Modern Control Theory**, enabling the integrated design of complex Guidance, Navigation, and Control (GNC) suites.
 

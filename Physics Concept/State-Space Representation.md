@@ -48,7 +48,7 @@ $$\mathbf{y} = \mathbf{C}\mathbf{x} + \mathbf{D}\mathbf{u}$$
 ## Theoretical Framework
 
 ### The N-Dimensional State Space
-If a satellite has 6 states (3 for attitude, 3 for rate), it exists as a single point in a **6-Dimensional Geometry**. Moving the satellite isn't just "turning it"; it is mathematically "tracing a path" through this 6D space. Control theory then becomes the task of finding the shortest or most fuel-efficient path between two points in this geometry.
+If a satellite has 6 states (3 for attitude, 3 for rate), it exists as a single point in a **6-Dimensional Geometry**. Moving the satellite isn't just "turning it"; it is mathematically "tracing a path" through this 6D space. [[Control theory]] then becomes the task of finding the shortest or most fuel-efficient path between two points in this geometry.
 
 ## Physical Interpretation
 

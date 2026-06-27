@@ -41,13 +41,13 @@ where:
 
 In the analysis of space structures (e.g., trusses, frames, satellites, orbital platforms), displacement is a primary variable of interest.
 
-*   **Nodal Displacement:** In a finite element model of a structure, the displacement of each node is calculated under applied loads (e.g., thrust, thermal gradients, micrometeoroid impacts). The vector $\mathbf{u}$ for a node fully describes its translation.
+*   **Nodal Displacement:** In a finite element model of a structure, the displacement of each node is calculated under applied loads (e.g., thrust, thermal gradients, micrometeoroid impacts). The vector $\mathbf{u}$ for a node fully describes its [[translation]].
 *   **Deformation Analysis:** The gradient of the [[Displacement Field]] (how displacement varies from point to point within a material) is used to define the **[[strain]]** tensor, which quantifies the structure's deformation.
     $$
     \boldsymbol{\epsilon} = \frac{1}{2} (\nabla \mathbf{u} + (\nabla \mathbf{u})^T)
     $$
     where $\nabla \mathbf{u}$ is the displacement gradient tensor.
-*   **[[Rigid Body]] Motion vs. Deformation:** The total displacement of a structure can be decomposed into **[[Rigid Body]] displacement** (translation and rotation of the entire body without deformation) and **deformational displacement**.
+*   **[[Rigid Body]] Motion vs. Deformation:** The total displacement of a structure can be decomposed into **[[Rigid Body]] displacement** ([[translation]] and rotation of the entire body without deformation) and **deformational displacement**.
 
 #### **Illustrative Example**
 

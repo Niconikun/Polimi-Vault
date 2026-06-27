@@ -13,7 +13,7 @@
 
 ### Foundational Contributors
 1. **Nicolas Minorsky:** While he popularized the [[PID Controller]], he also warned about the dangers of the integral term "saturating" the logic of the system.
-2. **Karl Johan Åström:** A giant in control theory who formalized the mathematical methods for preventing windup in digital controllers.
+2. **Karl Johan Åström:** A giant in [[control theory]] who formalized the mathematical methods for preventing windup in digital controllers.
 
 ## Mathematical Formulation
 

@@ -44,7 +44,7 @@ $$\mathbf{A}^T\mathbf{P} + \mathbf{P}\mathbf{A} - \mathbf{P}\mathbf{B}\mathbf{R}
 
 ### Solving the Equation
 Unlike linear equations (like $2x = 4$), the Riccati equation is **Quadratic**. This means it can have multiple solutions. 
-- In control theory, we always seek the **Positive Definite** solution. 
+- In [[control theory]], we always seek the **Positive Definite** solution. 
 - Physically, this represents a "bowl" where the lowest point is the target. A negative-definite solution would be like trying to balance a ball on top of a hill—it’s mathematically a solution, but physically unstable.
 
 ## Physical Interpretation
